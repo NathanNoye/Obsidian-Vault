@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "fa389cff0d4b8647",
+    "type": "split",
+    "children": [
+      {
+        "id": "062ff1ddcc7b985a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed1ccdc413eaf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/John.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "551e7b353fe98643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/John.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78263df899d9e406",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19ed8fc07be4e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28f046f9f61aca0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2a10b4aadf2d91b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc6dad1db9bc63a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79518f890eb08303",
+    "type": "split",
+    "children": [
+      {
+        "id": "655f39fde90c5c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3687ae25c8283496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bible Study/John.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efb24ae0d52f9d22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bible Study/John.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2203ccedc62d8de8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90b7594b274a22fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bible Study/John.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "1ed1ccdc413eaf87",
+  "lastOpenFiles": [
+    "Bible Study/Reading plan.md",
+    "Bible Study/John.md",
+    "Markdown Cheat Sheet.md",
+    "Bible Study",
+    "images/mountains-grass.png",
+    "images/mountain-grass.png",
+    "images/mountain_grass.png",
+    "images/Screenshot 2023-06-25 at 5.41.24 PM.png",
+    "images/mountains-grass.jpg.md",
+    "images"
+  ]
+}
