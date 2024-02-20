@@ -1,0 +1,34 @@
+# Joshua 12
+
+(previous:: [[Josh 11|← Joshua 11]]) | (up:: [[Bibles/CSB/06 - Joshua/Joshua]]) | (next:: [[Josh 13|Joshua 13 →]])
+
+***
+
+
+###### 1 
+The Israelites struck down the following kings of the land and took possession of their land beyond the Jordan to the east and from the Arnon River to Mount Hermon, including all the Arabah eastward: 
+
+###### 2 
+King Sihon of the Amorites lived in Heshbon. He ruled from Aroer on the rim of the Arnon River, along the middle of the valley, and half of Gilead up to the Jabbok River (the border of the Ammonites), 
+
+###### 3 
+the Arabah east of the Sea of Chinnereth to the Sea of Arabah (that is, the Dead Sea), eastward through Beth-jeshimoth and southward below the slopes of Pisgah. 
+
+###### 4 
+King Og of Bashan, of the remnant of the Rephaim, lived in Ashtaroth and Edrei. 
+
+###### 5 
+He ruled over Mount Hermon, Salecah, all Bashan up to the Geshurite and Maacathite border, and half of Gilead to the border of King Sihon of Heshbon. 
+
+###### 6 
+Moses the Lord's servant and the Israelites struck them down. And Moses the Lord's servant gave their land as an inheritance to the Reubenites, Gadites, and half the tribe of Manasseh.Territory West of the Jordan 
+
+###### 7 
+Joshua and the Israelites struck down the following kings of the land beyond the Jordan to the west, from Baal-gad in the Valley of Lebanon to Mount Halak, which ascends toward Seir (Joshua gave their land as an inheritance to the tribes of Israel according to their allotments: 
+
+###### 8 
+the hill country, the Judean foothills, the Arabah, the slopes, the wilderness, and the Negev--the lands of the Hethites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):
+
+***
+
+(previous:: [[Josh 11|← Joshua 11]]) | (up:: [[Bibles/CSB/06 - Joshua/Joshua]]) | (next:: [[Josh 13|Joshua 13 →]])

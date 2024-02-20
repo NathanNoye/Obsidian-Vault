@@ -1,3 +1,0 @@
-Author:
-Background:
-Time period:

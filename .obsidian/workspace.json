@@ -4,29 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "062ff1ddcc7b985a",
+        "id": "9f087138a8f11734",
         "type": "tabs",
+        "dimension": 62.21098265895954,
         "children": [
           {
-            "id": "1ed1ccdc413eaf87",
+            "id": "637ce308ef9d4052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/John.md",
+                "file": "Bible Study/Going through the bible/01 - John.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "551e7b353fe98643",
+            "id": "c25e3230c09e6b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/John.md",
+                "file": "Bible Study/The Apostles/Andrew.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0435537954802a5e",
+        "type": "tabs",
+        "dimension": 37.78901734104046,
+        "children": [
+          {
+            "id": "cf20ca04f01201b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/John.md",
+                "file": "Bible Study/Going through the bible/01 - John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/John.md",
+                "file": "Bible Study/Going through the bible/01 - John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/John.md"
+                "file": "Bible Study/Going through the bible/01 - John.md"
               }
             }
           }
@@ -159,17 +179,47 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1ed1ccdc413eaf87",
+  "active": "637ce308ef9d4052",
   "lastOpenFiles": [
-    "Bible Study/Reading plan.md",
-    "Bible Study/John.md",
-    "Markdown Cheat Sheet.md",
-    "Bible Study",
+    "Bibles/CSB/43 - John/John 2.md",
+    "Bibles/CSB/43 - John/John 1.md",
+    "Bible Study/Going through the bible/01 - John.md",
+    "Bible Study/The Apostles/Bartholomew (Nathanael).md",
+    "Nathaneal.md",
+    "Bible Study/The Apostles/Simon Peter.md",
+    "Bible Study/Study topics/How do we be \"Born of God\"?.md",
+    "Bible Study/Study topics/How is God GOD and JESUS.md",
+    "Bible Study/The Apostles/Andrew.md",
+    "Bible Study/The Apostles/John.md",
+    "Bible Study/Study topics",
+    "Bible Study/Going through the bible/Reading plan.md",
+    "Bible Study/Notable Figures/John the Baptist.md",
+    "Bibles/CSB/43 - John/John.md",
+    "Bible Study/Misc/Cause and Effect.md",
+    "Bible Study/Misc",
+    "Bible Study/Notable Figures/Jesus.md",
+    "How to download other versions of the bible.md",
+    "Bibles/KJV/66 - Revelation/Rev 9.md",
+    "Bibles/KJV/66 - Revelation/Rev 8.md",
+    "Bibles/KJV/66 - Revelation/Rev 7.md",
+    "Bibles/KJV/66 - Revelation/Rev 6.md",
+    "Bibles/KJV/66 - Revelation/Rev 5.md",
+    "Bibles/KJV/66 - Revelation/Rev 4.md",
+    "Bibles/KJV/66 - Revelation/Rev 22.md",
+    "Bibles/KJV/66 - Revelation/Rev 3.md",
+    "Bibles/KJV/66 - Revelation/Rev 21.md",
+    "Bibles/KJV/66 - Revelation/Rev 2.md",
+    "Bibles/KJV/66 - Revelation",
+    "Bibles/KJV/65 - Jude",
+    "Bibles/KJV/64 - 3 John",
+    "Bibles/KJV/63 - 2 John",
+    "Bibles/KJV/62 - 1 John",
+    "Bibles/KJV/61 - 2 Peter",
+    "Bibles/KJV/60 - 1 Peter",
+    "Bibles/KJV/59 - James",
     "images/mountains-grass.png",
     "images/mountain-grass.png",
     "images/mountain_grass.png",
-    "images/Screenshot 2023-06-25 at 5.41.24 PM.png",
-    "images/mountains-grass.jpg.md",
-    "images"
+    "images/Screenshot 2023-06-25 at 5.41.24 PM.png"
   ]
 }
