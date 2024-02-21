@@ -1,4 +1,11 @@
 {
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Bibles/ESV/",
+    "Bibles/NASB1995/",
+    "Bibles/KJV/",
+    "Bibles/WEB/",
+    "Bibles/NLT/"
+  ]
 }
