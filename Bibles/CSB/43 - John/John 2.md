@@ -1,12 +1,12 @@
 # John 2
 
-(previous:: [[John 1|← John 1]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 3|John 3 →]])
+(previous:: [[Bibles/CSB/43 - John/John 1|← John 1]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[Bibles/CSB/43 - John/John 3|John 3 →]])
 
 ***
 
 
 ###### 1 
-On the third day a wedding took place in Cana of Galilee. Jesus's mother was there, 
+On the third day a wedding took place in [[Cana]] of Galilee. Jesus's mother was there, 
 
 ###### 2 
 and Jesus and his disciples were invited to the wedding as well. 
@@ -39,7 +39,9 @@ and told him, "Everyone sets out the fine wine first, then, after people are dru
 Jesus did this, the first of his signs, in Cana of Galilee. He revealed his glory, and his disciples believed in him. 
 
 ###### 12 
-After this, he went down to Capernaum, together with his mother, his brothers, and his disciples, and they stayed there only a few days.Cleansing the Temple 
+After this, he went down to Capernaum, together with his mother, his brothers, and his disciples, and they stayed there only a few days.
+
+### Cleansing the Temple 
 
 ###### 13 
 The Jewish Passover was near, and so Jesus went up to Jerusalem. 
@@ -54,7 +56,7 @@ After making a whip out of cords, he drove everyone out of the temple with their
 He told those who were selling doves, **"Get these things out of here! Stop turning my Father's** **house** **into a marketplace!"** 
 
 ###### 17 
-And his disciples remembered that it is written: <b class="quote">Zeal** <b class="quote">for your house will consume** <b class="quote">me.** 
+And his disciples remembered that it is written: Zeal **for your house will consume me.** 
 
 ###### 18 
 So the Jews replied to him, "What sign will you show us for doing these things?" 
@@ -82,4 +84,4 @@ and because he did not need anyone to testify about man; for he himself knew wha
 
 ***
 
-(previous:: [[John 1|← John 1]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 3|John 3 →]])
+(previous:: [[Bibles/CSB/43 - John/John 1|← John 1]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[Bibles/CSB/43 - John/John 3|John 3 →]])

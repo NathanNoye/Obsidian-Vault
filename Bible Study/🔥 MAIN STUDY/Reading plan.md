@@ -1,4 +1,4 @@
-1. [[01 - John|John]] 
+1. [[Bible Study/🔥 MAIN STUDY/01 - John/John 1|John]] 
 2. Mark 
 3. Matthew 
 4. Luke 

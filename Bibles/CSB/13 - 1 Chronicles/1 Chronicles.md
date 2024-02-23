@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[Bibles/KJV/The Bible]]
 # 1 Chronicles
 
 [[1 Chr 1|Start Reading →]]

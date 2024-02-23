@@ -1,11 +1,11 @@
 Author: [[Bible Study/The Apostles/John|John]]
 Date Written: 70 AD - 110 AD
 
-[[John 1|Start Reading →]]
+[[Bibles/CSB/43 - John/John 1|Start Reading →]]
 
 ### Key Themes and Content
 
-- **The Divinity of Christ**: John emphasizes Jesus as the incarnate Word of God (Logos), highlighting his divine nature from the very beginning: "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1).
+- **The Divinity of Christ**: John emphasizes Jesus as the incarnate Word of God (Logos), highlighting his divine nature from the very beginning: "In the beginning was the Word, and the Word was with God, and the Word was God" ([[Bibles/CSB/43 - John/John 1#1|John 1:1]]).
 - **Signs and Miracles**: The gospel records several miracles or "signs" performed by Jesus, such as turning water into wine at Cana (John 2:1-11) and raising Lazarus from the dead (John 11:1-44). These miracles serve to demonstrate Jesus' divine authority and his role as the Messiah.
 - **"I Am" Statements**: John features several profound statements by Jesus known as the "I Am" sayings, where Jesus identifies himself with God, using phrases like "I am the bread of life" (John 6:35) and "I am the way, the truth, and the life" (John 14:6). These statements further underscore his divinity and mission.
 - **The New Commandment**: Jesus gives a new commandment to his disciples: "Love one another. As I have loved you, so you must love one another" (John 13:34). This command underscores the gospel's focus on love as central to Christian life and belief.

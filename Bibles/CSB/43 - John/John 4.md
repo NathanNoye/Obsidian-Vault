@@ -1,6 +1,6 @@
 # John 4
 
-(previous:: [[John 3|← John 3]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 5|John 5 →]])
+(previous:: [[Bibles/CSB/43 - John/John 3|← John 3]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 5|John 5 →]])
 
 ***
 
@@ -169,4 +169,4 @@ Now this was also the second sign Jesus performed after he came from Judea to Ga
 
 ***
 
-(previous:: [[John 3|← John 3]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 5|John 5 →]])
+(previous:: [[Bibles/CSB/43 - John/John 3|← John 3]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 5|John 5 →]])

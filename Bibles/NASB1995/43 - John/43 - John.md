@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[Bibles/KJV/The Bible]]
 # 43 - John
 
-[[John 1|Start Reading →]]
+[[Bibles/NASB1995/43 - John/John 1|Start Reading →]]

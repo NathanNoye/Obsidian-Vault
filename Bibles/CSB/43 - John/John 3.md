@@ -1,6 +1,6 @@
 # John 3
 
-(previous:: [[John 2|← John 2]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 4|John 4 →]])
+(previous:: [[Bibles/CSB/43 - John/John 2|← John 2]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 4|John 4 →]])
 
 ***
 
@@ -66,7 +66,9 @@ Jesus answered, **"Truly I tell you, unless someone is born** **of water and the
 **For everyone who does evil hates** **the light and avoids it,** **so that his deeds** **may not be exposed.** 
 
 ###### 21 
-**But anyone who lives by** **the truth comes to the light, so that his works** **may be shown to be accomplished by God."**Jesus and John the Baptist 
+**But anyone who lives by** **the truth comes to the light, so that his works** **may be shown to be accomplished by God."**
+
+### Jesus and John the Baptist 
 
 ###### 22 
 After this, Jesus and his disciples went to the Judean countryside, where he spent time with them and baptized. 
@@ -115,4 +117,4 @@ The one who believes in the Son has eternal life, but the one who rejects the So
 
 ***
 
-(previous:: [[John 2|← John 2]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 4|John 4 →]])
+(previous:: [[Bibles/CSB/43 - John/John 2|← John 2]]) | (up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 4|John 4 →]])

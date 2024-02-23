@@ -1,6 +1,6 @@
 # John 1
 
-(up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 2|John 2 →]])
+(up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[Bibles/CSB/43 - John/John 2|John 2 →]])
 
 ***
 
@@ -74,7 +74,7 @@ He didn't deny it but confessed, "I am not the Messiah."
 "Who are you, then?" they asked. "We need to give an answer to those who sent us. What can you tell us about yourself?" 
 
 ###### 23 
-He said, "I am a <b class="quote">voice of one crying out in the wilderness: Make straight the way of the Lord**--just as Isaiah the prophet said." 
+He said, "**I am a voice of one crying out in the wilderness: Make straight the way of the Lord**--just as Isaiah the prophet said." 
 
 ###### 24 
 Now they had been sent from the Pharisees. 
@@ -166,4 +166,4 @@ Then he said, **"Truly I tell you, you will see heaven opened and the angels of 
 
 ***
 
-(up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[John 2|John 2 →]])
+(up:: [[Bibles/CSB/43 - John/John]]) | (next:: [[Bibles/CSB/43 - John/John 2|John 2 →]])
