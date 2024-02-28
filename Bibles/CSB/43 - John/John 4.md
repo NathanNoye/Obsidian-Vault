@@ -81,8 +81,9 @@ Jesus told her, **"Believe me, woman, an hour is coming when you will worship th
 The woman said to him, "I know that the Messiah is coming" (who is called Christ). "When he comes, he will explain everything to us." 
 
 ###### 26 
-Jesus told her, **"I, the one speaking to you, am he."**The Ripened Harvest 
+Jesus told her, **"I, the one speaking to you, am he."**
 
+### The Ripened Harvest 
 ###### 27 
 Just then his disciples arrived, and they were amazed that he was talking with a woman. Yet no one said, "What do you want?" or "Why are you talking with her?" 
 
@@ -117,8 +118,9 @@ The disciples said to one another, "Could someone have brought him something to 
 **For in this case the saying is true: 'One sows and another reaps.'** 
 
 ###### 38 
-**I sent you to reap what you didn't labor for; others have labored, and you have benefited from** **their labor."**The Savior of the World 
+**I sent you to reap what you didn't labor for; others have labored, and you have benefited from** **their labor."**
 
+### The Savior of the World 
 ###### 39 
 Now many Samaritans from that town believed in him because of what the woman said when she testified, "He told me everything I ever did." 
 
@@ -129,8 +131,9 @@ So when the Samaritans came to him, they asked him to stay with them, and he sta
 Many more believed because of what he said. 
 
 ###### 42 
-And they told the woman, "We no longer believe because of what you said, since we have heard for ourselves and know that this really is the Savior of the world."A Galilean Welcome 
+And they told the woman, "We no longer believe because of what you said, since we have heard for ourselves and know that this really is the Savior of the world."
 
+### A Galilean Welcome 
 ###### 43 
 After two days he left there for Galilee. 
 
@@ -138,10 +141,11 @@ After two days he left there for Galilee.
 (Jesus himself had testified that a prophet has no honor in his own country.) 
 
 ###### 45 
-When they entered Galilee, the Galileans welcomed him because they had seen everything he did in Jerusalem during the festival. For they also had gone to the festival.The Second Sign: Healing an Official's Son 
+When they entered Galilee, the Galileans welcomed him because they had seen everything he did in Jerusalem during the festival. For they also had gone to the festival.
 
+### The Second Sign: Healing an Official's Son 
 ###### 46 
-He went again to Cana of Galilee, where he had turned the water into wine. There was a certain royal official whose son was ill at Capernaum. 
+He went again to [[Cana]] of Galilee, where he had turned the water into wine. There was a certain royal official whose son was ill at Capernaum. 
 
 ###### 47 
 When this man heard that Jesus had come from Judea into Galilee, he went to him and pleaded with him to come down and heal his son, since he was about to die. 

@@ -61,7 +61,7 @@ The four Gospels recount the life, ministry, death, and resurrection of Jesus Ch
 1. Matthew
 2. Mark
 3. Luke
-4. John
+4. [[Bibles/CSB/43 - John/John|John]]
 
 **Acts** 
 This book details the early history of the Christian church following Jesus' ascension into heaven, focusing on the acts of the Apostles, especially Peter and Paul, and the spread of the gospel.

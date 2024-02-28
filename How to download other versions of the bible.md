@@ -4,3 +4,10 @@
 4. Wait for the bible to download
 5. Once it's done, rename it to only the translation name and move the "The Bible.md" file into the folder
 6. Move the folder in the Bibles file inside the main vault
+
+
+### Versions I need to download:
+- ESV
+- KJV
+- NASB1995
+- NLT

@@ -15,12 +15,23 @@
               "type": "markdown",
               "state": {
                 "file": "Bibles/CSB/43 - John/John 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f63530e766d5d010",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-28 10.54.56.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b133770da4704494",
@@ -28,19 +39,19 @@
         "dimension": 51.66184971098266,
         "children": [
           {
-            "id": "51b6b4e8eaca0f71",
+            "id": "c85fe84aec3ea0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
+                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "90ae4b5b9d787eee",
+            "id": "5010b2d5c6bf8e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,12 +63,12 @@
             }
           },
           {
-            "id": "0e773a177cba90dc",
+            "id": "532ebe9895cde78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/Study topics/How do we be \"Born of God\"?.md",
+                "file": "Bible Study/Nate's random notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/Study topics/Is Baptism needed for salvation?.md",
+                "file": "Excalidraw/Drawing 2024-02-28 10.54.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/Study topics/Is Baptism needed for salvation?.md",
+                "file": "Excalidraw/Drawing 2024-02-28 10.54.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/Study topics/Is Baptism needed for salvation?.md"
+                "file": "Excalidraw/Drawing 2024-02-28 10.54.56.excalidraw.md"
               }
             }
           }
@@ -189,49 +200,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90ae4b5b9d787eee",
+  "active": "f63530e766d5d010",
   "lastOpenFiles": [
     "Bibles/CSB/43 - John/John 3.md",
+    "Excalidraw/Drawing 2024-02-28 10.54.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-28 10.54.03.excalidraw.md",
+    "Excalidraw",
+    "Bible Study/Primer/The Bible.md",
     "Bibles/CSB/43 - John/John 4.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
     "Bible Study/Study topics/Is Baptism needed for salvation?.md",
-    "Bibles/CSB/26 - Ezekiel/Ezek 36.md",
-    "Untitled.md",
-    "Bibles/CSB/48 - Galatians/Gal 3.md",
-    "Bible Study/Study topics/How do we be \"Born of God\"?.md",
-    "Bibles/CSB/41 - Mark/Mark 16.md",
-    "Bibles/CSB/45 - Romans/Rom 6.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John/John 2.md",
-    "Bibles/CSB/59 - James/Jas 2.md",
-    "Bibles/CSB/44 - Acts/Acts 2.md",
     "Bibles/CSB/40 - Matthew/Matt 28.md",
-    "Bibles/CSB/49 - Ephesians/Eph 2.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John/John 1.md",
+    "Bibles/CSB/40 - Matthew/Matt 3.md",
+    "How to download other versions of the bible.md",
+    "Bibles/ESV/01 - Genesis/Gen 9.md",
+    "Bibles/ESV/01 - Genesis/01 - Genesis.md",
+    "Bible Study/Primer/Books of the Bible.md",
     "Bibles/CSB/43 - John/John.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John",
-    "Bibles/CSB/43 - John/John 2.md",
-    "Bibles/CSB/19 - Psalms/Ps 69.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John/John 2.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John/John 1.md",
+    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
     "Bible Study/Locations/Cana/Cana.md",
-    "Bible Study/Locations/Bethsaida/Bethsaida.md",
+    "Great resources.md",
+    "Bible Study/People in the Bible/Nicodemus.md",
+    "Bible Study/Study topics/ARCHIVED - Is Baptism needed for salvation?.md",
+    "Bible Study/Nate's random notes.md",
+    "Bibles/CSB/41 - Mark/Mark 12.md",
+    "Bibles/CSB/41 - Mark/Mark 1.md",
+    "Bibles/CSB/41 - Mark/Mark 16.md",
+    "ARCHIVED",
+    "Bible Study/Study topics/The Denominations",
+    "Bible Study/🔥 MAIN STUDY/01 - John",
     "Bible Study/Locations/Cana/images/cana.jpg",
     "Bible Study/Locations/Cana/images",
     "Bible Study/Locations/Cana",
-    "Bibles/CSB/43 - John/John 1.md",
-    "Bibles/CSB/23 - Isaiah/Isa 40.md",
-    "Bibles/CSB/23 - Isaiah/Isa 43.md",
-    "Bibles/CSB/24 - Jeremiah/Jer 43.md",
-    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
     "Bible Study/Study topics/Gifts of the Spirit",
     "Bible Study/Study topics/Fruits of the Spirit",
     "Books",
     "Bible Study/Questions",
-    "Bible Study/The Apostles/Broader Apostles",
-    "Bible Study/Primer",
     "Bible Study/Locations/Bethsaida/images/bethsaida.jpg",
-    "Bible Study/Locations/Bethsaida/images",
     "images/mountains-grass.png",
     "images/mountain-grass.png",
     "images/mountain_grass.png",

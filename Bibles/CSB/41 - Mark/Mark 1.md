@@ -9,10 +9,11 @@
 The beginning of the gospel of Jesus Christ, the Son of God. 
 
 ###### 2 
-As it is written in Isaiah the prophet: <b class="quote">See, I am sending my messenger** <b class="quote">ahead of you;** <b class="quote">he will prepare your way.** 
-
+As it is written in Isaiah the prophet:
+>**See, I am sending my messenger ahead of you he will prepare your way.** 
 ###### 3 
-<b class="quote">A voice of one crying out in the wilderness:** <b class="quote">Prepare the way for the Lord;** <b class="quote">make his paths straight!** 
+> **A voice of one crying out in the wilderness:** Prepare the way for the Lord;
+> make his paths straight!
 
 ###### 4 
 John came baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. 
@@ -27,7 +28,9 @@ John wore a camel-hair garment with a leather belt around his waist and ate locu
 He proclaimed, "One who is more powerful than I am is coming after me. I am not worthy to stoop down and untie the strap of his sandals. 
 
 ###### 8 
-I baptize you with water, but he will baptize you with the Holy Spirit."The Baptism of Jesus 
+I baptize you with water, but he will baptize you with the Holy Spirit."
+
+The Baptism of Jesus 
 
 ###### 9 
 In those days Jesus came from Nazareth in Galilee and was baptized in the Jordan by John. 

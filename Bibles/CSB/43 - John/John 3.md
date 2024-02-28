@@ -95,8 +95,10 @@ You yourselves can testify that I said, 'I am not the Messiah, but I've been sen
 He who has the bride is the groom. But the groom's friend, who stands by and listens for him, rejoices greatly at the groom's voice. So this joy of mine is complete. 
 
 ###### 30 
-He must increase, but I must decrease."The One from Heaven 
+He must increase, but I must decrease."
 
+
+### The One from Heaven 
 ###### 31 
 The one who comes from above is above all. The one who is from the earth is earthly and speaks in earthly terms. The one who comes from heaven is above all. 
 

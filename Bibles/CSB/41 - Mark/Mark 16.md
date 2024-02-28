@@ -27,8 +27,12 @@ When they entered the tomb, they saw a young man dressed in a white robe sitting
 But go, tell his disciples and Peter, 'He is going ahead of you to Galilee; you will see him there just as he told you.'" 
 
 ###### 8 
-They went out and ran from the tomb, because trembling and astonishment overwhelmed them. And they said nothing to anyone, since they were afraid.The Longer Ending of Mark: Appearances of the Risen Lord [ 
+They went out and ran from the tomb, because trembling and astonishment overwhelmed them. And they said nothing to anyone, since they were afraid.
 
+> [!warning] The earliest manuscripts and some other ancient witnesses do not have verses 9–20.
+
+
+**The Longer Ending of Mark: Appearances of the Risen Lord**
 ###### 9 
 Early on the first day of the week, after he had risen, he appeared first to Mary Magdalene, out of whom he had driven seven demons. 
 
@@ -57,8 +61,9 @@ Then he said to them, **"Go into all the world** **and preach the gospel to all 
 **And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;** 
 
 ###### 18 
-**they will pick up snakes;** **if they should drink anything deadly, it will not harm** **them; they will lay hands on** **the sick, and they will get well."**The Ascension 
+**they will pick up snakes;** **if they should drink anything deadly, it will not harm** **them; they will lay hands on** **the sick, and they will get well."
 
+**The Ascension**
 ###### 19 
 So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God. 
 

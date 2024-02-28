@@ -1,2 +1,0 @@
-**Summary**
-[[Bibles/CSB/43 - John/John 3#5|John 3:5]] - water extremely likely baptism. I wrote a more in depth article called [[Is Baptism needed for salvation?]] that dives into the 2 school of thoughts. In short - it's needed.
