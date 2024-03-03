@@ -7,7 +7,4 @@
 
 
 ### Versions I need to download:
-- ESV
-- KJV
-- NASB1995
 - NLT

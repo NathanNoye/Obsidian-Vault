@@ -24,3 +24,5 @@ Baptism has been used as a rite of initiation, showing the inductee’s entranc
 [[Bibles/CSB/43 - John/John 3#6|John 3:6]] seems to be emphasizing the distinction between physical and spiritual in [[Bibles/CSB/43 - John/John 3#5|John 3:5]]. Or is this emphasizing being born again?
 [[Bibles/CSB/41 - Mark/Mark 16#16|Mark 16:16]] seems to make it clear that we need baptism BUT those verses are very likely to have been added in after. Do the other gospels say the same thing?
 [[Bibles/CSB/41 - Mark/Mark 1#8|Mark 1:8]] is talking about how John baptized with water but Jesus baptizes with the Holy Spirit.
+
+[[Father, Son, and Holy Spirit]]

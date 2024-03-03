@@ -1,0 +1,67 @@
+# 16 - Nehemiah 6
+
+(previous:: [[Neh 5|← 16 - Nehemiah 5]]) | (up:: [[16 - Nehemiah]]) | (next:: [[Neh 7|16 - Nehemiah 7 →]])
+
+***
+
+
+###### 1 
+Now when it was reported to Sanballat, Tobiah, to Geshem the Arab and to the rest of our enemies that I had rebuilt the wall, and _that_ no breach remained in it, although at that time I had not set up the doors in the gates, 
+
+###### 2 
+then Sanballat and Geshem sent _a message_ to me, saying, "Come, let us meet together at Chephirim in the plain of Ono." But they were planning to harm me. 
+
+###### 3 
+So I sent messengers to them, saying, "I am doing a great work and I cannot come down. Why should the work stop while I leave it and come down to you?" 
+
+###### 4 
+They sent _messages_ to me four times in this manner, and I answered them in the same way. 
+
+###### 5 
+Then Sanballat sent his servant to me in the same manner a fifth time with an open letter in his hand. 
+
+###### 6 
+In it was written, "It is reported among the nations, and Gashmu says, that you and the Jews are planning to rebel; therefore you are rebuilding the wall. And you are to be their king, according to these reports. 
+
+###### 7 
+You have also appointed prophets to proclaim in Jerusalem concerning you, 'A king is in Judah!' And now it will be reported to the king according to these reports. So come now, let us take counsel together." 
+
+###### 8 
+Then I sent _a message_ to him saying, "Such things as you are saying have not been done, but you are inventing them in your own mind." 
+
+###### 9 
+For all of them were _trying_ to frighten us, thinking, "They will become discouraged with the work and it will not be done." But now, _O God_, strengthen my hands. 
+
+###### 10 
+When I entered the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined at home, he said, "Let us meet together in the house of God, within the temple, and let us close the doors of the temple, for they are coming to kill you, and they are coming to kill you at night." 
+
+###### 11 
+But I said, "Should a man like me flee? And could one such as I go into the temple to save his life? I will not go in." 
+
+###### 12 
+Then I perceived that surely God had not sent him, but he uttered _his_ prophecy against me because Tobiah and Sanballat had hired him. 
+
+###### 13 
+He was hired for this reason, that I might become frightened and act accordingly and sin, so that they might have an evil report in order that they could reproach me. 
+
+###### 14 
+Remember, O my God, Tobiah and Sanballat according to these works of theirs, and also Noadiah the prophetess and the rest of the prophets who were _trying_ to frighten me.The Wall Is Finished 
+
+###### 15 
+So the wall was completed on the twenty-fifth of _the month_ Elul, in fifty-two days. 
+
+###### 16 
+When all our enemies heard _of it_, and all the nations surrounding us saw _it_, they lost their confidence; for they recognized that this work had been accomplished with the help of our God. 
+
+###### 17 
+Also in those days many letters went from the nobles of Judah to Tobiah, and Tobiah's _letters_ came to them. 
+
+###### 18 
+For many in Judah were bound by oath to him because he was the son-in-law of Shecaniah the son of Arah, and his son Jehohanan had married the daughter of Meshullam the son of Berechiah. 
+
+###### 19 
+Moreover, they were speaking about his good deeds in my presence and reported my words to him. Then Tobiah sent letters to frighten me.
+
+***
+
+(previous:: [[Neh 5|← 16 - Nehemiah 5]]) | (up:: [[16 - Nehemiah]]) | (next:: [[Neh 7|16 - Nehemiah 7 →]])

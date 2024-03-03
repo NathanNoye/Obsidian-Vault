@@ -1,0 +1,142 @@
+# 41 - Mark 12
+
+(previous:: [[Mark 11|← 41 - Mark 11]]) | (up:: [[41 - Mark]]) | (next:: [[Mark 13|41 - Mark 13 →]])
+
+***
+
+
+###### 1 
+Then He began to speak to them in parables: **"A man planted a vineyard and set a hedge around _it,_ dug _a place for_ the wine vat and built a tower. And he leased it to** **vinedressers and went into a far country.** 
+
+###### 2 
+**Now at vintage-time he sent a servant to the vinedressers, that he might receive some of the fruit of the vineyard from the vinedressers.** 
+
+###### 3 
+**And they took _him_ and beat him and sent _him_ away empty-handed.** 
+
+###### 4 
+**Again he sent them another servant,** **and at him they threw stones, wounded _him_ in the head, and sent _him_ away shamefully treated.** 
+
+###### 5 
+**And again he sent another, and him they killed; and many others,** **beating some and killing some.** 
+
+###### 6 
+**Therefore still having one son, his beloved, he also sent him to them last, saying, 'They will respect my son.'** 
+
+###### 7 
+**But those** **vinedressers said among themselves, 'This is the heir. Come, let us kill him, and the inheritance will be ours.'** 
+
+###### 8 
+**So they took him and** **killed _him_ and cast _him_ out of the vineyard.** 
+
+###### 9 
+**"Therefore what will the owner of the vineyard do? He will come and destroy the vinedressers, and give the vineyard to others.** 
+
+###### 10 
+**Have you not even read this Scripture:** **'The stone which the builders rejected** **Has become the chief cornerstone.** 
+
+###### 11 
+**This was the Lord**'s doing, **And it is marvelous in our eyes'?"** 
+
+###### 12 
+And they sought to lay hands on Him, but feared the multitude, for they knew He had spoken the parable against them. So they left Him and went away.The Pharisees: Is It Lawful to Pay Taxes to Caesar? 
+
+###### 13 
+Then they sent to Him some of the Pharisees and the Herodians, to catch Him in _His_ words. 
+
+###### 14 
+When they had come, they said to Him, "Teacher, we know that You are true, and care about no one; for You do not regard the person of men, but teach the way of God in truth. Is it lawful to pay taxes to Caesar, or not? 
+
+###### 15 
+Shall we pay, or shall we not pay?" But He, knowing their hypocrisy, said to them, **"Why do you test Me? Bring Me a denarius that I may see _it._"** 
+
+###### 16 
+So they brought _it._ And He said to them, **"Whose image and inscription _is_ this?"** They said to Him, "Caesar's." 
+
+###### 17 
+And Jesus answered and said to them, **"Render to Caesar the things that are Caesar's, and to** **God the things that are God's."** And they marveled at Him.The Sadducees: What About the Resurrection? 
+
+###### 18 
+Then _some_ Sadducees, who say there is no resurrection, came to Him; and they asked Him, saying: 
+
+###### 19 
+"Teacher, Moses wrote to us that if a man's brother dies, and leaves _his_ wife behind, and leaves no children, his brother should take his wife and raise up offspring for his brother. 
+
+###### 20 
+Now there were seven brothers. The first took a wife; and dying, he left no offspring. 
+
+###### 21 
+And the second took her, and he died; nor did he leave any offspring. And the third likewise. 
+
+###### 22 
+So the seven had her and left no offspring. Last of all the woman died also. 
+
+###### 23 
+Therefore, in the resurrection, when they rise, whose wife will she be? For all seven had her as wife." 
+
+###### 24 
+Jesus answered and said to them, **"Are you not therefore** **mistaken, because you do not know the Scriptures nor the power of God?** 
+
+###### 25 
+**For when they rise from the dead, they neither marry nor are given in marriage, but** **are like angels in heaven.** 
+
+###### 26 
+**But concerning the dead, that they** **rise, have you not read in the book of Moses, in the _burning_ bush _passage,_ how God spoke to him, saying,** **'I _am_ the God of Abraham, the God of Isaac, and the God of Jacob'?** 
+
+###### 27 
+**He is not the God of the dead, but the God of the living. You are therefore greatly** **mistaken."**The Scribes: Which Is the First Commandment of All? 
+
+###### 28 
+Then one of the scribes came, and having heard them reasoning together, perceiving that He had answered them well, asked Him, "Which is the first commandment of all?" 
+
+###### 29 
+Jesus answered him, **"The** **first of all the commandments _is:_** **'Hear, O Israel, the Lord** our God, the Lord is one. 
+
+###### 30 
+**And you shall** **love the Lord** your God with all your heart, with all your soul, with all your mind, and with all your strength.' **This _is_ the first commandment.** 
+
+###### 31 
+**And the second, like _it, is_ this:** **'You shall love your neighbor as yourself.' There is no other commandment greater than** **these."** 
+
+###### 32 
+So the scribe said to Him, "Well _said,_ Teacher. You have spoken the truth, for there is one God, and there is no other but He. 
+
+###### 33 
+And to love Him with all the heart, with all the understanding, with all the soul, and with all the strength, and to love one's neighbor as oneself, is more than all the whole burnt offerings and sacrifices." 
+
+###### 34 
+Now when Jesus saw that he answered wisely, He said to him, **"You are not far from the kingdom of God."** But after that no one dared question Him.Jesus: How Can David Call His Descendant Lord? 
+
+###### 35 
+Then Jesus answered and said, while He taught in the temple, **"How _is it_ that the scribes say that the Christ is the Son of David?** 
+
+###### 36 
+**For David himself said** **by the Holy Spirit:** **'The Lord** said to my Lord, **"Sit at My right hand,** **Till I make Your enemies Your footstool." '** 
+
+###### 37 
+**Therefore David himself calls Him 'Lord'; how is He _then_ his** **Son?"** And the common people heard Him gladly.Beware of the Scribes 
+
+###### 38 
+Then He said to them in His teaching, **"Beware of the scribes, who desire to go around in long robes,** **_love_ greetings in the marketplaces,** 
+
+###### 39 
+**the** **best seats in the synagogues, and the best places at feasts,** 
+
+###### 40 
+**who devour widows' houses, and** **for a pretense make long prayers. These will receive greater condemnation."**The Widow's Two Mites 
+
+###### 41 
+Now Jesus sat opposite the treasury and saw how the people put money into the treasury. And many _who were_ rich put in much. 
+
+###### 42 
+Then one poor widow came and threw in two mites, which make a quadrans. 
+
+###### 43 
+So He called His disciples to _Himself_ and said to them, **"Assuredly, I say to you that** **this poor widow has put in more than all those who have given to the treasury;** 
+
+###### 44 
+**for they all put in out of their abundance, but she out of her poverty put in all that she had,** **her whole livelihood."**
+
+***
+
+(previous:: [[Mark 11|← 41 - Mark 11]]) | (up:: [[41 - Mark]]) | (next:: [[Mark 13|41 - Mark 13 →]])

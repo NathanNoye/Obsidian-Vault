@@ -52,3 +52,14 @@ This chapter is one of the most important in the entire gospel. Many crucial ide
 
 ---
 # John 4
+**summary** - The chapter begins with Jesus leaving Judea for Galilee, choosing to pass through Samaria (which was unusual for Jews at the time due to deep-seated animosities between Jews and Samaritans). In Samaria, He stops at Jacob's well near the town of Sychar. While resting there, He has a profound conversation with a Samaritan woman who comes to draw water. This interaction breaks several social conventions: speaking with a Samaritan, a woman, and someone with a questionable moral background.
+
+Jesus speaks to her about living water, leading to a discussion about true worship and the coming Messiah. The woman recognizes Jesus as a prophet and eventually realizes He is the Messiah. Following their conversation, she becomes a witness to her town, leading many Samaritans to believe in Jesus.
+
+After the encounter, the narrative shifts to Jesus' discourse with His disciples about spiritual harvest and His mission. The chapter concludes with Jesus healing an official's son from a distance, demonstrating His authority and power, leading to faith in Him.
+
+> Jesus speaks to a Samaritan woman who is drawing water from a well. Jesus both confronts her about her sin, and comforts her with the truth of the gospel. In particular, He explains that even though He knows her sins, He still seeks after her, and those like her. The woman returns to town, eventually bringing many people to meet Jesus. The disciples, meanwhile, have to be reminded of the purpose of their mission. Jesus also heals the son of a government official in a way that demonstrates the importance of trusting faith, rather than reliance on spectacle.
+> 
+> - Bibleref.com
+
+[[John 4#10|John 4:10]] - One of the core principles involved in evangelism is the idea of "felt need." In short, a person can't act to correct a problem they don't know they have! Here, Jesus is introducing the woman to the fact that she has a spiritual thirst which needs to be satisfied. Later in the conversation, Jesus will be far more direct about the woman's sin. 

@@ -1,0 +1,64 @@
+# 59 - James 3
+
+(previous:: [[Jas 2|← 59 - James 2]]) | (up:: [[59 - James]]) | (next:: [[Jas 4|59 - James 4 →]])
+
+***
+
+
+###### 1 
+Let not many _of you_ become teachers, my brethren, knowing that as such we will incur a stricter judgment. 
+
+###### 2 
+For we all stumble in many _ways_. If anyone does not stumble in what he says, he is a perfect man, able to bridle the whole body as well. 
+
+###### 3 
+Now if we put the bits into the horses' mouths so that they will obey us, we direct their entire body as well. 
+
+###### 4 
+Look at the ships also, though they are so great and are driven by strong winds, are still directed by a very small rudder wherever the inclination of the pilot desires. 
+
+###### 5 
+So also the tongue is a small part of the body, and _yet_ it boasts of great things. See how great a forest is set aflame by such a small fire! 
+
+###### 6 
+And the tongue is a fire, the _very_ world of iniquity; the tongue is set among our members as that which defiles the entire body, and sets on fire the course of _our_ life, and is set on fire by hell. 
+
+###### 7 
+For every species of beasts and birds, of reptiles and creatures of the sea, is tamed and has been tamed by the human race. 
+
+###### 8 
+But no one can tame the tongue; _it is_ a restless evil _and_ full of deadly poison. 
+
+###### 9 
+With it we bless _our_ Lord and Father, and with it we curse men, who have been made in the likeness of God; 
+
+###### 10 
+from the same mouth come _both_ blessing and cursing. My brethren, these things ought not to be this way. 
+
+###### 11 
+Does a fountain send out from the same opening _both_ fresh and bitter _water_? 
+
+###### 12 
+Can a fig tree, my brethren, produce olives, or a vine produce figs? Nor _can_ salt water produce fresh.Wisdom from Above 
+
+###### 13 
+Who among you is wise and understanding? Let him show by his good behavior his deeds in the gentleness of wisdom. 
+
+###### 14 
+But if you have bitter jealousy and selfish ambition in your heart, do not be arrogant and _so_ lie against the truth. 
+
+###### 15 
+This wisdom is not that which comes down from above, but is earthly, natural, demonic. 
+
+###### 16 
+For where jealousy and selfish ambition exist, there is disorder and every evil thing. 
+
+###### 17 
+But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy. 
+
+###### 18 
+And the seed whose fruit is righteousness is sown in peace by those who make peace.
+
+***
+
+(previous:: [[Jas 2|← 59 - James 2]]) | (up:: [[59 - James]]) | (next:: [[Jas 4|59 - James 4 →]])

@@ -1,0 +1,115 @@
+# 18 - Job 9
+
+(previous:: [[Job 8|← 18 - Job 8]]) | (up:: [[18 - Job]]) | (next:: [[Job 10|18 - Job 10 →]])
+
+***
+
+
+###### 1 
+Then Job answered, 
+
+###### 2 
+"In truth I know that this is so; But how can a man be in the right before God? 
+
+###### 3 
+"If one wished to dispute with Him, He could not answer Him once in a thousand _times_. 
+
+###### 4 
+"Wise in heart and mighty in strength, Who has defied Him without harm? 
+
+###### 5 
+"_It is God_ who removes the mountains, they know not _how_, When He overturns them in His anger; 
+
+###### 6 
+Who shakes the earth out of its place, And its pillars tremble; 
+
+###### 7 
+Who commands the sun not to shine, And sets a seal upon the stars; 
+
+###### 8 
+Who alone stretches out the heavens And tramples down the waves of the sea; 
+
+###### 9 
+Who makes the Bear, Orion and the Pleiades, And the chambers of the south; 
+
+###### 10 
+Who does great things, unfathomable, And wondrous works without number. 
+
+###### 11 
+"Were He to pass by me, I would not see Him; Were He to move past _me_, I would not perceive Him. 
+
+###### 12 
+"Were He to snatch away, who could restrain Him? Who could say to Him, 'What are You doing?' 
+
+###### 13 
+"God will not turn back His anger; Beneath Him crouch the helpers of Rahab. 
+
+###### 14 
+"How then can I answer Him, _And_ choose my words before Him? 
+
+###### 15 
+"For though I were right, I could not answer; I would have to implore the mercy of my judge. 
+
+###### 16 
+"If I called and He answered me, I could not believe that He was listening to my voice. 
+
+###### 17 
+"For He bruises me with a tempest And multiplies my wounds without cause. 
+
+###### 18 
+"He will not allow me to get my breath, But saturates me with bitterness. 
+
+###### 19 
+"If _it is a matter_ of power, behold, _He is_ the strong one! And if _it is a matter_ of justice, who can summon Him? 
+
+###### 20 
+"Though I am righteous, my mouth will condemn me; Though I am guiltless, He will declare me guilty. 
+
+###### 21 
+"I am guiltless; I do not take notice of myself; I despise my life. 
+
+###### 22 
+"It is _all_ one; therefore I say, 'He destroys the guiltless and the wicked.' 
+
+###### 23 
+"If the scourge kills suddenly, He mocks the despair of the innocent. 
+
+###### 24 
+"The earth is given into the hand of the wicked; He covers the faces of its judges. If _it is_ not _He_, then who is it? 
+
+###### 25 
+"Now my days are swifter than a runner; They flee away, they see no good. 
+
+###### 26 
+"They slip by like reed boats, Like an eagle that swoops on its prey. 
+
+###### 27 
+"Though I say, 'I will forget my complaint, I will leave off my _sad_ countenance and be cheerful,' 
+
+###### 28 
+I am afraid of all my pains, I know that You will not acquit me. 
+
+###### 29 
+"I am accounted wicked, Why then should I toil in vain? 
+
+###### 30 
+"If I should wash myself with snow And cleanse my hands with lye, 
+
+###### 31 
+Yet You would plunge me into the pit, And my own clothes would abhor me. 
+
+###### 32 
+"For _He is_ not a man as I am that I may answer Him, That we may go to court together. 
+
+###### 33 
+"There is no umpire between us, Who may lay his hand upon us both. 
+
+###### 34 
+"Let Him remove His rod from me, And let not dread of Him terrify me. 
+
+###### 35 
+"_Then_ I would speak and not fear Him; But I am not like that in myself.
+
+***
+
+(previous:: [[Job 8|← 18 - Job 8]]) | (up:: [[18 - Job]]) | (next:: [[Job 10|18 - Job 10 →]])

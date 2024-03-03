@@ -1,0 +1,112 @@
+# 04 - Numbers 2
+
+(previous:: [[Num 1|← 04 - Numbers 1]]) | (up:: [[04 - Numbers]]) | (next:: [[Num 3|04 - Numbers 3 →]])
+
+***
+
+
+###### 1 
+Now the LORD spoke to Moses and to Aaron, saying, 
+
+###### 2 
+"The sons of Israel shall camp, each by his own standard, with the banners of their fathers' households; they shall camp around the tent of meeting at a distance. 
+
+###### 3 
+Now those who camp on the east side toward the sunrise _shall be_ of the standard of the camp of Judah, by their armies, and the leader of the sons of Judah: Nahshon the son of Amminadab, 
+
+###### 4 
+and his army, even their numbered men, 74,600. 
+
+###### 5 
+Those who camp next to him _shall be_ the tribe of Issachar, and the leader of the sons of Issachar: Nethanel the son of Zuar, 
+
+###### 6 
+and his army, even their numbered men, 54,400. 
+
+###### 7 
+_Then comes_ the tribe of Zebulun, and the leader of the sons of Zebulun: Eliab the son of Helon, 
+
+###### 8 
+and his army, even his numbered men, 57,400. 
+
+###### 9 
+The total of the numbered men of the camp of Judah: 186,400, by their armies. They shall set out first. 
+
+###### 10 
+"On the south side _shall be_ the standard of the camp of Reuben by their armies, and the leader of the sons of Reuben: Elizur the son of Shedeur, 
+
+###### 11 
+and his army, even their numbered men, 46,500. 
+
+###### 12 
+Those who camp next to him _shall be_ the tribe of Simeon, and the leader of the sons of Simeon: Shelumiel the son of Zurishaddai, 
+
+###### 13 
+and his army, even their numbered men, 59,300. 
+
+###### 14 
+Then _comes_ the tribe of Gad, and the leader of the sons of Gad: Eliasaph the son of Deuel, 
+
+###### 15 
+and his army, even their numbered men, 45,650. 
+
+###### 16 
+The total of the numbered men of the camp of Reuben: 151,450 by their armies. And they shall set out second. 
+
+###### 17 
+"Then the tent of meeting shall set out _with_ the camp of the Levites in the midst of the camps; just as they camp, so they shall set out, every man in his place by their standards. 
+
+###### 18 
+"On the west side _shall be_ the standard of the camp of Ephraim by their armies, and the leader of the sons of Ephraim _shall be_ Elishama the son of Ammihud, 
+
+###### 19 
+and his army, even their numbered men, 40,500. 
+
+###### 20 
+Next to him _shall be_ the tribe of Manasseh, and the leader of the sons of Manasseh: Gamaliel the son of Pedahzur, 
+
+###### 21 
+and his army, even their numbered men, 32,200. 
+
+###### 22 
+Then _comes_ the tribe of Benjamin, and the leader of the sons of Benjamin: Abidan the son of Gideoni, 
+
+###### 23 
+and his army, even their numbered men, 35,400. 
+
+###### 24 
+The total of the numbered men of the camp of Ephraim: 108,100, by their armies. And they shall set out third. 
+
+###### 25 
+"On the north side _shall be_ the standard of the camp of Dan by their armies, and the leader of the sons of Dan: Ahiezer the son of Ammishaddai, 
+
+###### 26 
+and his army, even their numbered men, 62,700. 
+
+###### 27 
+Those who camp next to him _shall be_ the tribe of Asher, and the leader of the sons of Asher: Pagiel the son of Ochran, 
+
+###### 28 
+and his army, even their numbered men, 41,500. 
+
+###### 29 
+Then _comes_ the tribe of Naphtali, and the leader of the sons of Naphtali: Ahira the son of Enan, 
+
+###### 30 
+and his army, even their numbered men, 53,400. 
+
+###### 31 
+The total of the numbered men of the camp of Dan _was_ 157,600. They shall set out last by their standards." 
+
+###### 32 
+These are the numbered men of the sons of Israel by their fathers' households; the total of the numbered men of the camps by their armies, 603,550. 
+
+###### 33 
+The Levites, however, were not numbered among the sons of Israel, just as the LORD had commanded Moses. 
+
+###### 34 
+Thus the sons of Israel did; according to all that the LORD commanded Moses, so they camped by their standards, and so they set out, every one by his family according to his father's household.
+
+***
+
+(previous:: [[Num 1|← 04 - Numbers 1]]) | (up:: [[04 - Numbers]]) | (next:: [[Num 3|04 - Numbers 3 →]])
