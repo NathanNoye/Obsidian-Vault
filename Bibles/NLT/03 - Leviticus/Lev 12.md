@@ -1,0 +1,34 @@
+# 03 - Leviticus 12
+
+(previous:: [[Lev 11|← 03 - Leviticus 11]]) | (up:: [[03 - Leviticus]]) | (next:: [[Lev 13|03 - Leviticus 13 →]])
+
+***
+
+
+###### 1 
+The LORD said to Moses, 
+
+###### 2 
+"Give the following instructions to the people of Israel. If a woman becomes pregnant and gives birth to a son, she will be ceremonially unclean for seven days, just as she is unclean during her menstrual period. 
+
+###### 3 
+On the eighth day the boy's foreskin must be circumcised. 
+
+###### 4 
+After waiting thirty-three days, she will be purified from the bleeding of childbirth. During this time of purification, she must not touch anything that is set apart as holy. And she must not enter the sanctuary until her time of purification is over. 
+
+###### 5 
+If a woman gives birth to a daughter, she will be ceremonially unclean for two weeks, just as she is unclean during her menstrual period. After waiting sixty-six days, she will be purified from the bleeding of childbirth. 
+
+###### 6 
+"When the time of purification is completed for either a son or a daughter, the woman must bring a one-year-old lamb for a burnt offering and a young pigeon or turtledove for a purification offering. She must bring her offerings to the priest at the entrance of the Tabernacle. 
+
+###### 7 
+The priest will then present them to the LORD to purify her. Then she will be ceremonially clean again after her bleeding at childbirth. These are the instructions for a woman after the birth of a son or a daughter. 
+
+###### 8 
+"If a woman cannot afford to bring a lamb, she must bring two turtledoves or two young pigeons. One will be for the burnt offering and the other for the purification offering. The priest will sacrifice them to purify her, and she will be ceremonially clean."
+
+***
+
+(previous:: [[Lev 11|← 03 - Leviticus 11]]) | (up:: [[03 - Leviticus]]) | (next:: [[Lev 13|03 - Leviticus 13 →]])

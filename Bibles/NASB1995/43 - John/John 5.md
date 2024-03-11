@@ -54,7 +54,9 @@ The man went away, and told the Jews that it was Jesus who had made him well.
 For this reason the Jews were persecuting Jesus, because He was doing these things on the Sabbath. 
 
 ###### 17 
-But He answered them, **"My Father is working until now, and I Myself am working."**Jesus' Equality with God 
+But He answered them, **"My Father is working until now, and I Myself am working."
+
+### Jesus' Equality with God 
 
 ###### 18 
 For this reason therefore the Jews were seeking all the more to kill Him, because He not only was breaking the Sabbath, but also was calling God His own Father, making Himself equal with God. 

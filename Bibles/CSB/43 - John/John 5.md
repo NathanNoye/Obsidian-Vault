@@ -48,7 +48,9 @@ After this, Jesus found him in the temple and said to him, **"See, you are well.
 The man went and reported to the Jews that it was Jesus who had made him well. 
 
 ###### 16 
-Therefore, the Jews began persecuting Jesus because he was doing these things on the Sabbath.Honoring the Father and the Son 
+Therefore, the Jews began persecuting Jesus because he was doing these things on the Sabbath.
+
+### Honoring the Father and the Son 
 
 ###### 17 
 Jesus responded to them, **"My Father** **is still working, and I am working also."** 
@@ -66,13 +68,15 @@ Jesus replied, **"Truly I tell you, the Son is not able to do anything on his ow
 **And just as the Father raises** **the dead and gives them life, so the Son also gives life to whom he wants.** 
 
 ###### 22 
-**The Father,** docker-credential-ecr-login docker-credential-osxkeychain fact, judges no one but has given all judgment to the Son,** 
+**The Father, in fact, judges no one but has given all judgment to the Son,** 
 
 ###### 23 
-**so that all people may honor the Son just as they honor the Father.** **Anyone who does not honor the Son does not honor the Father who sent him.**Life and Judgment 
+**so that all people may honor the Son just as they honor the Father.** **Anyone who does not honor the Son does not honor the Father who sent him.
+
+### Life and Judgment 
 
 ###### 24 
-**"Truly I tell you, anyone who hears my word and believes him who sent me has eternal life** **and will not come under judgment but has passed from death to life.** 
+**"Truly I tell you, anyone who hears my word and believes him who sent me has eternal life and will not come under judgment but has passed from death to life.** 
 
 ###### 25 
 **"Truly I tell you, an hour is coming, and is now here,** **when the dead will hear the voice of the Son of God, and those who hear will live.** 
@@ -90,7 +94,9 @@ Jesus replied, **"Truly I tell you, the Son is not able to do anything on his ow
 **and come out--those who have done good things, to the resurrection of life, but those who have done wicked things, to the resurrection of condemnation.** 
 
 ###### 30 
-**"I can do nothing on my own. I judge only as I hear, and my judgment** is just, **because I do not seek my own will, but the will of him who sent me.**Witnesses to Jesus 
+**"I can do nothing on my own. I judge only as I hear, and my judgment is just, because I do not seek my own will, but the will of him who sent me.
+
+### Witnesses to Jesus 
 
 ###### 31 
 **"If I testify about myself, my testimony is not true.** 

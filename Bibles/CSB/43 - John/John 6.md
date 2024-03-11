@@ -48,7 +48,9 @@ So they collected them and filled twelve baskets with the pieces from the five b
 When the people saw the sign he had done, they said, "This truly is the Prophet who is to come into the world." 
 
 ###### 15 
-Therefore, when Jesus realized that they were about to come and take him by force to make him king, he withdrew again to the mountain by himself.The Fifth Sign: Walking on Water 
+Therefore, when Jesus realized that they were about to come and take him by force to make him king, he withdrew again to the mountain by himself.
+
+### The Fifth Sign: Walking on Water 
 
 ###### 16 
 When evening came, his disciples went down to the sea, 
@@ -66,7 +68,9 @@ After they had rowed about three or four miles, they saw Jesus walking on the se
 But he said to them, **"It is I.** **Don't be afraid."** 
 
 ###### 21 
-Then they were willing to take him on board, and at once the boat was at the shore where they were heading.The Bread of Life 
+Then they were willing to take him on board, and at once the boat was at the shore where they were heading.
+
+### The Bread of Life 
 
 ###### 22 
 The next day, the crowd that had stayed on the other side of the sea saw there had been only one boat. They also saw that Jesus had not boarded the boat with his disciples, but that his disciples had gone off alone. 
@@ -96,7 +100,7 @@ Jesus replied, **"This is the work** **of God--that you believe in the one he ha
 "What sign, then, are you going to do so that we may see and believe you?" they asked. "What are you going to perform? 
 
 ###### 31 
-Our ancestors ate the manna in the wilderness, just as it is written: <b class="quote">He gave them bread from heaven to eat.**" 
+Our ancestors ate the manna in the wilderness, just as it is written: He gave them bread from heaven to eat.**" 
 
 ###### 32 
 Jesus said to them, **"Truly I tell you, Moses** **didn't give you the bread from heaven, but my Father gives you the true bread from heaven.** 
@@ -138,7 +142,7 @@ Jesus answered them, **"Stop grumbling among yourselves.**
 **No one can come to me unless the Father who sent me draws** **him, and I will raise him up on the last day.** 
 
 ###### 45 
-**It is written in the Prophets:** **<b class="quote">And they will all be taught by God.**** **Everyone who has listened to and learned from the Father** **comes to me--** 
+**It is written in the Prophets:** And they will all be taught by God.**** **Everyone who has listened to and learned from the Father** **comes to me--** 
 
 ###### 46 
 **not that anyone has seen the Father** **except the one who is from God.** **He has seen the Father.** 
@@ -150,7 +154,7 @@ Jesus answered them, **"Stop grumbling among yourselves.**
 **I am the bread of life.** 
 
 ###### 49 
-**Your ancestors ate the manna** docker-credential-ecr-login docker-credential-osxkeychain the wilderness,** **and they died.** 
+**Your ancestors ate the manna and they died.** 
 
 ###### 50 
 **This is the bread that comes down from heaven so that anyone may eat of it and not die.** 
@@ -180,7 +184,9 @@ So Jesus said to them, **"Truly I tell you, unless you eat the flesh of the Son 
 **This is the bread that came down from heaven; it is not like the manna** **your ancestors ate--and they died. The one who eats this bread will live forever."** 
 
 ###### 59 
-He said these things while teaching in the synagogue in Capernaum.Many Disciples Desert Jesus 
+He said these things while teaching in the synagogue in Capernaum.
+
+### Many Disciples Desert Jesus 
 
 ###### 60 
 Therefore, when many of his disciples heard this, they said, "This teaching is hard. Who can accept it?" 

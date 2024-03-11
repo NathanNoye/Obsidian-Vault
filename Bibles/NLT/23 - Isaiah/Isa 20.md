@@ -1,0 +1,28 @@
+# 23 - Isaiah 20
+
+(previous:: [[Isa 19|← 23 - Isaiah 19]]) | (up:: [[23 - Isaiah]]) | (next:: [[Isa 21|23 - Isaiah 21 →]])
+
+***
+
+
+###### 1 
+In the year when King Sargon of Assyria sent his commander in chief to capture the Philistine city of Ashdod, 
+
+###### 2 
+the LORD told Isaiah son of Amoz, "Take off the burlap you have been wearing, and remove your sandals." Isaiah did as he was told and walked around naked and barefoot. 
+
+###### 3 
+Then the LORD said, "My servant Isaiah has been walking around naked and barefoot for the last three years. This is a sign--a symbol of the terrible troubles I will bring upon Egypt and Ethiopia. 
+
+###### 4 
+For the king of Assyria will take away the Egyptians and Ethiopians as prisoners. He will make them walk naked and barefoot, both young and old, their buttocks bared, to the shame of Egypt. 
+
+###### 5 
+Then the Philistines will be thrown into panic, for they counted on the power of Ethiopia and boasted of their allies in Egypt! 
+
+###### 6 
+They will say, 'If this can happen to Egypt, what chance do we have? We were counting on Egypt to protect us from the king of Assyria.'"
+
+***
+
+(previous:: [[Isa 19|← 23 - Isaiah 19]]) | (up:: [[23 - Isaiah]]) | (next:: [[Isa 21|23 - Isaiah 21 →]])

@@ -1,3 +1,27 @@
+# The book of John
+Author: [[Bible Study/People in the Bible/The Apostles/John|John]]
+Date Written: 70 AD - 110 AD
+
+### Key Themes and Content
+
+- **The Divinity of Christ**: John emphasizes Jesus as the incarnate Word of God (Logos), highlighting his divine nature from the very beginning: "In the beginning was the Word, and the Word was with God, and the Word was God" ([[Bibles/CSB/43 - John/John 1#1|John 1:1]]).
+- **Signs and Miracles**: The gospel records several miracles or "signs" performed by Jesus, such as turning water into wine at Cana (John 2:1-11) and raising Lazarus from the dead (John 11:1-44). These miracles serve to demonstrate Jesus' divine authority and his role as the Messiah.
+- **"I Am" Statements**: John features several profound statements by Jesus known as the "I Am" sayings, where Jesus identifies himself with God, using phrases like "I am the bread of life" (John 6:35) and "I am the way, the truth, and the life" (John 14:6). These statements further underscore his divinity and mission.
+- **The New Commandment**: Jesus gives a new commandment to his disciples: "Love one another. As I have loved you, so you must love one another" (John 13:34). This command underscores the gospel's focus on love as central to Christian life and belief.
+- **The Holy Spirit**: The gospel also speaks extensively about the role of the Holy Spirit, whom Jesus promises to send as an advocate and guide for his followers after his departure (John 14:16-17, 26; 15:26; 16:7-15).
+- **Eternal Life Through Faith**: A major theme is the offer of eternal life to those who believe in Jesus. John 3:16 succinctly captures this message: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+
+### Purpose and Audience
+
+The Gospel of John was written to prove that Jesus Christ is the Son of God and to inspire faith in his name. It is traditionally believed to have been written by John the Apostle, although authorship has been debated among scholars. The exact date of its writing is also uncertain, with estimates ranging from the late 1st century to the early 2nd century AD.
+
+John's Gospel is theological in nature and was written for both Jewish and Gentile audiences, with an emphasis on reaching those who are seeking spiritual truth and understanding. It provides a deep theological reflection on the identity and mission of Jesus, making it a profound piece of Christian scripture that has influenced Christian thought and belief throughout the centuries.
+
+---
+The Gospel of John frequently uses contrast as a teaching tool. In chapter 2, there is a strong contrast between the joyous, secretive miracle at the wedding and the angry, ostentatious cleansing of the temple. Chapter three presents another contrast, moving from the loud, public, confrontational temple incident to a quiet, private, instructional conversation with Nicodemus.  
+  
+Chapter 4 once again presents meaningful contrasts. Nicodemus was a man of power and prestige, well educated, and one who sought out Jesus of his own free will. The Samaritan woman of chapter 4 is poor, outcast even among the outcast Samaritans, and not expecting to meet the Lord at all. Nicodemus needed to be reminded that his knowledge was incomplete ([[Bibles/CSB/43 - John/John 3#9|John 3:9]] - [[Bibles/CSB/43 - John/John 3#10|John 3:10]]). The Samaritan woman needed to be confronted with her sin ([John 4:17–18](https://www.bibleref.com/John/4/John-4-17.html)) ([[Bibles/CSB/43 - John/John 4#17|John 4:17]] - [[Bibles/CSB/43 - John/John 4#17|John 4:17]]), but also lifted up and given value ([[Bibles/CSB/43 - John/John 4#23|John 4:23]])
+
 # John 1
 **Summary**: John 1 introduces Jesus Christ as the Word, eternally existing with God and as God, emphasizing His divine role in creation and as the source of life and light against darkness. The chapter transitions to John the Baptist's role as a witness to Jesus, declaring Him the Lamb of God who takes away the world's sin. It then narrates Jesus calling His first disciples, including Andrew, Simon Peter, Philip, and Nathanael. These initial followers recognize Jesus as the Messiah and Son of God, marking the beginning of His ministry. John 1 sets the stage for the Gospel's exploration of Jesus' identity, mission, and the establishment of His following.
 
@@ -63,3 +87,26 @@ After the encounter, the narrative shifts to Jesus' discourse with His disciples
 > - Bibleref.com
 
 [[John 4#10|John 4:10]] - One of the core principles involved in evangelism is the idea of "felt need." In short, a person can't act to correct a problem they don't know they have! Here, Jesus is introducing the woman to the fact that she has a spiritual thirst which needs to be satisfied. Later in the conversation, Jesus will be far more direct about the woman's sin. 
+[[John 4#19|John 4:19]] - The woman is realizing he is more than just a Jew. The woman is a samaritan so does this show more than just surprise? It seems that even though the Samaritans and Jews didn't get along - that they still knew each other's culture - or at least this woman does.
+[[John 4#25|John 4:25]] - The woman is acknowledging there is a Messiah (Christ) coming. Jesus is confirming that is him in [[John 4#26|John 4:26]] 
+[[John 4#35|John 4:35]] to [[John 4#38|John 4:38]] is talking about sowing and reaping (planting seeds and harvesting crops from those seeds) but not in terms of food. These passages talk about the following topics:
+1. *Recognize the Urgency* -  The harvest is now. Not everyone is ready to harvest but there are those ready now and we need to be aware of it. [[John 4#35|John 4:35]] speaks directly to that in "not waiting for 4 months for when it's ready". It also means there's never a perfect time.
+2. *Value Teamwork in Ministry* - One reaps and one sows.
+3. *Reap Where You Haven’t Sown* - Sometimes we'll reap and not sow, and sometimes we'll sow but not reap. 37 and 38 both illustrate this
+4. *Celebrate the Harvest* - Regardless of what you reaped or sowed - be happy and celebrate because it's for something bigger than you and you've helped make it bigger.
+
+---
+# John 5
+[[Bibles/CSB/43 - John/John 5#4|John 5:4]] Is not found in some modern translations because it did not appear in the earliest / most reliable manuscripts. It seems to be more of a scribal note.
+
+---
+# John 6
+There was a big need to feed 5000 people but they didn't have the money to buy the food they needed. A young boy came by with what he had. He wanted to help and offered what he had (we don't know if this was all he had but we know they were about 13km from Bethsaida so it would have been a long journey to get more). He gave what he had on hand and God multiplied it. We should give to God with a good heart and trusting in him.
+
+The phrase "No one can come to me unless the Father who sent me draws him" ([[Bibles/CSB/43 - John/John 6#44|John 6:44]]) highlights the concept of divine election or calling. It indicates that an individual's coming to faith in Jesus Christ is not solely an act of human will or effort but involves a supernatural work of God. The Father "draws" people to Jesus, meaning He enables and persuades them to come to Christ for salvation. This drawing can be understood as the work of the Holy Spirit convicting people of their sin, revealing the truth of the Gospel, and working faith in their hearts.
+
+People complained following God was difficult and left. Their faith was shallow because they only believed by seeing the miracles. They only believed when God gave them things. [[Bibles/CSB/43 - John/John 6#66|John 6 verse 66]] tells us there was many disciples but they turned their back and left. The original 12 stayed because they understood his message. They saw his miracles like everyone else - but they understood his message.
+
+---
+# John 7
+The pharisees at this point seem to think Jesus comes from Galilee. Nicodemus seems to still believe that Jesus is the Christ. [[Bibles/CSB/43 - John/John 7#52|John 7:52]] - the Pharisees seem to snap back sarcastically at Nicodemus saying "You aren't from Galilee too are you?" Basically "Oh you must be God too then!". This same type of confusion can be found in [[Bibles/CSB/43 - John/John 7#41|John 7:41]].

@@ -18,6 +18,7 @@ Baptism has been used as a rite of initiation, showing the inductee’s entranc
 ### What we know
 - Jesus commanded the disciples to go out and baptize us ([[Bibles/CSB/40 - Matthew/Matt 28#19|Matt 28:19]] and [[Bibles/CSB/40 - Matthew/Matt 28#20|Matt 28:20]])
 - Peter is telling people to be baptized ([[Bibles/CSB/44 - Acts/Acts 2#38|Acts 2:38]])
+- Jesus was baptized even though he was sinless. After he was baptized - God's voice was heard and said that "This is his Son who he's well pleased with". This is BEFORE Jesus did any miracles (as far as we know but it's safe to assume so).
 
 [[Bibles/CSB/40 - Matthew/Matt 3#11|Matt 3:11]] - John is baptizing by water but Jesus will baptize us by the Holy Spirit and with fire. This seems to indicate there are 2 types of baptisms
 [[Bibles/CSB/49 - Ephesians/Eph 4#5|Eph 4:5]] - This mentions there is one baptism

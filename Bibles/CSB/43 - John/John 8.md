@@ -6,7 +6,9 @@
 
 
 ###### 1 
-But Jesus went to the Mount of Olives.An Adulteress Forgiven 
+But Jesus went to the Mount of Olives.
+
+### An Adulteress Forgiven 
 
 ###### 2 
 At dawn he went to the temple again, and all the people were coming to him. He sat down and began to teach them. 

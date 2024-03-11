@@ -75,7 +75,9 @@ Jesus answered them, **"My teaching isn't mine but is from the one who sent me.*
 **If a man receives circumcision on the Sabbath** **so that the law of Moses** **won't be broken, are you angry at me because I made a man entirely well on the Sabbath?** 
 
 ###### 24 
-**Stop judging** **according to outward appearances; rather judge according to righteous judgment."**The Identity of the Messiah 
+**Stop judging** **according to outward appearances; rather judge according to righteous judgment."
+
+### The Identity of the Messiah 
 
 ###### 25 
 Some of the people of Jerusalem were saying, "Isn't this the man they are trying to kill? 
@@ -120,7 +122,9 @@ On the last and most important day of the festival, Jesus stood up and cried out
 **The one who believes in me,** **as the Scripture** **has said, will have streams of living water** **flow** **from deep within him."** 
 
 ###### 39 
-He said this about the Spirit. Those who believed in Jesus were going to receive the Spirit, for the Spirit had not yet been given because Jesus had not yet been glorified.The People Are Divided over Jesus 
+He said this about the Spirit. Those who believed in Jesus were going to receive the Spirit, for the Spirit had not yet been given because Jesus had not yet been glorified.
+
+### The People Are Divided over Jesus 
 
 ###### 40 
 When some from the crowd heard these words, they said, "This truly is the Prophet." 
@@ -135,7 +139,9 @@ Doesn't the Scripture say that the Messiah comes from David's offspring and from
 So the crowd was divided because of him. 
 
 ###### 44 
-Some of them wanted to seize him, but no one laid hands on him.Debate over Jesus's Claims 
+Some of them wanted to seize him, but no one laid hands on him.
+
+### Debate over Jesus's Claims 
 
 ###### 45 
 Then the servants came to the chief priests and Pharisees, who asked them, "Why didn't you bring him?" 
@@ -159,7 +165,7 @@ Nicodemus--the one who came to him previously and who was one of them--said to t
 "Our law doesn't judge a man before it hears from him and knows what he's doing, does it?" 
 
 ###### 52 
-"You aren't from Galilee too, are you?" they replied. "Investigate and you will see that no prophet arises from Galilee." [ 
+"You aren't from Galilee too, are you?" they replied. "Investigate and you will see that no prophet arises from Galilee."
 
 ###### 53 
 Then each one went to his house.

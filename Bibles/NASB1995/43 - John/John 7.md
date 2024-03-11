@@ -120,7 +120,9 @@ Now on the last day, the great _day_ of the feast, Jesus stood and cried out, sa
 He who believes in Me, as the Scripture said, 'From his innermost being will flow rivers of living water.'" 
 
 ###### 39 
-But this He spoke of the Spirit, whom those who believed in Him were to receive; for the Spirit was not yet _given_, because Jesus was not yet glorified.Division of People over Jesus 
+But this He spoke of the Spirit, whom those who believed in Him were to receive; for the Spirit was not yet _given_, because Jesus was not yet glorified.
+
+### Division of People over Jesus 
 
 ###### 40 
 _Some_ of the people therefore, when they heard these words, were saying, "This certainly is the Prophet." 

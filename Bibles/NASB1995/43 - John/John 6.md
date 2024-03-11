@@ -45,7 +45,9 @@ When they were filled, He *said to His disciples, **"Gather up the leftover frag
 So they gathered them up, and filled twelve baskets with fragments from the five barley loaves which were left over by those who had eaten. 
 
 ###### 14 
-Therefore when the people saw the sign which He had performed, they said, "This is truly the Prophet who is to come into the world."Jesus Walks on the Water 
+Therefore when the people saw the sign which He had performed, they said, "This is truly the Prophet who is to come into the world."
+
+### Jesus Walks on the Water 
 
 ###### 15 
 So Jesus, perceiving that they were intending to come and take Him by force to make Him king, withdrew again to the mountain by Himself alone. 
@@ -78,7 +80,9 @@ There came other small boats from Tiberias near to the place where they ate the 
 So when the crowd saw that Jesus was not there, nor His disciples, they themselves got into the small boats, and came to Capernaum seeking Jesus. 
 
 ###### 25 
-When they found Him on the other side of the sea, they said to Him, "Rabbi, when did You get here?"Words to the People 
+When they found Him on the other side of the sea, they said to Him, "Rabbi, when did You get here?"
+
+### Words to the People 
 
 ###### 26 
 Jesus answered them and said, **"Truly, truly, I say to you, you seek Me, not because you saw signs, but because you ate of the loaves and were filled.** 
@@ -177,7 +181,9 @@ He who eats My flesh and drinks My blood abides in Me, and I in him.
 As the living Father sent Me, and I live because of the Father, so he who eats Me, he also will live because of Me. 
 
 ###### 58 
-This is the bread which came down out of heaven; not as the fathers ate and died; he who eats this bread will live forever."Words to the Disciples 
+This is the bread which came down out of heaven; not as the fathers ate and died; he who eats this bread will live forever."
+
+### Words to the Disciples 
 
 ###### 59 
 These things He said in the synagogue as He taught in Capernaum. 
@@ -198,7 +204,9 @@ It is the Spirit who gives life; the flesh profits nothing; the words that I hav
 But there are some of you who do not believe." For Jesus knew from the beginning who they were who did not believe, and who it was that would betray Him. 
 
 ###### 65 
-And He was saying, **"For this reason I have said to you, that no one can come to Me unless it has been granted him from the Father."**Peter's Confession of Faith 
+And He was saying, **"For this reason I have said to you, that no one can come to Me unless it has been granted him from the Father."
+
+### Peter's Confession of Faith 
 
 ###### 66 
 As a result of this many of His disciples withdrew and were not walking with Him anymore. 

@@ -1,0 +1,40 @@
+# 52 - 1 Thessalonians 1
+
+(up:: [[52 - 1 Thessalonians]]) | (next:: [[1 Thess 2|52 - 1 Thessalonians 2 →]])
+
+***
+
+
+###### 1 
+This letter is from Paul, Silas, and Timothy. We are writing to the church in Thessalonica, to you who belong to God the Father and the Lord Jesus Christ. May God give you grace and peace.The Faith of the Thessalonian Believers 
+
+###### 2 
+We always thank God for all of you and pray for you constantly. 
+
+###### 3 
+As we pray to our God and Father about you, we think of your faithful work, your loving deeds, and the enduring hope you have because of our Lord Jesus Christ. 
+
+###### 4 
+We know, dear brothers and sisters, that God loves you and has chosen you to be his own people. 
+
+###### 5 
+For when we brought you the Good News, it was not only with words but also with power, for the Holy Spirit gave you full assurance that what we said was true. And you know of our concern for you from the way we lived when we were with you. 
+
+###### 6 
+So you received the message with joy from the Holy Spirit in spite of the severe suffering it brought you. In this way, you imitated both us and the Lord. 
+
+###### 7 
+As a result, you have become an example to all the believers in Greece--throughout both Macedonia and Achaia. 
+
+###### 8 
+And now the word of the Lord is ringing out from you to people everywhere, even beyond Macedonia and Achaia, for wherever we go we find people telling us about your faith in God. We don't need to tell them about it, 
+
+###### 9 
+for they keep talking about the wonderful welcome you gave us and how you turned away from idols to serve the living and true God. 
+
+###### 10 
+And they speak of how you are looking forward to the coming of God's Son from heaven--Jesus, whom God raised from the dead. He is the one who has rescued us from the terrors of the coming judgment.
+
+***
+
+(up:: [[52 - 1 Thessalonians]]) | (next:: [[1 Thess 2|52 - 1 Thessalonians 2 →]])
