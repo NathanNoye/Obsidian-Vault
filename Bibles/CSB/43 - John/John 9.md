@@ -39,7 +39,9 @@ So they asked him, "Then how were your eyes opened?"
 He answered, "The man called Jesus made mud, spread it on my eyes, and told me, **'Go to Siloam** **and wash.'** So when I went and washed I received my sight." 
 
 ###### 12 
-"Where is he?" they asked. "I don't know," he said.The Healed Man's Testimony 
+"Where is he?" they asked. "I don't know," he said.
+
+### The Healed Man's Testimony 
 
 ###### 13 
 They brought the man who used to be blind to the Pharisees. 
@@ -105,7 +107,9 @@ Throughout history no one has ever heard of someone opening the eyes of a person
 If this man were not from God, he wouldn't be able to do anything." 
 
 ###### 34 
-"You were born entirely in sin," they replied, "and are you trying to teach us?" Then they threw him out.Spiritual Blindness 
+"You were born entirely in sin," they replied, "and are you trying to teach us?" Then they threw him out.
+
+### Spiritual Blindness 
 
 ###### 35 
 Jesus heard that they had thrown the man out, and when he found him, he asked, **"Do you believe in the Son of Man?"** 
@@ -120,7 +124,7 @@ Jesus answered, **"You have seen him; in fact, he is the one speaking with you."
 "I believe, Lord!" he said, and he worshiped him. 
 
 ###### 39 
-Jesus said, **"I came into this world** **for judgment,** docker-credential-ecr-login docker-credential-osxkeychain order that those who do not see will see and those who do see will become blind."** 
+Jesus said, **"I came into this world for judgment, in order that those who do not see will see and those who do see will become blind."** 
 
 ###### 40 
 Some of the Pharisees who were with him heard these things and asked him, "We aren't blind too, are we?" 

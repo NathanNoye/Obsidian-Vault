@@ -36,7 +36,9 @@ When they heard it, they _began_ to go out one by one, beginning with the older 
 Straightening up, Jesus said to her, **"Woman, where are they? Did no one condemn you?"** 
 
 ###### 11 
-She said, "No one, Lord." And Jesus said, **"I do not condemn you, either. Go. From now on sin no more."**]Jesus Is the Light of the World 
+She said, "No one, Lord." And Jesus said, **"I do not condemn you, either. Go. From now on sin no more."**
+
+### Jesus Is the Light of the World 
 
 ###### 12 
 Then Jesus again spoke to them, saying, **"I am the Light of the world; he who follows Me will not walk in the darkness, but will have the Light of life."** 
@@ -93,7 +95,9 @@ So Jesus said, **"When you lift up the Son of Man, then you will know that I am 
 And He who sent Me is with Me; He has not left Me alone, for I always do the things that are pleasing to Him." 
 
 ###### 30 
-As He spoke these things, many came to believe in Him.The Truth Will Make You Free 
+As He spoke these things, many came to believe in Him.
+
+### The Truth Will Make You Free 
 
 ###### 31 
 So Jesus was saying to those Jews who had believed Him, **"If you continue in My word, _then_ you are truly disciples of Mine;** 

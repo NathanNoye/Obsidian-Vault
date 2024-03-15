@@ -2,6 +2,8 @@
 Author: [[Bible Study/People in the Bible/The Apostles/John|John]]
 Date Written: 70 AD - 110 AD
 
+John's Gospel presents the life, teachings, miracles, death, and resurrection of Jesus Christ, emphasizing His divine nature and love. It delves into His profound relationship with the Father, His offer of eternal life through belief in Him, and His role as the Light overcoming darkness, illustrating His deep, personal connection with believers and His call for unity and love among them.
+
 ### Key Themes and Content
 
 - **The Divinity of Christ**: John emphasizes Jesus as the incarnate Word of God (Logos), highlighting his divine nature from the very beginning: "In the beginning was the Word, and the Word was with God, and the Word was God" ([[Bibles/CSB/43 - John/John 1#1|John 1:1]]).
@@ -110,3 +112,51 @@ People complained following God was difficult and left. Their faith was shallow 
 ---
 # John 7
 The pharisees at this point seem to think Jesus comes from Galilee. Nicodemus seems to still believe that Jesus is the Christ. [[Bibles/CSB/43 - John/John 7#52|John 7:52]] - the Pharisees seem to snap back sarcastically at Nicodemus saying "You aren't from Galilee too are you?" Basically "Oh you must be God too then!". This same type of confusion can be found in [[Bibles/CSB/43 - John/John 7#41|John 7:41]].
+
+---
+
+# John 8
+[[Bibles/CSB/43 - John/John 8#9|John 8:9]] to [[Bibles/CSB/43 - John/John 8#11|John 8:11]] - This is a great example of how we should be. There's a couple layers to this verse:
+- A woman committed a sin yet Jesus does not condemn her. He tells her to go and sin no more. Meaning you may have sinned but I forgive you and this is the point that you turn from that sin (repent).
+- "But we aren't supposed to judge!" - This is righteous judgment. Jesus knew this was a sin, so did the woman (or at least it's safe to assume since in that time - this was a well known sin). We should not judge unrighteously. More info here: [[To judge or not to judge]]
+- We have all sinned. Jesus told them that if anyone is without sin, they can stone her. None did because we've all sinned. 
+
+[[Bibles/CSB/43 - John/John 8#12|John 8:12]] seems like an internal contradiction with [[Bibles/CSB/43 - John/John 5#31|John 5:31]] but it's not when you read the greater context. Let me explain:
+- In John 5, there's a portion that talks about having 2 - 3 testimonies (as was customary at the time). Jesus shows us 4 (double what's needed):
+	- Himself
+	- John
+	- The Father
+	- The scripture
+- In John 8, Jesus mentions 2 testimonies:
+	- Jesus
+	- The Father
+- This is critical because this is also showing his divine authority. Jesus and The Father are one but also two so this makes 2 testimonies.
+- Also Testimony and Witness are used in similar ways 
+
+---
+# John 9
+[[Bibles/CSB/43 - John/John 9#21|John 9:21]] - The man who was born blind was of age (meaning 13 in the Jewish tradition) so we can assume he was around that age when the Pharisees questioned him. This is also backed up because they wanted to get his parents but his parents confirmed that he is of age and can speak for himself. This is important because of the conversation that follows.
+- The man who was healed seems to have more faith in the Messiah than those who studied for years. You would think they would know the signs and be ready to receive him more than a teenager but the reality was - they were so consumed by so many emotions (whether it's bias, hubris, pride, etc) that they couldn't see the Messiah in front of them
+- This is important because we can learn from this. Instead of letting our own bias's get in the way of learning from Jesus - we should instead throw away our bias and try to understand his words.
+- Sometimes we misunderstand scripture or we learned scripture from someone else who misunderstood it and that can cause us to put up mental blockers when studying (like how I was looking for confirmation when writing [[ARCHIVED - Is Baptism needed for salvation?]] - I was falling into confirmation bias)
+- We see confirmation bias multiple times. The Pharisees had one idea about the Messiah and when Jesus was right there - they couldn't see through their own bias.
+- Another fact - the blind man had mud rubbed in his eyes - he was still blind at this point. He had to go into the pool to see. We can assume he was still blind on his journey to the pool - HE HAD TO HAVE FAITH THAT HE WAS GOING TO GET HEALED WHEN HE WENT TO THE POOL. He could have easily turned around and gone home instead but he had faith and did what Jesus commanded. 
+- Even if it seems odd, we still need to trust God, have faith, and follow his commands. Having a stranger rub mud in your eyes is a weird thing to have happen - but Jesus is able to do all things and we can trust that it is for our betterment (even if it doesn't seem it at the time)
+
+---
+
+# John 10
+***This is a chapter summary from bibleref.com***
+
+First, Jesus points out that sheep only listen to the voice of their own particular shepherd. They won't listen to a stranger. Spiritually, this explains why men like the scribes and Pharisees don't accept Jesus: they are not part of "His" flock. In prior discussions, Jesus noted that these men are, ultimately, subjects of the Devil (John 8:42–47). They don't listen to the voice of God because they are part of some other flock. Unsurprisingly, Jesus' detractors don't get the point (John 10:1–6).
+
+The second analogy is relatively brief, but it carries enormous implications. Sheep pens of that era were constructed with high walls and a single narrow opening. This was the only legitimate means of entry or exit—a point Jesus also noted in the first analogy. To control access, the gatekeeper would stand or lay across the opening: he would physically serve as the door. Jesus claims to have that same role, spiritually: He is "the Door," the one and only means by which sheep can enter the pen and find rescue from harm. This is the third of seven times in the gospel of John where Jesus uses the unique phrasing echoing the statement made by God in Exodus 3:14. The world, like sheep, can be divided into only two groups: those "in" and those "out," as defined by "the Door," which is Christ alone (John 10:7–9).
+
+Finally, Jesus refers to Himself as the "Good Shepherd," as a contrast to the false religious leaders of Israel. He especially notes His willingness to die for the sake of the flock. Hired hands, as employees, only care for sheep until faced with personal risk. When in danger, they tend to run away. Unlike those false leaders, Jesus is willing to sacrifice Himself to save those He protects. In this comparison, Jesus once again uses the "I am" phrasing. This is the fourth time in the gospel of John where He highlights that theme. His statement also makes a clear, emphatic claim that those who are saved by faith in Jesus are saved permanently, and cannot be lost by any means (John 10:10–18).
+
+---
+# John 11
+Jesus is fully human and fully God. He feels human emotions because we see that he wept in verse 35.
+
+[[Bibles/CSB/43 - John/John 11#48|John 11:48]] - Seems like the Pharisees are more concerned with their own well-being than salvation for others. Granted - they didn't believe BUT they knew the signs. They were more concerned about their own well-being than seeing the signs right in front of them. How often are we like this?
+

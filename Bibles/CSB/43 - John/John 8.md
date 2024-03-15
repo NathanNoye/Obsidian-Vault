@@ -38,7 +38,9 @@ When they heard this, they left one by one, starting with the older men. Only he
 When Jesus stood up, he said to her, **"Woman, where are they? Has no one condemned you?"** 
 
 ###### 11 
-"No one, Lord," she answered. **"Neither do I condemn you,"** said Jesus. **"Go, and from now on do not sin anymore."**]The Light of the World 
+"No one, Lord," she answered. **"Neither do I condemn you,"** said Jesus. **"Go, and from now on do not sin anymore."**
+
+### The Light of the World 
 
 ###### 12 
 Jesus spoke to them again: **"I am** **the light** **of the world. Anyone who follows me will never walk in the darkness but will have the light of life."** 
@@ -65,7 +67,9 @@ So the Pharisees said to him, "You are testifying about yourself. Your testimony
 Then they asked him, "Where is your Father?" **"You know neither me nor my Father,"** Jesus answered. **"If you knew me, you would also know my Father."** 
 
 ###### 20 
-He spoke these words by the treasury, while teaching in the temple. But no one seized him, because his hour had not yet come.Jesus Predicts His Departure 
+He spoke these words by the treasury, while teaching in the temple. But no one seized him, because his hour had not yet come.
+
+### Jesus Predicts His Departure 
 
 ###### 21 
 Then he said to them again, **"I'm going away;** **you will look for me, and you will die in your sin.** **Where I'm going, you cannot come."** 
@@ -92,7 +96,9 @@ They did not know he was speaking to them about the Father.
 So Jesus said to them, **"When you lift up the Son of Man,** **then you will know that I am** **he, and that I do nothing on my own.** **But just as the Father taught me, I say these things.** 
 
 ###### 29 
-**The one who sent me is with me. He has not left me alone,** **because I always do what pleases him."**Truth and Freedom 
+**The one who sent me is with me. He has not left me alone,** **because I always do what pleases him."**
+
+### Truth and Freedom 
 
 ###### 30 
 As he was saying these things, many believed in him. 
@@ -119,7 +125,7 @@ Jesus responded, **"Truly I tell you, everyone who commits sin is a slave of sin
 **I know you are descendants of Abraham,** **but you are trying to kill me because my word has no place among you.** 
 
 ###### 38 
-**I speak what I have seen** docker-credential-ecr-login docker-credential-osxkeychain the presence of the Father;** **so then, you do what you have heard from your father."** 
+**I speak what I have seen so then, you do what you have heard from your father."** 
 
 ###### 39 
 "Our father is Abraham," they replied. **"If you were Abraham's children,"** Jesus told them, **"you would do what Abraham did.** 
@@ -146,7 +152,9 @@ Jesus said to them, **"If God were your Father, you would love me,** **because I
 **Who among you can convict me of sin?** **If I am telling the truth, why don't you believe me?** 
 
 ###### 47 
-**The one who is from God listens to God's words. This is why you don't listen, because you are not from God."**Jesus and Abraham 
+**The one who is from God listens to God's words. This is why you don't listen, because you are not from God."**
+
+### Jesus and Abraham 
 
 ###### 48 
 The Jews responded to him, "Aren't we right in saying that you're a Samaritan and have a demon?" 

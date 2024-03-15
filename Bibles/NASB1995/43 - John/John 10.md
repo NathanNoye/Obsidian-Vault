@@ -66,7 +66,9 @@ A division occurred again among the Jews because of these words.
 Many of them were saying, "He has a demon and is insane. Why do you listen to Him?" 
 
 ###### 21 
-Others were saying, "These are not the sayings of one demon-possessed. A demon cannot open the eyes of the blind, can he?"Jesus Asserts His Deity 
+Others were saying, "These are not the sayings of one demon-possessed. A demon cannot open the eyes of the blind, can he?"
+
+### Jesus Asserts His Deity 
 
 ###### 22 
 At that time the Feast of the Dedication took place at Jerusalem; 

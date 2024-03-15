@@ -39,7 +39,9 @@ So they were saying to him, "How then were your eyes opened?"
 He answered, "The man who is called Jesus made clay, and anointed my eyes, and said to me, **'Go to Siloam and wash'**; so I went away and washed, and I received sight." 
 
 ###### 12 
-They said to him, "Where is He?" He *said, "I do not know."Controversy over the Man 
+They said to him, "Where is He?" He *said, "I do not know."
+
+### Controversy over the Man 
 
 ###### 13 
 They *brought to the Pharisees the man who was formerly blind. 
@@ -105,7 +107,9 @@ Since the beginning of time it has never been heard that anyone opened the eyes 
 If this man were not from God, He could do nothing." 
 
 ###### 34 
-They answered him, "You were born entirely in sins, and are you teaching us?" So they put him out.Jesus Affirms His Deity 
+They answered him, "You were born entirely in sins, and are you teaching us?" So they put him out.
+
+### Jesus Affirms His Deity 
 
 ###### 35 
 Jesus heard that they had put him out, and finding him, He said, **"Do you believe in the Son of Man?"** 

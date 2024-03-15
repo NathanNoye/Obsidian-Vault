@@ -90,7 +90,9 @@ Then he said to Thomas, **"Put your finger here and look at my hands. Reach out 
 Thomas responded to him, "My Lord and my God!" 
 
 ###### 29 
-Jesus said, **"Because you have seen me, you have believed.** **Blessed are those who have not seen and yet believe."**The Purpose of This Gospel 
+Jesus said, **"Because you have seen me, you have believed.** **Blessed are those who have not seen and yet believe."**
+
+### The Purpose of This Gospel 
 
 ###### 30 
 Jesus performed many other signs in the presence of his disciples that are not written in this book. 

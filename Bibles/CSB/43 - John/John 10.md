@@ -66,7 +66,9 @@ Again the Jews were divided because of these words.
 Many of them were saying, "He has a demon and he's crazy. Why do you listen to him?" 
 
 ###### 21 
-Others were saying, "These aren't the words of someone who is demon-possessed. Can a demon open the eyes of the blind?" Jesus at the Festival of Dedication 
+Others were saying, "These aren't the words of someone who is demon-possessed. Can a demon open the eyes of the blind?"
+
+### Jesus at the Festival of Dedication 
 
 ###### 22 
 Then the Festival of Dedication took place in Jerusalem, and it was winter. 
@@ -93,7 +95,9 @@ The Jews surrounded him and asked, "How long are you going to keep us in suspens
 **My Father,** **who has given them to me, is greater than all. No one is able to snatch them out of the Father's hand.** 
 
 ###### 30 
-**I and the Father are one."**Renewed Efforts to Stone Jesus 
+**I and the Father are one."**
+
+### Renewed Efforts to Stone Jesus 
 
 ###### 31 
 Again the Jews picked up rocks to stone him. 
@@ -105,7 +109,7 @@ Jesus replied, **"I have shown you many good works** **from the Father. For whic
 "We aren't stoning you for a good work," the Jews answered, "but for blasphemy, because you--being a man--make yourself God." 
 
 ###### 34 
-Jesus answered them, **"Isn't it written in your law,** **<b class="quote">I said, you are gods**?** 
+Jesus answered them, **"Isn't it written in your law,** I said, you are gods**?** 
 
 ###### 35 
 **If he called those to whom the word** **of God came 'gods'--and the Scripture** **cannot be broken--** 
@@ -120,7 +124,9 @@ Jesus answered them, **"Isn't it written in your law,** **<b class="quote">I sai
 **But if I am doing them and you don't believe me, believe the works. This way you will know and understand** **that the Father is in me and I in the Father."** 
 
 ###### 39 
-Then they were trying again to seize him, but he escaped their grasp.Many beyond the Jordan Believe in Jesus 
+Then they were trying again to seize him, but he escaped their grasp.
+
+### Many beyond the Jordan Believe in Jesus 
 
 ###### 40 
 So he departed again across the Jordan to the place where John had been baptizing earlier, and he remained there. 

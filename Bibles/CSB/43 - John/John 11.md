@@ -51,7 +51,9 @@ So Jesus then told them plainly, **"Lazarus has died.**
 **I'm glad for you that I wasn't there so that you may believe. But let's go to him."** 
 
 ###### 16 
-Then Thomas (called "Twin") said to his fellow disciples, "Let's go too so that we may die with him."The Resurrection and the Life 
+Then Thomas (called "Twin") said to his fellow disciples, "Let's go too so that we may die with him."
+
+### The Resurrection and the Life 
 
 ###### 17 
 When Jesus arrived, he found that Lazarus had already been in the tomb four days. 
@@ -84,7 +86,9 @@ Jesus said to her, **"I am** **the resurrection and the life. The one who believ
 **Everyone who lives and believes in me will never die.** **Do you believe this?"** 
 
 ###### 27 
-"Yes, Lord," she told him, "I believe you are the Messiah, the Son of God, who comes into the world."Jesus Shares the Sorrow of Death 
+"Yes, Lord," she told him, "I believe you are the Messiah, the Son of God, who comes into the world."
+
+### Jesus Shares the Sorrow of Death 
 
 ###### 28 
 Having said this, she went back and called her sister Mary, saying in private, "The Teacher is here and is calling for you." 
@@ -114,7 +118,9 @@ Jesus wept.
 So the Jews said, "See how he loved him!" 
 
 ###### 37 
-But some of them said, "Couldn't he who opened the blind man's eyes also have kept this man from dying?"The Seventh Sign: Raising Lazarus from the Dead 
+But some of them said, "Couldn't he who opened the blind man's eyes also have kept this man from dying?"
+
+### The Seventh Sign: Raising Lazarus from the Dead 
 
 ###### 38 
 Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone was lying against it. 
@@ -135,7 +141,9 @@ So they removed the stone. Then Jesus raised his eyes and said, **"Father, I tha
 After he said this, he shouted with a loud voice, **"Lazarus, come out!"** 
 
 ###### 44 
-The dead man came out bound hand and foot with linen strips and with his face wrapped in a cloth. Jesus said to them, **"Unwrap him and let him go."**The Plot to Kill Jesus 
+The dead man came out bound hand and foot with linen strips and with his face wrapped in a cloth. Jesus said to them, **"Unwrap him and let him go."**
+
+### The Plot to Kill Jesus 
 
 ###### 45 
 Therefore, many of the Jews who came to Mary and saw what he did believed in him. 

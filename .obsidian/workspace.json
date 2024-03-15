@@ -9,42 +9,6 @@
         "dimension": 57.8757225433526,
         "children": [
           {
-            "id": "97d63aa98d0b63e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69dfecfe8b552b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe5006f32ead888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ee7feb0c1e553a1",
             "type": "leaf",
             "state": {
@@ -57,31 +21,55 @@
             }
           },
           {
-            "id": "1a6723af914b51f7",
+            "id": "68bf16fbf2099c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian MD cheat sheet.md",
+                "file": "Bibles/CSB/43 - John/John 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04feb7ee21c57ab4",
+            "id": "b6975899b1c84f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
-                "mode": "preview",
+                "file": "Bibles/CSB/43 - John/John 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f66640033f456e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68747dfd8c2bfd51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 12.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "b133770da4704494",
@@ -97,6 +85,18 @@
                 "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
                 "mode": "source",
                 "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81142fa4c879adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/People in the Bible/The Apostles/John.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 8.md",
+                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 8.md",
+                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 8.md"
+                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md"
               }
             }
           }
@@ -243,44 +243,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ee7feb0c1e553a1",
+  "active": "7eb04eaf0bac665a",
   "lastOpenFiles": [
+    "Bible Study/People in the Bible/The Apostles/John.md",
+    "Bible Study/Questions.md",
+    "Bibles/CSB/43 - John/John 10.md",
+    "General Drawings/Father, Son, and Holy Spirit.md",
+    "General Drawings/Timeline of Jesus.md",
+    "Bibles/NASB1995/43 - John/John 10.md",
+    "Bibles/CSB/43 - John/John 12.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Bibles/CSB/43 - John/John 11.md",
+    "Bible Study/Sermons?/Trusting God when it's weird/Trusting God even when it's ___.md",
+    "Bibles/CSB/43 - John/John 9.md",
+    "Bibles/CSB/43 - John/John 20.md",
+    "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
+    "Bible Study/Sermons?/Trusting God when it's weird",
+    "Obsidian MD cheat sheet.md",
+    "Bibles/NASB1995/43 - John/John 9.md",
+    "Bible Study/Sermons?",
+    "Bibles/CSB/43 - John/John 8.md",
+    "Bibles/NASB1995/43 - John/John 8.md",
+    "Bibles/NASB1995/43 - John/John 5.md",
+    "Bibles/CSB/43 - John/John 5.md",
+    "Bibles/CSB/43 - John/John 6.md",
     "Bibles/CSB/43 - John/John 7.md",
+    "Podcast/Ep 1 - Saved by grace through faith.md",
     "ARCHIVED/ARCHIVED - How do we be \"Born of God\"?.md",
     "Bible Study/Study topics/Is Baptism needed for salvation?.md",
     "ARCHIVED/ARCHIVED - Is Baptism needed for salvation?.md",
-    "Obsidian MD cheat sheet.md",
     "Bible Study/Study topics/To judge or not to judge.md",
     "Bible Study/Study topics/What does \"Fear the Lord\" mean?.md",
-    "Bibles/CSB/43 - John/John 8.md",
     "ARCHIVED",
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bibles/NASB1995/43 - John/John 7.md",
-    "Bibles/CSB/23 - Isaiah/Isa 9.md",
-    "Bibles/NKJV/43 - John/John 7.md",
-    "Bibles/CSB/43 - John/John 6.md",
-    "Bibles/NASB1995/43 - John/John 6.md",
-    "Bibles/CSB/43 - John/John 5.md",
-    "Bible Study/Primer/Disciples vs Apostles.md",
-    "Bibles/CSB/43 - John/John 2.md",
-    "Podcast/Ep 1 - Saved by grace through faith.md",
-    "Bible Study/Study topics/Is Hell a place or state of being?.md",
-    "Bibles/CSB/43 - John/John 4.md",
     "Podcast",
-    "Bible Study/Study topics/Did Jesus claim to be God?.md",
-    "Bibles/NASB1995/43 - John/John 4.md",
-    "Bibles/NASB1995/43 - John/John 5.md",
-    "Bibles/CSB/43 - John/John 3.md",
-    "Bible Study/Questions.md",
-    "Bible Study/Study topics/Why are verses missing in some translations?.md",
     "Bibles/NLT/66 - Revelation",
     "Bibles/NLT/65 - Jude",
     "Bibles/NLT/64 - 3 John",
     "Bibles/NLT/63 - 2 John",
     "Bibles/NLT/62 - 1 John",
     "Bibles/NLT/61 - 2 Peter",
-    "Bibles/NLT/60 - 1 Peter",
-    "Bibles/NLT/59 - James",
     "Untitled.canvas",
     "Test test.canvas",
     "Test.canvas",
