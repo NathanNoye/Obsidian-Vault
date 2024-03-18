@@ -27,7 +27,9 @@ He didn't say this because he cared about the poor but because he was a thief. H
 Jesus answered, **"Leave her alone; she has kept it for the day of my burial.** 
 
 ###### 8 
-**For you always have the poor with you,** **but you do not always have me."**The Decision to Kill Lazarus 
+**For you always have the poor with you,** **but you do not always have me."**
+
+### The Decision to Kill Lazarus 
 
 ###### 9 
 Then a large crowd of the Jews learned he was there. They came not only because of Jesus but also to see Lazarus, the one he had raised from the dead. 
@@ -36,19 +38,21 @@ Then a large crowd of the Jews learned he was there. They came not only because 
 But the chief priests had decided to kill Lazarus also, 
 
 ###### 11 
-because he was the reason many of the Jews were deserting them and believing in Jesus.The Triumphal Entry 
+because he was the reason many of the Jews were deserting them and believing in Jesus.
+
+### The Triumphal Entry 
 
 ###### 12 
 The next day, when the large crowd that had come to the festival heard that Jesus was coming to Jerusalem, 
 
 ###### 13 
-they took palm branches and went out to meet him. They kept shouting: <b class="quote"><em>"Hosanna!</em>** <b class="quote">Blessed is he who comes in the name of the Lord** <b class="quote">--the King of Israel!"** 
+they took palm branches and went out to meet him. They kept shouting: <b class="quote"><em>"Hosanna! </em>Blessed is he who comes in the name of the Lord--the King of Israel!"</b>
 
 ###### 14 
 Jesus found a young donkey and sat on it, just as it is written: 
 
 ###### 15 
-<b class="quote">Do not be afraid,** <b class="quote">Daughter Zion. Look, your King is coming,** <b class="quote">sitting on a donkey's colt.** 
+<b class="quote">Do not be afraid, Daughter Zion. Look, your King is coming, sitting on a donkey's colt.</b>
 
 ###### 16 
 His disciples did not understand these things at first. However, when Jesus was glorified, then they remembered that these things had been written about him and that they had done these things to him. 
@@ -60,7 +64,9 @@ Meanwhile, the crowd, which had been with him when he called Lazarus out of the 
 This is also why the crowd met him, because they heard he had done this sign. 
 
 ###### 19 
-Then the Pharisees said to one another, "You see? You've accomplished nothing. Look, the world has gone after him!" Jesus Predicts His Crucifixion 
+Then the Pharisees said to one another, "You see? You've accomplished nothing. Look, the world has gone after him!"
+
+### Jesus Predicts His Crucifixion 
 
 ###### 20 
 Now some Greeks were among those who went up to worship at the festival. 
@@ -78,7 +84,7 @@ Jesus replied to them, **"The hour has come for the Son of Man** **to be glorifi
 **Truly I tell you, unless a grain of wheat** **falls to the ground and dies, it remains by itself. But if it dies, it produces much fruit.** 
 
 ###### 25 
-**The one who loves his life will lose it,** **and the one who hates** **his life** docker-credential-ecr-login docker-credential-osxkeychain this world will keep it for eternal life.** 
+**The one who loves his life will lose it, and the one who hates his life in this world will keep it for eternal life.**
 
 ###### 26 
 **If anyone serves me, he must follow me. Where I am, there my servant** **also will be.** **If anyone serves me, the Father will honor** **him.** 
@@ -111,19 +117,21 @@ Then the crowd replied to him, "We have heard from the law that the Messiah will
 Jesus answered, **"The light will be with you only a little longer.** **Walk while you have the light** **so that darkness doesn't overtake you.** **The one who walks in darkness doesn't know where he's going.** 
 
 ###### 36 
-**While you have the light,** **believe in the light so that you may become children of light."** Jesus said this, then went away and hid from them.Isaiah's Prophecies Fulfilled 
+**While you have the light,** **believe in the light so that you may become children of light."** Jesus said this, then went away and hid from them.
+
+### Isaiah's Prophecies Fulfilled 
 
 ###### 37 
 Even though he had performed so many signs in their presence, they did not believe in him. 
 
 ###### 38 
-This was to fulfill the word of Isaiah the prophet, who said: <b class="quote">Lord, who has believed our message?** <b class="quote">And to whom has the arm** <b class="quote">of the Lord been revealed?** 
+This was to fulfill the word of Isaiah the prophet, who said: <b class="quote">Lord, who has believed our message? And to whom has the arm of the Lord been revealed? </b>
 
 ###### 39 
 This is why they were unable to believe, because Isaiah also said: 
 
 ###### 40 
-<b class="quote">He has blinded** <b class="quote">their eyes** <b class="quote">and hardened their hearts,** <b class="quote">so that they would not see with their eyes** <b class="quote">or understand with their hearts,** <b class="quote">and turn,** <b class="quote">and I would heal them.** 
+<b class="quote">He has blinded their eyes and hardened their hearts, so that they would not see with their eyes or understand with their hearts, and turn,  and I would heal them.</b>
 
 ###### 41 
 Isaiah said these things because he saw his glory and spoke about him. 
@@ -132,7 +140,9 @@ Isaiah said these things because he saw his glory and spoke about him.
 Nevertheless, many did believe in him even among the rulers, but because of the Pharisees they did not confess him, so that they would not be banned from the synagogue. 
 
 ###### 43 
-For they loved human praise more than praise from God.A Summary of Jesus's Mission 
+For they loved human praise more than praise from God.
+
+### A Summary of Jesus's Mission 
 
 ###### 44 
 Jesus cried out, **"The one who believes in me** **believes not in me, but in him who sent me.** 

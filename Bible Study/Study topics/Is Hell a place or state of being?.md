@@ -1,1 +1,0 @@
-Do we go to a burning pit or is Hell just separation from God?

@@ -147,7 +147,7 @@ The dead man came out bound hand and foot with linen strips and with his face wr
 
 ###### 45 
 Therefore, many of the Jews who came to Mary and saw what he did believed in him. 
-
+1
 ###### 46 
 But some of them went to the Pharisees and told them what Jesus had done. 
 

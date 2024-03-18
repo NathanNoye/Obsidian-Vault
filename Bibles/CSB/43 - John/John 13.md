@@ -36,7 +36,9 @@ Simon Peter said to him, "Lord, not only my feet, but also my hands and my head.
 **"One who has bathed,"** Jesus told him, **"doesn't need to wash anything except his feet, but he is completely clean. You are clean, but not all of you."** 
 
 ###### 11 
-For he knew who would betray him. This is why he said, **"Not all of you are clean."**The Meaning of Foot Washing 
+For he knew who would betray him. This is why he said, **"Not all of you are clean."
+
+### The Meaning of Foot Washing 
 
 ###### 12 
 When Jesus had washed their feet and put on his outer clothing, he reclined again and said to them, **"Do you know what I have done for you?** 
@@ -57,13 +59,15 @@ When Jesus had washed their feet and put on his outer clothing, he reclined agai
 **If you know these things, you are blessed if you do them.** 
 
 ###### 18 
-**"I'm not speaking about all of you; I know those I have chosen.** **But the Scripture** **must be fulfilled:** **<b class="quote">The one who eats my bread**** **<b class="quote">has raised his heel against me.**** 
+**"I'm not speaking about all of you; I know those I have chosen.** **But the Scripture** **must be fulfilled:** **<b class="quote">The one who eats my bread has raised his heel against me. </b>
 
 ###### 19 
 **I am telling you now before it happens,** **so that when it does happen you will believe** **that I am he.** 
 
 ###### 20 
-**Truly I tell you, whoever receives anyone I send receives me, and the one who receives** **me receives him who sent me."**Judas's Betrayal Predicted 
+**Truly I tell you, whoever receives anyone I send receives me, and the one who receives** **me receives him who sent me."
+
+### Judas's Betrayal Predicted 
 
 ###### 21 
 When Jesus had said this, he was troubled in his spirit and testified, **"Truly I tell you, one of you will betray me."** 
@@ -93,10 +97,12 @@ None of those reclining at the table knew why he said this to him.
 Since Judas kept the money-bag, some thought that Jesus was telling him, "Buy what we need for the festival," or that he should give something to the poor. 
 
 ###### 30 
-After receiving the piece of bread, he immediately left. And it was night.The New Command 
+After receiving the piece of bread, he immediately left. And it was night.
+
+### The New Command 
 
 ###### 31 
-When he had left, Jesus said, **"Now the Son of Man** **is glorified, and God is glorified** docker-credential-ecr-login docker-credential-osxkeychain him.** 
+When he had left, Jesus said, **"Now the Son of Man** **is glorified, and God is glorified in him.** 
 
 ###### 32 
 **If God is glorified in him,** **God will also glorify him in himself and will glorify him at once.** 
@@ -108,7 +114,9 @@ When he had left, Jesus said, **"Now the Son of Man** **is glorified, and God is
 **"I give you a new command: Love one another. Just as I have loved you, you are also to love one another.** 
 
 ###### 35 
-**By this everyone will know that you are my disciples, if you love** **one another."**Peter's Denials Predicted 
+**By this everyone will know that you are my disciples, if you love** **one another."**
+
+### Peter's Denials Predicted 
 
 ###### 36 
 "Lord," Simon Peter said to him, "where are you going?" Jesus answered, **"Where I am going** **you cannot follow me now, but you will follow later."** 

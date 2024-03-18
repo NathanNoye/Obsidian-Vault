@@ -27,7 +27,9 @@
 **If you remain in me and my words remain in you, ask whatever you want and it will be done for you.** 
 
 ###### 8 
-**My Father is glorified** **by this: that you produce much fruit and prove to be** **my disciples.**Christlike Love 
+**My Father is glorified** **by this: that you produce much fruit and prove to be** **my disciples.**
+
+### Christlike Love 
 
 ###### 9 
 **"As the Father has loved me, I have also loved you. Remain in my love.** 
@@ -54,7 +56,9 @@
 **You did not choose me, but I chose you.** **I appointed you to go and produce fruit and that your fruit should remain, so that whatever you ask** **the Father in my name,** **he will give you.** 
 
 ###### 17 
-**"This is what I command you: Love one another.**Persecutions Predicted 
+**"This is what I command you: Love one another.**
+
+### Persecutions Predicted 
 
 ###### 18 
 **"If the world hates** **you, understand that it hated me before it hated you.** 
@@ -78,7 +82,9 @@
 **If I had not done the works** **among them that no one else has done,** **they would not be guilty of sin.** **Now they have seen and hated both me and my Father.** 
 
 ###### 25 
-**But this happened so that the statement written in their law might be fulfilled:** **<b class="quote">They hated me for no reason.****The Counselor's Ministry 
+**But this happened so that the statement written in their law might be fulfilled:** **<b class="quote">They hated me for no reason. </b>
+
+### The Counselor's Ministry 
 
 ###### 26 
 **"When the Counselor** **comes, the one I will send to you from the Father** **--the Spirit of truth** **who proceeds from the Father--he will testify about me.** 

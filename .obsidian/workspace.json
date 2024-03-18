@@ -9,42 +9,6 @@
         "dimension": 57.8757225433526,
         "children": [
           {
-            "id": "3ee7feb0c1e553a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68bf16fbf2099c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6975899b1c84f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23f66640033f456e",
             "type": "leaf",
             "state": {
@@ -67,9 +31,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1321d27d0c85712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f7be4c6393fb1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b133770da4704494",
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
+                "file": "Bibles/CSB/43 - John/John 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
+                "file": "Bibles/CSB/43 - John/John 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md"
+                "file": "Bibles/CSB/43 - John/John 16.md"
               }
             }
           }
@@ -243,45 +231,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7eb04eaf0bac665a",
+  "active": "03f7be4c6393fb1a",
   "lastOpenFiles": [
-    "Bible Study/People in the Bible/The Apostles/John.md",
-    "Bible Study/Questions.md",
-    "Bibles/CSB/43 - John/John 10.md",
-    "General Drawings/Father, Son, and Holy Spirit.md",
-    "General Drawings/Timeline of Jesus.md",
-    "Bibles/NASB1995/43 - John/John 10.md",
-    "Bibles/CSB/43 - John/John 12.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bibles/CSB/43 - John/John 11.md",
-    "Bible Study/Sermons?/Trusting God when it's weird/Trusting God even when it's ___.md",
-    "Bibles/CSB/43 - John/John 9.md",
-    "Bibles/CSB/43 - John/John 20.md",
+    "Programming notes/Design Patterns/Behavioral/Visitor.md",
+    "Programming notes/Design Patterns/Design Patterns.md",
+    "Programming notes/React Notes/Pro tips/How to optimize.md",
+    "Programming notes/Design Patterns/Structural/Composite.md",
+    "Programming notes/React Notes/Pro tips",
+    "Programming notes/Ruby on rails",
+    "Programming notes/Design Patterns/Structural/Bridge.md",
+    "Programming notes/Design Patterns/Structural/Adapter.md",
+    "Programming notes/React Notes/Architectures",
+    "Programming notes/React Notes/Hooks",
+    "Programming notes/Design Patterns/Behavioral/Template Method.md",
+    "Programming notes/Design Patterns/Behavioral/Strategy.md",
+    "Programming notes/Design Patterns/Behavioral/State.md",
+    "Programming notes/Design Patterns/Behavioral/Memento.md",
+    "Programming notes/Design Patterns/Behavioral/Observer.md",
+    "Programming notes/Design Patterns/Behavioral/Mediator.md",
+    "Programming notes/Design Patterns/Behavioral/Iterator.md",
+    "Programming notes/Design Patterns/Behavioral/Interpreter.md",
+    "Programming notes/Design Patterns/Behavioral/Command.md",
+    "Programming notes/Design Patterns/Behavioral/Chain of Responsibility.md",
+    "Programming notes/Design Patterns/Structural/Flyweight.md",
+    "Programming notes/Design Patterns/Structural/Proxy.md",
+    "Programming notes/Design Patterns/Structural/Facade.md",
+    "Programming notes/Design Patterns/Structural/Decorator.md",
+    "Programming notes/Design Patterns/Creational/Abstract Factory.md",
+    "Programming notes/Design Patterns/Behavioral",
+    "Programming notes/Design Patterns/Structural",
+    "Programming notes/Design Patterns/Creational/Singleton.md",
+    "Programming notes/Design Patterns/Creational/Factory Method.md",
+    "Programming notes/Design Patterns/Creational/Prototype.md",
+    "Programming notes/Design Patterns/Creational",
+    "Programming notes/Design Patterns/Creational/Builder.md",
+    "Pasted image 20240318164731.png",
+    "Bibles/CSB/43 - John/John 13.md",
+    "Programming notes/Design Patterns",
+    "Programming notes",
+    "Programming notes/React Notes",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
-    "Bible Study/Sermons?/Trusting God when it's weird",
-    "Obsidian MD cheat sheet.md",
-    "Bibles/NASB1995/43 - John/John 9.md",
-    "Bible Study/Sermons?",
-    "Bibles/CSB/43 - John/John 8.md",
-    "Bibles/NASB1995/43 - John/John 8.md",
-    "Bibles/NASB1995/43 - John/John 5.md",
-    "Bibles/CSB/43 - John/John 5.md",
-    "Bibles/CSB/43 - John/John 6.md",
-    "Bibles/CSB/43 - John/John 7.md",
-    "Podcast/Ep 1 - Saved by grace through faith.md",
-    "ARCHIVED/ARCHIVED - How do we be \"Born of God\"?.md",
-    "Bible Study/Study topics/Is Baptism needed for salvation?.md",
-    "ARCHIVED/ARCHIVED - Is Baptism needed for salvation?.md",
-    "Bible Study/Study topics/To judge or not to judge.md",
-    "Bible Study/Study topics/What does \"Fear the Lord\" mean?.md",
-    "ARCHIVED",
-    "Podcast",
-    "Bibles/NLT/66 - Revelation",
-    "Bibles/NLT/65 - Jude",
-    "Bibles/NLT/64 - 3 John",
-    "Bibles/NLT/63 - 2 John",
-    "Bibles/NLT/62 - 1 John",
-    "Bibles/NLT/61 - 2 Peter",
     "Untitled.canvas",
     "Test test.canvas",
     "Test.canvas",

@@ -6,7 +6,7 @@
 
 
 ###### 1 
-**"Don't let your heart be troubled.** **Believe** docker-credential-ecr-login docker-credential-osxkeychain God;** **believe also in me.** 
+**"Don't let your heart be troubled.** **Believe in God;** **believe also in me.** 
 
 ###### 2 
 **In my Father's house are many rooms. If it were not so, would I have told you that I am going** **to prepare a place for you?** 
@@ -24,7 +24,9 @@
 Jesus told him, **"I am** **the way,** **the truth, and the life. No one comes to the Father except through me.** 
 
 ###### 7 
-**If you know me, you will also know** **my Father.** **From now on you do know him** **and have seen him."**Jesus Reveals the Father 
+**If you know me, you will also know** **my Father.** **From now on you do know him** **and have seen him."**
+
+### Jesus Reveals the Father 
 
 ###### 8 
 "Lord," said Philip, "show us the Father, and that's enough for us." 
@@ -36,16 +38,20 @@ Jesus said to him, **"Have I been among you all this time and you do not know me
 **Don't you believe that I am in the Father and the Father is in me?** **The words I speak to you I do not speak on my own.** **The Father who lives in me does his works.** 
 
 ###### 11 
-**Believe me that I am in the Father and the Father is in me. Otherwise, believe** **because of the works themselves.**Praying in Jesus's Name 
+**Believe me that I am in the Father and the Father is in me. Otherwise, believe** **because of the works themselves.**
+
+### Praying in Jesus's Name 
 
 ###### 12 
 **"Truly I tell you, the one who believes in me** **will also do the works that I do. And he will do even greater works than these,** **because I am going to the Father.** 
 
 ###### 13 
-**Whatever you ask in my name, I will do it so that the Father may be glorified** docker-credential-ecr-login docker-credential-osxkeychain the Son.** 
+**Whatever you ask in my name, I will do it so that the Father may be glorified in the Son.** 
 
 ###### 14 
-**If you ask me** **anything in my name,** **I will do it.**Another Counselor Promised 
+**If you ask me** **anything in my name,** **I will do it.**
+
+### Another Counselor Promised 
 
 ###### 15 
 **"If you love me, you will keep** **my commands.** 
@@ -54,7 +60,9 @@ Jesus said to him, **"Have I been among you all this time and you do not know me
 **And I will ask the Father, and he will give you another Counselor** **to be with you forever.** 
 
 ###### 17 
-**He is the Spirit** **of truth.** **The world is unable to receive him because it doesn't see him or know him. But you do know him, because he remains with you and will be** docker-credential-ecr-login docker-credential-osxkeychain you.**The Father, the Son, and the Holy Spirit 
+**He is the Spirit** **of truth.** **The world is unable to receive him because it doesn't see him or know him. But you do know him, because he remains with you and will be in you.**
+
+### The Father, the Son, and the Holy Spirit 
 
 ###### 18 
 **"I will not leave you as orphans; I am coming to you.** 
@@ -81,7 +89,9 @@ Jesus answered, **"If anyone loves me, he will keep my word. My Father will love
 **"I have spoken these things to you while I remain with you.** 
 
 ###### 26 
-**But the Counselor, the Holy Spirit,** **whom the Father will send** docker-credential-ecr-login docker-credential-osxkeychain my name, will teach you all things** **and remind you of everything I have told you.**Jesus's Gift of Peace 
+**But the Counselor, the Holy Spirit,** **whom the Father will send in my name, will teach you all things and remind you of everything I have told you.**
+
+### Jesus's Gift of Peace 
 
 ###### 27 
 **"Peace I leave with you. My peace I give to you. I do not give to you as the world gives. Don't let your heart be troubled or fearful.** 

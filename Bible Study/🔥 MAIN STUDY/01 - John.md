@@ -158,5 +158,24 @@ Finally, Jesus refers to Himself as the "Good Shepherd," as a contrast to the fa
 # John 11
 Jesus is fully human and fully God. He feels human emotions because we see that he wept in verse 35.
 
+[[Bibles/CSB/43 - John/John 11#16|John 11:16]]  Thought that was an odd ending but I looked it up. It’s a bit sarcastic but also loyal line which I thought was funny. This shows Thomas wasn’t JUST a doubter. He hair strong faith at times and doubted other times, really cool that they noted that
+
 [[Bibles/CSB/43 - John/John 11#48|John 11:48]] - Seems like the Pharisees are more concerned with their own well-being than salvation for others. Granted - they didn't believe BUT they knew the signs. They were more concerned about their own well-being than seeing the signs right in front of them. How often are we like this?
 
+---
+# John 12
+
+--- 
+
+# John 13
+
+--- 
+
+# John 14
+[[Bibles/CSB/43 - John/John 14#16|John 14:16]] - [[Bibles/CSB/43 - John/John 14#17|John 14:17]] This referencing the Holy Spirit
+
+[[Bibles/CSB/43 - John/John 14#22|John 14:22]] - This is referring to [[Thaddaeus (Jude)]]. There is a part in Mark where it talks about Jesus calls those whom he desired (and Thaddaeus is one of them)
+
+[[Bibles/CSB/43 - John/John 14#30|John 14:30]] - Referring to Satan
+
+--- 
