@@ -12,7 +12,7 @@ What was from the beginning, what we have heard, what we have seen with our eyes
 that life was revealed, and we have seen it and we testify and declare to you the eternal life that was with the Father and was revealed to us-- 
 
 ###### 3 
-what we have seen and heard we also declare to you, so that you may also have fellowship with us; and indeed our fellowship is with the Father and with his Son, Jesus Christ. 
+what we have seen and heard we also declare to you, so that you may also have fellowship with us; and indeed our fellowship is with the Father and with his Son, [[Jesus]] Christ. 
 
 ###### 4 
 We are writing these things so that our joy may be complete.Fellowship with God 

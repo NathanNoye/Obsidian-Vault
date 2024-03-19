@@ -38,26 +38,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 13.md",
+                "file": "Bibles/CSB/62 - 1 John/1 John.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03f7be4c6393fb1a",
+            "id": "5a985b8322aa7573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 16.md",
+                "file": "Bibles/CSB/62 - 1 John/1 John 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "91dea10b54cee5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/Misc/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535c3ec8534dafca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b133770da4704494",
@@ -130,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entrust",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 16.md",
+                "file": "Bible Study/Misc/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 16.md",
+                "file": "Bible Study/Misc/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 16.md"
+                "file": "Bible Study/Misc/Test.md"
               }
             }
           }
@@ -231,8 +251,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03f7be4c6393fb1a",
+  "active": "91dea10b54cee5d2",
   "lastOpenFiles": [
+    "Bible Study/Misc/Cause and Effect.md",
+    "Bible Study/Misc/Test.md",
+    "Bibles/CSB/62 - 1 John/1 John 1.md",
+    "Bibles/CSB/62 - 1 John/1 John.md",
+    "Bible Study/People in the Bible/Jesus.md",
+    "Bibles/CSB/43 - John/John 13.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Bibles/CSB/43 - John/John 16.md",
     "Programming notes/Design Patterns/Behavioral/Visitor.md",
     "Programming notes/Design Patterns/Design Patterns.md",
     "Programming notes/React Notes/Pro tips/How to optimize.md",
@@ -255,18 +283,10 @@
     "Programming notes/Design Patterns/Behavioral/Chain of Responsibility.md",
     "Programming notes/Design Patterns/Structural/Flyweight.md",
     "Programming notes/Design Patterns/Structural/Proxy.md",
-    "Programming notes/Design Patterns/Structural/Facade.md",
-    "Programming notes/Design Patterns/Structural/Decorator.md",
-    "Programming notes/Design Patterns/Creational/Abstract Factory.md",
     "Programming notes/Design Patterns/Behavioral",
     "Programming notes/Design Patterns/Structural",
-    "Programming notes/Design Patterns/Creational/Singleton.md",
-    "Programming notes/Design Patterns/Creational/Factory Method.md",
-    "Programming notes/Design Patterns/Creational/Prototype.md",
     "Programming notes/Design Patterns/Creational",
-    "Programming notes/Design Patterns/Creational/Builder.md",
     "Pasted image 20240318164731.png",
-    "Bibles/CSB/43 - John/John 13.md",
     "Programming notes/Design Patterns",
     "Programming notes",
     "Programming notes/React Notes",

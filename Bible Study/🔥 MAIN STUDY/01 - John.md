@@ -174,7 +174,7 @@ Jesus is fully human and fully God. He feels human emotions because we see that 
 # John 14
 [[Bibles/CSB/43 - John/John 14#16|John 14:16]] - [[Bibles/CSB/43 - John/John 14#17|John 14:17]] This referencing the Holy Spirit
 
-[[Bibles/CSB/43 - John/John 14#22|John 14:22]] - This is referring to [[Thaddaeus (Jude)]]. There is a part in Mark where it talks about Jesus calls those whom he desired (and Thaddaeus is one of them)
+[[Bibles/CSB/43 - John/John 14#22|John 14:22]] - This is referring to [[Thaddaeus (Jude)]]. There is a part in Mark where it talks about [[Jesus]] calls those whom he desired (and Thaddaeus is one of them)
 
 [[Bibles/CSB/43 - John/John 14#30|John 14:30]] - Referring to Satan
 

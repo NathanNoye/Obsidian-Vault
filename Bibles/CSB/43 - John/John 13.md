@@ -119,7 +119,7 @@ When he had left, Jesus said, **"Now the Son of Man** **is glorified, and God is
 ### Peter's Denials Predicted 
 
 ###### 36 
-"Lord," Simon Peter said to him, "where are you going?" Jesus answered, **"Where I am going** **you cannot follow me now, but you will follow later."** 
+"Lord," Simon Peter said to him, "where are you going?" [[Jesus]] answered, **"Where I am going** **you cannot follow me now, but you will follow later."** 
 
 ###### 37 
 "Lord," Peter asked, "why can't I follow you now? I will lay down my life for you." 
