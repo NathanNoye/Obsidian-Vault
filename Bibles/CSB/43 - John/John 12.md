@@ -6,7 +6,7 @@
 
 
 ###### 1 
-Six days before the Passover, Jesus came to Bethany where Lazarus was, the one Jesus had raised from the dead. 
+Six days before the Passover, Jesus came to Bethany where Lazarus was, the one [[Jesus]] had raised from the dead. 
 
 ###### 2 
 So they gave a dinner for him there; Martha was serving them, and Lazarus was one of those reclining at the table with him. 

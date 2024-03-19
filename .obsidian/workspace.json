@@ -21,13 +21,14 @@
             }
           },
           {
-            "id": "68747dfd8c2bfd51",
+            "id": "1bbd3972727c3a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Bibles/CSB/43 - John/John 12.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -36,36 +37,12 @@
             "id": "b1321d27d0c85712",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/62 - 1 John/1 John.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a985b8322aa7573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/62 - 1 John/1 John 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "535c3ec8534dafca",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "b133770da4704494",
@@ -73,13 +50,13 @@
         "dimension": 42.1242774566474,
         "children": [
           {
-            "id": "f81142fa4c879adc",
+            "id": "d0e91030cd2ff8c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md",
-                "mode": "preview",
+                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,15 +65,38 @@
             "id": "c1f6f434a103752e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2018924a16a66138",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/Questions.md",
+                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dac2474d22373c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/People in the Bible/John the Baptist.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md",
+                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md",
+                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +202,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md"
+                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,45 +226,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a28f046f9f61aca0",
+  "active": "2018924a16a66138",
   "lastOpenFiles": [
-    "Programming notes/Images",
-    "Programming notes/Images/Pasted image 20240318164731.png",
+    "Bible Study/People in the Bible/John the Baptist.md",
+    "Bible Study/People in the Bible/The Apostles/Andrew.md",
+    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
+    "Bible Study/Study topics/Is Baptism needed for salvation?.md",
+    "Bible Study/People in the Bible/Jesus.md",
+    "Bibles/CSB/43 - John/John 12.md",
+    "Bibles/CSB/43 - John/John 11.md",
+    "Bible Study/Locations/Bethsaida/Bethsaida.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
     "Bible Study/People in the Bible/The Apostles/John.md",
     "Bible Study/Questions.md",
-    "Bible Study/Locations/Bethsaida/Bethsaida.md",
+    "Bibles/CSB/43 - John/John.md",
+    "Bible Study/Sermons?/Trusting God when it's weird/Trusting God even when it's ___.md",
+    "Bible Study/Nate's random notes.md",
+    "Bible Study/Study topics/Did Jesus claim to be God?.md",
+    "Bible Study/Primer/Disciples vs Apostles.md",
+    "Bible Study/Primer/The Bible.md",
+    "Bibles/CSB/62 - 1 John/1 John.md",
+    "Programming notes/Images",
+    "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Misc/Test.md",
-    "Bible Study/People in the Bible/Jesus.md",
     "TEST_HERE/NEW/test.md",
     "TEST_HERE/Test.md",
     "Bibles/NKJV/09 - 1 Samuel/1 Sam 8.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bibles/CSB/62 - 1 John/1 John.md",
     "Bibles/CSB/62 - 1 John/1 John 1.md",
     "TEST_HERE/NEW",
     "hello world.md",
     "TEST_HERE",
     "Bible Study/test.md",
-    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
-    "Bible Study/People in the Bible/The Apostles/Andrew.md",
     "Bible Study/People in the Bible/The Apostles/Bartholomew (Nathanael).md",
-    "Bible Study/Misc/Cause and Effect.md",
-    "Bibles/CSB/43 - John/John 13.md",
-    "Bibles/CSB/43 - John/John 16.md",
-    "Programming notes/Design Patterns/Behavioral/Visitor.md",
-    "Programming notes/Design Patterns/Design Patterns.md",
-    "Programming notes/React Notes/Pro tips/How to optimize.md",
-    "Programming notes/Design Patterns/Structural/Composite.md",
     "Programming notes/React Notes/Pro tips",
     "Programming notes/Ruby on rails",
-    "Programming notes/Design Patterns/Structural/Bridge.md",
-    "Programming notes/Design Patterns/Structural/Adapter.md",
     "Programming notes/React Notes/Architectures",
     "Programming notes/React Notes/Hooks",
     "Programming notes/Design Patterns/Behavioral",
     "Programming notes/Design Patterns/Structural",
     "Programming notes/Design Patterns/Creational",
-    "Programming notes/Design Patterns",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
     "Test test.canvas",
