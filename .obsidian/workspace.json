@@ -43,6 +43,19 @@
             }
           },
           {
+            "id": "d56867116c322abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to download other versions of the bible.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b5f9366274adf65f",
             "type": "leaf",
             "state": {
@@ -69,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b133770da4704494",
@@ -181,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to download other versions of the bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to download other versions of the bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to download other versions of the bible.md"
+              }
             }
           }
         ],
@@ -242,45 +259,45 @@
       "linkmatic:Link Keywords": false
     }
   },
-  "active": "e37328a10c12d091",
+  "active": "a28f046f9f61aca0",
   "lastOpenFiles": [
-    "Bibles/CSB/43 - John/John 15.md",
-    "Bibles/CSB/43 - John/John 16.md",
-    "Bible Study/People in the Bible/Jesus.md",
-    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 5.md",
-    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 4.md",
-    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 3.md",
-    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 2.md",
-    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 1.md",
-    "Bibles/CSB/51 - Colossians/Col 4.md",
-    "Bibles/CSB/51 - Colossians/Col 3.md",
-    "Bibles/CSB/51 - Colossians/Col 2.md",
-    "Bibles/CSB/51 - Colossians/Col 1.md",
-    "Bibles/CSB/50 - Philippians/Phil 4.md",
-    "Bibles/CSB/50 - Philippians/Phil 3.md",
-    "Bibles/CSB/50 - Philippians/Phil 2.md",
-    "Bibles/CSB/50 - Philippians/Phil 1.md",
-    "Bibles/CSB/49 - Ephesians/Eph 6.md",
-    "Bibles/CSB/49 - Ephesians/Eph 5.md",
-    "Bibles/CSB/49 - Ephesians/Eph 4.md",
-    "Bibles/CSB/49 - Ephesians/Eph 3.md",
-    "Bibles/CSB/49 - Ephesians/Eph 2.md",
-    "Bibles/CSB/49 - Ephesians/Eph 1.md",
-    "Bibles/CSB/48 - Galatians/Gal 6.md",
-    "Bibles/CSB/48 - Galatians/Gal 5.md",
-    "Bibles/CSB/48 - Galatians/Gal 4.md",
-    "Bibles/CSB/48 - Galatians/Gal 3.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John",
-    "Programming notes/Images",
+    "Bibles/GNV/66 - Revelation/Rev 9.md",
+    "Bibles/GNV/66 - Revelation/Rev 8.md",
+    "Bibles/GNV/66 - Revelation/Rev 7.md",
+    "Bibles/GNV/66 - Revelation/Rev 6.md",
+    "Bibles/GNV/66 - Revelation/Rev 5.md",
+    "Bibles/GNV/66 - Revelation/Rev 4.md",
+    "Bibles/GNV/66 - Revelation/Rev 3.md",
+    "Bibles/GNV/66 - Revelation/Rev 22.md",
+    "Bibles/GNV/66 - Revelation/Rev 21.md",
+    "Bibles/GNV/66 - Revelation/Rev 20.md",
+    "Bibles/GNV/66 - Revelation/Rev 2.md",
+    "Bibles/GNV/66 - Revelation/Rev 19.md",
+    "Bibles/GNV/66 - Revelation/Rev 18.md",
+    "Bibles/GNV/66 - Revelation/Rev 17.md",
+    "Bibles/GNV/66 - Revelation/Rev 16.md",
+    "Bibles/GNV/66 - Revelation/Rev 15.md",
+    "Bibles/GNV/66 - Revelation/Rev 14.md",
+    "Bibles/GNV/66 - Revelation/Rev 13.md",
+    "Bibles/GNV/66 - Revelation/Rev 12.md",
+    "Bibles/GNV/66 - Revelation/Rev 11.md",
+    "Bibles/GNV/66 - Revelation/Rev 10.md",
+    "Bibles/GNV/66 - Revelation/Rev 1.md",
+    "Bibles/GNV/66 - Revelation/66 - Revelation.md",
+    "Bibles/GNV/65 - Jude/Jude 1.md",
+    "Bibles/GNV/65 - Jude/65 - Jude.md",
+    "Bibles/GNV/64 - 3 John/64 - 3 John.md",
+    "Bibles/GNV/66 - Revelation",
+    "Bibles/GNV/65 - Jude",
+    "Bibles/GNV/64 - 3 John",
+    "Bibles/GNV/63 - 2 John",
+    "Bibles/GNV/62 - 1 John",
+    "Bibles/GNV/61 - 2 Peter",
+    "Bibles/GNV/60 - 1 Peter",
+    "Bibles/GNV/57 - Philemon",
+    "Bibles/GNV/59 - James",
+    "Bibles/GNV/58 - Hebrews",
     "Programming notes/Images/Pasted image 20240318164731.png",
-    "TEST_HERE/NEW",
-    "TEST_HERE",
-    "Programming notes/React Notes/Pro tips",
-    "Programming notes/Ruby on rails",
-    "Programming notes/React Notes/Architectures",
-    "Programming notes/React Notes/Hooks",
-    "Programming notes/Design Patterns/Behavioral",
-    "Programming notes/Design Patterns/Structural",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
     "Test test.canvas",
