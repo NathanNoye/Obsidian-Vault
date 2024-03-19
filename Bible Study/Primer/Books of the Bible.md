@@ -57,14 +57,14 @@ Though shorter in length, these books are significant in content, addressing the
 ### New Testament
 
 **Gospels**
-The four Gospels recount the life, ministry, death, and resurrection of Jesus Christ, each from a unique perspective, presenting the core of Christian faith and teachings.
+The four Gospels recount the life, ministry, death, and resurrection of [[Jesus|Jesus]] Christ, each from a unique perspective, presenting the core of Christian faith and teachings.
 1. Matthew
 2. Mark
 3. Luke
 4. [[Bibles/CSB/43 - John/John|John]]
 
 **Acts** 
-This book details the early history of the Christian church following Jesus' ascension into heaven, focusing on the acts of the Apostles, especially Peter and Paul, and the spread of the gospel.
+This book details the early history of the Christian church following [[Jesus|Jesus]]' ascension into heaven, focusing on the acts of the Apostles, especially Peter and Paul, and the spread of the gospel.
 5. Acts of the Apostles
 
 **Pauline Epistles** 

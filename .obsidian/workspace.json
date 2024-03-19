@@ -57,18 +57,6 @@
             }
           },
           {
-            "id": "91dea10b54cee5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/Misc/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "535c3ec8534dafca",
             "type": "leaf",
             "state": {
@@ -77,26 +65,13 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b133770da4704494",
         "type": "tabs",
         "dimension": 42.1242774566474,
         "children": [
-          {
-            "id": "7eb04eaf0bac665a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
           {
             "id": "f81142fa4c879adc",
             "type": "leaf",
@@ -187,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/Misc/Test.md",
+                "file": "Bible Study/People in the Bible/The Apostles/John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/Misc/Test.md",
+                "file": "Bible Study/People in the Bible/The Apostles/John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/Misc/Test.md"
+                "file": "Bible Study/People in the Bible/The Apostles/John.md"
               }
             }
           }
@@ -241,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sample-plugin:Link Keywords": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,15 +227,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91dea10b54cee5d2",
+  "active": "f81142fa4c879adc",
   "lastOpenFiles": [
-    "Bible Study/Misc/Cause and Effect.md",
+    "Bible Study/Questions.md",
+    "Bible Study/People in the Bible/The Apostles/John.md",
+    "Bible Study/Locations/Bethsaida/Bethsaida.md",
     "Bible Study/Misc/Test.md",
-    "Bibles/CSB/62 - 1 John/1 John 1.md",
-    "Bibles/CSB/62 - 1 John/1 John.md",
     "Bible Study/People in the Bible/Jesus.md",
-    "Bibles/CSB/43 - John/John 13.md",
+    "TEST_HERE/NEW/test.md",
+    "TEST_HERE/Test.md",
+    "Bibles/NKJV/09 - 1 Samuel/1 Sam 8.md",
     "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Bibles/CSB/62 - 1 John/1 John.md",
+    "Bibles/CSB/62 - 1 John/1 John 1.md",
+    "TEST_HERE/NEW",
+    "hello world.md",
+    "TEST_HERE",
+    "Bible Study/test.md",
+    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
+    "Bible Study/People in the Bible/The Apostles/Andrew.md",
+    "Bible Study/People in the Bible/The Apostles/Bartholomew (Nathanael).md",
+    "Bible Study/Misc/Cause and Effect.md",
+    "Bibles/CSB/43 - John/John 13.md",
     "Bibles/CSB/43 - John/John 16.md",
     "Programming notes/Design Patterns/Behavioral/Visitor.md",
     "Programming notes/Design Patterns/Design Patterns.md",
@@ -272,24 +261,11 @@
     "Programming notes/React Notes/Architectures",
     "Programming notes/React Notes/Hooks",
     "Programming notes/Design Patterns/Behavioral/Template Method.md",
-    "Programming notes/Design Patterns/Behavioral/Strategy.md",
-    "Programming notes/Design Patterns/Behavioral/State.md",
-    "Programming notes/Design Patterns/Behavioral/Memento.md",
-    "Programming notes/Design Patterns/Behavioral/Observer.md",
-    "Programming notes/Design Patterns/Behavioral/Mediator.md",
-    "Programming notes/Design Patterns/Behavioral/Iterator.md",
-    "Programming notes/Design Patterns/Behavioral/Interpreter.md",
-    "Programming notes/Design Patterns/Behavioral/Command.md",
-    "Programming notes/Design Patterns/Behavioral/Chain of Responsibility.md",
-    "Programming notes/Design Patterns/Structural/Flyweight.md",
-    "Programming notes/Design Patterns/Structural/Proxy.md",
     "Programming notes/Design Patterns/Behavioral",
     "Programming notes/Design Patterns/Structural",
     "Programming notes/Design Patterns/Creational",
     "Pasted image 20240318164731.png",
     "Programming notes/Design Patterns",
-    "Programming notes",
-    "Programming notes/React Notes",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
     "Test test.canvas",
