@@ -62,20 +62,12 @@
             }
           },
           {
-            "id": "c1f6f434a103752e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2018924a16a66138",
+            "id": "d3e8f92c223b09b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
+                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
+                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md",
+                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/Andrew.md"
+                "file": "Podcast/Ep 1 - Saved by grace through faith.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,9 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2018924a16a66138",
+  "active": "d3e8f92c223b09b2",
   "lastOpenFiles": [
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
     "Bible Study/People in the Bible/John the Baptist.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John",
     "Bible Study/People in the Bible/The Apostles/Andrew.md",
     "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
     "Bible Study/Study topics/Is Baptism needed for salvation?.md",
@@ -236,7 +232,6 @@
     "Bibles/CSB/43 - John/John 12.md",
     "Bibles/CSB/43 - John/John 11.md",
     "Bible Study/Locations/Bethsaida/Bethsaida.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
     "Bible Study/People in the Bible/The Apostles/John.md",
     "Bible Study/Questions.md",
     "Bibles/CSB/43 - John/John.md",
@@ -257,14 +252,12 @@
     "hello world.md",
     "TEST_HERE",
     "Bible Study/test.md",
-    "Bible Study/People in the Bible/The Apostles/Bartholomew (Nathanael).md",
     "Programming notes/React Notes/Pro tips",
     "Programming notes/Ruby on rails",
     "Programming notes/React Notes/Architectures",
     "Programming notes/React Notes/Hooks",
     "Programming notes/Design Patterns/Behavioral",
     "Programming notes/Design Patterns/Structural",
-    "Programming notes/Design Patterns/Creational",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
     "Test test.canvas",
