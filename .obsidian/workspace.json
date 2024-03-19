@@ -9,24 +9,12 @@
         "dimension": 57.8757225433526,
         "children": [
           {
-            "id": "23f66640033f456e",
+            "id": "3de11deaf913bb8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bbd3972727c3a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 12.md",
+                "file": "Bibles/CSB/43 - John/John 15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,15 +22,54 @@
             }
           },
           {
-            "id": "b1321d27d0c85712",
+            "id": "fdbc946a004df4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e37328a10c12d091",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b5f9366274adf65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/People in the Bible/Jesus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06ef0d28abd8fa8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/People in the Bible/Jesus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b133770da4704494",
@@ -57,6 +84,7 @@
               "state": {
                 "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -87,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Podcast/Ep 1 - Saved by grace through faith.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -208,7 +231,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sample-plugin:Link Keywords": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,42 +238,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "linkmatic:Link Keywords": false
     }
   },
-  "active": "d3e8f92c223b09b2",
+  "active": "e37328a10c12d091",
   "lastOpenFiles": [
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bible Study/People in the Bible/John the Baptist.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John",
-    "Bible Study/People in the Bible/The Apostles/Andrew.md",
-    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
-    "Bible Study/Study topics/Is Baptism needed for salvation?.md",
+    "Bibles/CSB/43 - John/John 15.md",
+    "Bibles/CSB/43 - John/John 16.md",
     "Bible Study/People in the Bible/Jesus.md",
-    "Bibles/CSB/43 - John/John 12.md",
-    "Bibles/CSB/43 - John/John 11.md",
-    "Bible Study/Locations/Bethsaida/Bethsaida.md",
-    "Bible Study/People in the Bible/The Apostles/John.md",
-    "Bible Study/Questions.md",
-    "Bibles/CSB/43 - John/John.md",
-    "Bible Study/Sermons?/Trusting God when it's weird/Trusting God even when it's ___.md",
-    "Bible Study/Nate's random notes.md",
-    "Bible Study/Study topics/Did Jesus claim to be God?.md",
-    "Bible Study/Primer/Disciples vs Apostles.md",
-    "Bible Study/Primer/The Bible.md",
-    "Bibles/CSB/62 - 1 John/1 John.md",
+    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 5.md",
+    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 4.md",
+    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 3.md",
+    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 2.md",
+    "Bibles/CSB/52 - 1 Thessalonians/1 Thess 1.md",
+    "Bibles/CSB/51 - Colossians/Col 4.md",
+    "Bibles/CSB/51 - Colossians/Col 3.md",
+    "Bibles/CSB/51 - Colossians/Col 2.md",
+    "Bibles/CSB/51 - Colossians/Col 1.md",
+    "Bibles/CSB/50 - Philippians/Phil 4.md",
+    "Bibles/CSB/50 - Philippians/Phil 3.md",
+    "Bibles/CSB/50 - Philippians/Phil 2.md",
+    "Bibles/CSB/50 - Philippians/Phil 1.md",
+    "Bibles/CSB/49 - Ephesians/Eph 6.md",
+    "Bibles/CSB/49 - Ephesians/Eph 5.md",
+    "Bibles/CSB/49 - Ephesians/Eph 4.md",
+    "Bibles/CSB/49 - Ephesians/Eph 3.md",
+    "Bibles/CSB/49 - Ephesians/Eph 2.md",
+    "Bibles/CSB/49 - Ephesians/Eph 1.md",
+    "Bibles/CSB/48 - Galatians/Gal 6.md",
+    "Bibles/CSB/48 - Galatians/Gal 5.md",
+    "Bibles/CSB/48 - Galatians/Gal 4.md",
+    "Bibles/CSB/48 - Galatians/Gal 3.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John",
     "Programming notes/Images",
     "Programming notes/Images/Pasted image 20240318164731.png",
-    "Bible Study/Misc/Test.md",
-    "TEST_HERE/NEW/test.md",
-    "TEST_HERE/Test.md",
-    "Bibles/NKJV/09 - 1 Samuel/1 Sam 8.md",
-    "Bibles/CSB/62 - 1 John/1 John 1.md",
     "TEST_HERE/NEW",
-    "hello world.md",
     "TEST_HERE",
-    "Bible Study/test.md",
     "Programming notes/React Notes/Pro tips",
     "Programming notes/Ruby on rails",
     "Programming notes/React Notes/Architectures",
