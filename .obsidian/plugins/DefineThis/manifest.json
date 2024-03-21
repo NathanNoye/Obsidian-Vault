@@ -1,0 +1,11 @@
+{
+	"id": "definethis",
+	"name": "DefineThis",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Defines words for you, creates a new note, and links it to",
+	"author": "NateNoye",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}

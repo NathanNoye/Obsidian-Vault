@@ -48,7 +48,9 @@
 **He will glorify me, because he will take from what is mine and declare it to you.** 
 
 ###### 15 
-**Everything the Father** **has is mine.** **This is why I told you that he takes from what is mine and will declare it to you.**Sorrow Turned to Joy 
+**Everything the Father** **has is mine.** **This is why I told you that he takes from what is mine and will declare it to you.**
+
+### Sorrow Turned to Joy 
 
 ###### 16 
 **"In a little while,** **you will no longer see me;** **again in a little while, you will see me."** 
@@ -75,13 +77,15 @@ Jesus knew they wanted to ask him, and so he said to them, **"Are you asking one
 **"In that day you will not ask me anything. Truly I tell you, anything you ask the Father in my name, he will give you.** 
 
 ###### 24 
-**Until now you have asked for nothing in my name.** **Ask and you will receive,** **so that your joy may be complete.**Jesus the Victor 
+**Until now you have asked for nothing in my name.** **Ask and you will receive,** **so that your joy may be complete.**
+
+### Jesus the Victor 
 
 ###### 25 
 **"I have spoken these things to you in figures of speech. A time is coming when I will no longer speak to you in figures, but I will tell you plainly about the Father.** 
 
 ###### 26 
-**On that day you will ask** docker-credential-ecr-login docker-credential-osxkeychain my name, and** **I am not telling you that I will ask the Father on your behalf.** 
+**On that day you will ask in my name, and I am not telling you that I will ask the Father on your behalf.** 
 
 ###### 27 
 **For the Father himself loves you, because you have loved** **me and have believed that I came from God.** 

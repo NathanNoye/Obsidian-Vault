@@ -179,3 +179,9 @@ Finally, [[Jesus|Jesus]] refers to Himself as the "Good Shepherd," as a contrast
 [[Bibles/CSB/43 - John/John 14#30|John 14:30]] - Referring to Satan
 
 --- 
+
+# John 15
+
+--- 
+
+# John 16

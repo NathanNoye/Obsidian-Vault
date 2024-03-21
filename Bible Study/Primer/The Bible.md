@@ -8,3 +8,5 @@ The Bible is a collection of sacred scriptures or texts held to be the word of G
 The Bible serves multiple purposes: it is a source of spiritual guidance, moral instruction, historical account, and theological exploration. It plays a central role in Christian worship, doctrine, and personal faith. Throughout history, the Bible has had a profound influence on art, literature, music, law, and culture.
 
 Christians believe that the Bible is inspired by God, meaning that God guided its authors to write what He wanted communicated, making it authoritative and infallible in matters of faith and practice.
+
+TODO - Add the time span of when each testament was written

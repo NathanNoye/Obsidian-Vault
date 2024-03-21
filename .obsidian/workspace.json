@@ -9,6 +9,19 @@
         "dimension": 57.8757225433526,
         "children": [
           {
+            "id": "0dd6c564a1ae1e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/Study topics/Praying.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3de11deaf913bb8b",
             "type": "leaf",
             "state": {
@@ -33,56 +46,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e37328a10c12d091",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d56867116c322abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to download other versions of the bible.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f9366274adf65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/People in the Bible/Jesus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ef0d28abd8fa8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/People in the Bible/Jesus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b133770da4704494",
@@ -103,12 +68,12 @@
             }
           },
           {
-            "id": "d3e8f92c223b09b2",
+            "id": "5b48c087e44cbe90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcast/Ep 1 - Saved by grace through faith.md",
+                "file": "Bible Study/People in the Bible/Jesus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,12 +81,12 @@
             }
           },
           {
-            "id": "2dac2474d22373c6",
+            "id": "5b642e0b92a860d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/People in the Bible/John the Baptist.md",
+                "file": "Bible Study/People in the Bible/The Apostles/John.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -194,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to download other versions of the bible.md",
+                "file": "Bible Study/Study topics/Praying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to download other versions of the bible.md",
+                "file": "Bible Study/Study topics/Praying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to download other versions of the bible.md"
+                "file": "Bible Study/Study topics/Praying.md"
               }
             }
           }
@@ -259,34 +224,36 @@
       "linkmatic:Link Keywords": false
     }
   },
-  "active": "a28f046f9f61aca0",
+  "active": "0dd6c564a1ae1e59",
   "lastOpenFiles": [
-    "Bibles/GNV/66 - Revelation/Rev 9.md",
-    "Bibles/GNV/66 - Revelation/Rev 8.md",
-    "Bibles/GNV/66 - Revelation/Rev 7.md",
-    "Bibles/GNV/66 - Revelation/Rev 6.md",
-    "Bibles/GNV/66 - Revelation/Rev 5.md",
-    "Bibles/GNV/66 - Revelation/Rev 4.md",
-    "Bibles/GNV/66 - Revelation/Rev 3.md",
-    "Bibles/GNV/66 - Revelation/Rev 22.md",
-    "Bibles/GNV/66 - Revelation/Rev 21.md",
-    "Bibles/GNV/66 - Revelation/Rev 20.md",
-    "Bibles/GNV/66 - Revelation/Rev 2.md",
-    "Bibles/GNV/66 - Revelation/Rev 19.md",
-    "Bibles/GNV/66 - Revelation/Rev 18.md",
-    "Bibles/GNV/66 - Revelation/Rev 17.md",
-    "Bibles/GNV/66 - Revelation/Rev 16.md",
-    "Bibles/GNV/66 - Revelation/Rev 15.md",
-    "Bibles/GNV/66 - Revelation/Rev 14.md",
-    "Bibles/GNV/66 - Revelation/Rev 13.md",
-    "Bibles/GNV/66 - Revelation/Rev 12.md",
-    "Bibles/GNV/66 - Revelation/Rev 11.md",
-    "Bibles/GNV/66 - Revelation/Rev 10.md",
-    "Bibles/GNV/66 - Revelation/Rev 1.md",
-    "Bibles/GNV/66 - Revelation/66 - Revelation.md",
-    "Bibles/GNV/65 - Jude/Jude 1.md",
-    "Bibles/GNV/65 - Jude/65 - Jude.md",
-    "Bibles/GNV/64 - 3 John/64 - 3 John.md",
+    "Word Definitions/Adoration.md",
+    "Bible Study/Study topics/Praying.md",
+    "Word Definitions/Intercession.md",
+    "Word Definitions/Supplications.md",
+    "Word Definitions/Supplication_OLD.md",
+    "Word Definitions/Communication.md",
+    "Word Definitions/Individual.md",
+    "Word Definitions/Powerful.md",
+    "Word Definitions/Development.md",
+    "Word Definitions/Communal.md",
+    "Word Definitions/Supplicate.md",
+    "Word Definitions/supplication.md",
+    "Word Definitions",
+    "Bibles/CSB/43 - John/John 16.md",
+    "Bible Study/Primer/The Bible.md",
+    "Bible Study/Primer/Sin.md",
+    "Bible Study/Primer/Disciples vs Apostles.md",
+    "Bibles/CSB/62 - 1 John/1 John 5.md",
+    "Bibles/CSB/62 - John/1 John 5.md",
+    "Bibles/CSB/62 - John",
+    "Bibles/NKJV/62 - 1 John/1 John 5.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Bibles/CSB/43 - John/John 15.md",
+    "Bible Study/People in the Bible/Jesus.md",
+    "Bible Study/People in the Bible/The Apostles/John.md",
+    "Bibles/GNV/43 - John/John 1.md",
+    "How to download other versions of the bible.md",
+    "Bibles/GNV/01 - Genesis/Gen 8.md",
     "Bibles/GNV/66 - Revelation",
     "Bibles/GNV/65 - Jude",
     "Bibles/GNV/64 - 3 John",
@@ -295,8 +262,6 @@
     "Bibles/GNV/61 - 2 Peter",
     "Bibles/GNV/60 - 1 Peter",
     "Bibles/GNV/57 - Philemon",
-    "Bibles/GNV/59 - James",
-    "Bibles/GNV/58 - Hebrews",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
