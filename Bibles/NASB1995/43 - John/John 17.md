@@ -9,7 +9,7 @@
 Jesus spoke these things; and lifting up His eyes to heaven, He said, **"Father, the hour has come; glorify Your Son, that the Son may glorify You,** 
 
 ###### 2 
-even as You gave Him authority over all flesh, that to all whom You have given Him, He may give eternal life. 
+even as You gave Him authority over all flesh, that to all [[Word Definitions/Whom.md|whom]] You have given Him, He may give eternal life. 
 
 ###### 3 
 This is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent. 
@@ -39,7 +39,9 @@ and all things that are Mine are Yours, and Yours are Mine; and I have been glor
 I am no longer in the world; and _yet_ they themselves are in the world, and I come to You. Holy Father, keep them in Your name, _the name_ which You have given Me, that they may be one even as We _are_. 
 
 ###### 12 
-While I was with them, I was keeping them in Your name which You have given Me; and I guarded them and not one of them perished but the son of perdition, so that the Scripture would be fulfilled.The Disciples in the World 
+While I was with them, I was keeping them in Your name which You have given Me; and I guarded them and not one of them perished but the son of [[Word Definitions/Perdition.md|perdition]], so that the Scripture would be fulfilled.
+
+### The Disciples in the World 
 
 ###### 13 
 But now I come to You; and these things I speak in the world so that they may have My joy made full in themselves. 
@@ -66,7 +68,9 @@ For their sakes I sanctify Myself, that they themselves also may be sanctified i
 "I do not ask on behalf of these alone, but for those also who believe in Me through their word; 
 
 ###### 21 
-that they may all be one; even as You, Father, _are_ in Me and I in You, that they also may be in Us, so that the world may believe that You sent Me.Their Future Glory 
+that they may all be one; even as You, Father, _are_ in Me and I in You, that they also may be in Us, so that the world may believe that You sent Me.
+
+### Their Future Glory 
 
 ###### 22 
 The glory which You have given Me I have given to them, that they may be one, just as We are one; 

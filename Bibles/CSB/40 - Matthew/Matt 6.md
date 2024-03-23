@@ -48,7 +48,9 @@
 **"For if you forgive others their offenses, your heavenly Father will forgive you as well.** 
 
 ###### 15 
-**But if you don't forgive others,** **your Father will not forgive your offenses.**How to Fast 
+**But if you don't forgive others,** **your Father will not forgive your offenses.**
+
+### How to Fast 
 
 ###### 16 
 **"Whenever you fast, don't be gloomy like the hypocrites. For they disfigure their faces** **so that their fasting is obvious to people. Truly I tell you, they have their reward.** 

@@ -7,9 +7,9 @@ John's Gospel presents the life, teachings, miracles, death, and resurrection of
 ### Key Themes and Content
 
 - **The Divinity of Christ**: John emphasizes [[Jesus|Jesus]] as the incarnate Word of God (Logos), highlighting his divine nature from the very beginning: "In the beginning was the Word, and the Word was with God, and the Word was God" ([[Bibles/CSB/43 - John/John 1#1|John 1:1]]).
-- **Signs and Miracles**: The gospel records several miracles or "signs" performed by [[Jesus|Jesus]], such as turning water into wine at [[Cana|Cana]] (John 2:1-11) and raising Lazarus from the dead (John 11:1-44). These miracles serve to demonstrate [[Jesus|Jesus]]' divine authority and his role as the Messiah.
+- **Signs and Miracles**: The gospel records several miracles or "signs" performed by [[Jesus|Jesus]], such as turning water into wine at [[Cana|Cana]] (John 2:1-11) and raising [[Lazarus]] from the dead (John 11:1-44). These miracles serve to demonstrate [[Jesus|Jesus]]' divine authority and his role as the Messiah.
 - **"I Am" Statements**: John features several profound statements by [[Jesus|Jesus]] known as the "I Am" sayings, where [[Jesus|Jesus]] identifies himself with God, using phrases like "I am the bread of life" (John 6:35) and "I am the way, the truth, and the life" (John 14:6). These statements further underscore his divinity and mission.
-- **The New Commandment**: [[Jesus|Jesus]] gives a new commandment to his disciples: "Love one another. As I have loved you, so you must love one another" (John 13:34). This command underscores the gospel's focus on love as central to Christian life and belief.
+- **The New Commandment**: [[Jesus|Jesus]] gives a new commandment to his disciples: "Love one another. As I have loved you, so you must love one another" (John 13:34). This command [[Word Definitions/Underscores.md|underscores]] the gospel's focus on love as central to Christian life and belief.
 - **The Holy Spirit**: The gospel also speaks extensively about the role of the Holy Spirit, whom [[Jesus|Jesus]] promises to send as an advocate and guide for his followers after his departure (John 14:16-17, 26; 15:26; 16:7-15).
 - **Eternal Life Through Faith**: A major theme is the offer of eternal life to those who believe in [[Jesus|Jesus]]. John 3:16 succinctly captures this message: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 
@@ -185,3 +185,16 @@ Finally, [[Jesus|Jesus]] refers to Himself as the "Good Shepherd," as a contrast
 --- 
 
 # John 16
+
+---
+
+# John 17
+[[Bibles/CSB/43 - John/John 17#5|John 17:5]] - that's so cool
+
+[[Bibles/CSB/43 - John/John 17#10|John 17:10]] - Two things here:
+- This reminds me of [[Bibles/CSB/43 - John/John 1#3|John 1:3]] where God has created all things. Literally all things. nothing would be here without him. Everything from the stars to the forks you use to eat. All things come from him - all things belong to him
+- If all things belong to him, we should give all things to God. So if you're starting a business, God has blessed you with his creation for you to work within and so you should give your business to him.
+
+[[Bibles/CSB/43 - John/John 17#12|John 17:12]] - I thought this was the devil but it means Judas Iscariot.
+ 
+[[Bibles/CSB/43 - John/John 17#20|John 17:20]] - [[Jesus]] is praying for future believers

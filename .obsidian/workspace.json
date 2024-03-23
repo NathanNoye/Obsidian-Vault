@@ -46,8 +46,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46dc7d39dbdcf071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a84f7db10a9271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b133770da4704494",
@@ -55,7 +82,7 @@
         "dimension": 42.1242774566474,
         "children": [
           {
-            "id": "d0e91030cd2ff8c1",
+            "id": "92ccee7370087c4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,25 +95,12 @@
             }
           },
           {
-            "id": "5b48c087e44cbe90",
+            "id": "74814e737d3ef783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/People in the Bible/Jesus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b642e0b92a860d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md",
+                "file": "Bible Study/🔥 MAIN STUDY/Reading plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/Study topics/Praying.md",
+                "file": "Bibles/CSB/43 - John/John 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/Study topics/Praying.md",
+                "file": "Bibles/CSB/43 - John/John 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/Study topics/Praying.md"
+                "file": "Bibles/CSB/43 - John/John 17.md"
               }
             }
           }
@@ -224,36 +238,37 @@
       "linkmatic:Link Keywords": false
     }
   },
-  "active": "0dd6c564a1ae1e59",
+  "active": "46dc7d39dbdcf071",
   "lastOpenFiles": [
-    "Word Definitions/Adoration.md",
     "Bible Study/Study topics/Praying.md",
-    "Word Definitions/Intercession.md",
-    "Word Definitions/Supplications.md",
-    "Word Definitions/Supplication_OLD.md",
-    "Word Definitions/Communication.md",
-    "Word Definitions/Individual.md",
-    "Word Definitions/Powerful.md",
-    "Word Definitions/Development.md",
-    "Word Definitions/Communal.md",
-    "Word Definitions/Supplicate.md",
-    "Word Definitions/supplication.md",
-    "Word Definitions",
-    "Bibles/CSB/43 - John/John 16.md",
-    "Bible Study/Primer/The Bible.md",
-    "Bible Study/Primer/Sin.md",
-    "Bible Study/Primer/Disciples vs Apostles.md",
-    "Bibles/CSB/62 - 1 John/1 John 5.md",
-    "Bibles/CSB/62 - John/1 John 5.md",
-    "Bibles/CSB/62 - John",
-    "Bibles/NKJV/62 - 1 John/1 John 5.md",
+    "Bibles/CSB/43 - John/John 17.md",
     "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bibles/CSB/43 - John/John 15.md",
-    "Bible Study/People in the Bible/Jesus.md",
+    "Bible Study/Study topics/Alexandrian vs Antioch.md",
+    "Bible Study/Nate's random notes.md",
+    "Word Definitions/Underscores.md",
+    "Bible Study/People in the Bible/Lazarus.md",
     "Bible Study/People in the Bible/The Apostles/John.md",
-    "Bibles/GNV/43 - John/John 1.md",
-    "How to download other versions of the bible.md",
-    "Bibles/GNV/01 - Genesis/Gen 8.md",
+    "Bible Study/People in the Bible/Jesus.md",
+    "Bibles/NASB1995/43 - John/John 17.md",
+    "Word Definitions/Whom.md",
+    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
+    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
+    "Bible Study/Locations/Bethsaida/Bethsaida.md",
+    "Bibles/CSB/43 - John/John 16.md",
+    "Bibles/CSB/43 - John/John 18.md",
+    "Word Definitions/Perdition.md",
+    "Bible Study/Primer/Purpose of the \"Primers\".md",
+    "Prayers",
+    "Word Definitions/Doxology.md",
+    "Word Definitions/Petitioner.md",
+    "Word Definitions/Hallowed.md",
+    "Bibles/CSB/40 - Matthew/Matt 6.md",
+    "Word Definitions/Triune.md",
+    "Word Definitions/Interceding.md",
+    "Word Definitions/Intercession.md",
+    "Word Definitions/Provides.md",
+    "Word Definitions",
+    "Bibles/CSB/62 - John",
     "Bibles/GNV/66 - Revelation",
     "Bibles/GNV/65 - Jude",
     "Bibles/GNV/64 - 3 John",
@@ -261,7 +276,6 @@
     "Bibles/GNV/62 - 1 John",
     "Bibles/GNV/61 - 2 Peter",
     "Bibles/GNV/60 - 1 Peter",
-    "Bibles/GNV/57 - Philemon",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",

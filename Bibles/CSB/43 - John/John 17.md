@@ -18,7 +18,9 @@ Jesus spoke these things, looked up to heaven, and said, **"Father, the hour has
 **I have glorified you on the earth by completing the work you gave me to do.** 
 
 ###### 5 
-**Now, Father,** **glorify me in your presence with that glory** **I had with you before the world existed.**Jesus Prays for His Disciples 
+**Now, Father,** **glorify me in your presence with that glory** **I had with you before the world existed.**
+
+### Jesus Prays for His Disciples 
 
 ###### 6 
 **"I have revealed your name** **to the people you gave me** **from the world.** **They were yours, you gave them to me,** **and they have kept your word.** 
@@ -60,13 +62,15 @@ Jesus spoke these things, looked up to heaven, and said, **"Father, the hour has
 **As you sent me into the world,** **I also have sent them into the world.** 
 
 ###### 19 
-**I sanctify myself for them, so that they also may be sanctified by the truth.**Jesus Prays for All Believers 
+**I sanctify myself for them, so that they also may be sanctified by the truth.**
+
+### Jesus Prays for All Believers 
 
 ###### 20 
 **"I pray not only for these, but also for those who believe in me through their word.** 
 
 ###### 21 
-**May they all be one,** **as you, Father, are in me and I am in you.** **May they also be** docker-credential-ecr-login docker-credential-osxkeychain us, so that the world may believe you sent me.** 
+**May they all be one,** **as you, Father, are in me and I am in you.** **May they also be in us, so that the world may believe you sent me.** 
 
 ###### 22 
 **I have given them the glory** **you have given me, so that they may be one as we are one.** 
