@@ -2,6 +2,9 @@
 Author: [[Bible Study/People in the Bible/The Apostles/John|John]]
 Date Written: 70 AD - 110 AD
 
+```table-of-contents
+```
+
 John's Gospel presents the life, teachings, miracles, death, and resurrection of [[Jesus|Jesus]] Christ, emphasizing His divine nature and love. It delves into His profound relationship with the Father, His offer of eternal life through belief in Him, and His role as the Light overcoming darkness, illustrating His deep, personal connection with believers and His call for unity and love among them.
 
 ### Key Themes and Content

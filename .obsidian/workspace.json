@@ -6,7 +6,7 @@
       {
         "id": "0435537954802a5e",
         "type": "tabs",
-        "dimension": 57.8757225433526,
+        "dimension": 56.28612716763006,
         "children": [
           {
             "id": "0dd6c564a1ae1e59",
@@ -53,8 +53,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 17.md",
+                "file": "Programming notes/Ruby on rails/Variables.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dda2b60476db904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Working with Strings.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d794fdf6245db53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "895c436d2af04532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Ruby on rails.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "462f5da97fc9f800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Style Guide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db6a29c33f12b03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Working with Strings.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -74,12 +139,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "b133770da4704494",
         "type": "tabs",
-        "dimension": 42.1242774566474,
+        "dimension": 43.713872832369944,
         "children": [
           {
             "id": "92ccee7370087c4e",
@@ -88,7 +153,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -173,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 17.md",
+                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 17.md",
+                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 17.md"
+                "file": "Programming notes/Ruby on rails/Working with the terminal.md"
               }
             }
           }
@@ -238,11 +303,19 @@
       "linkmatic:Link Keywords": false
     }
   },
-  "active": "46dc7d39dbdcf071",
+  "active": "4d794fdf6245db53",
   "lastOpenFiles": [
-    "Bible Study/Study topics/Praying.md",
-    "Bibles/CSB/43 - John/John 17.md",
+    "Programming notes/Ruby on rails/Style Guide.md",
+    "Programming notes/Ruby on rails/Working with the terminal.md",
+    "Programming notes/Ruby on rails/Ruby on rails.md",
+    "Programming notes/Ruby on rails/Working with Strings.md",
     "Bible Study/🔥 MAIN STUDY/01 - John.md",
+    "Obsidian MD cheat sheet.md",
+    "Programming notes/Ruby on rails/Variables.md",
+    "Bibles/CSB/43 - John/John 16.md",
+    "Untitled.md",
+    "Bibles/CSB/43 - John/John 17.md",
+    "Bible Study/Study topics/Praying.md",
     "Bible Study/Study topics/Alexandrian vs Antioch.md",
     "Bible Study/Nate's random notes.md",
     "Word Definitions/Underscores.md",
@@ -254,19 +327,11 @@
     "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
     "Bible Study/🔥 MAIN STUDY/Reading plan.md",
     "Bible Study/Locations/Bethsaida/Bethsaida.md",
-    "Bibles/CSB/43 - John/John 16.md",
     "Bibles/CSB/43 - John/John 18.md",
     "Word Definitions/Perdition.md",
     "Bible Study/Primer/Purpose of the \"Primers\".md",
     "Prayers",
     "Word Definitions/Doxology.md",
-    "Word Definitions/Petitioner.md",
-    "Word Definitions/Hallowed.md",
-    "Bibles/CSB/40 - Matthew/Matt 6.md",
-    "Word Definitions/Triune.md",
-    "Word Definitions/Interceding.md",
-    "Word Definitions/Intercession.md",
-    "Word Definitions/Provides.md",
     "Word Definitions",
     "Bibles/CSB/62 - John",
     "Bibles/GNV/66 - Revelation",

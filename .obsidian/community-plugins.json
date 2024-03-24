@@ -3,5 +3,8 @@
   "obsidian-excalidraw-plugin",
   "sample-plugin",
   "linkmatic",
-  "definethis"
+  "definethis",
+  "execute-code",
+  "automatic-table-of-contents",
+  "waypoint"
 ]
