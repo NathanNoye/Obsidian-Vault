@@ -167,6 +167,9 @@ Nicodemus--the one who came to him previously and who was one of them--said to t
 ###### 52 
 "You aren't from Galilee too, are you?" they replied. "Investigate and you will see that no prophet arises from Galilee."
 
+> [!warning]
+> The earliest mss do not include 7:53–8:11
+>
 ###### 53 
 Then each one went to his house.
 

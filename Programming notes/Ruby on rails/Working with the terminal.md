@@ -25,3 +25,33 @@ print "Hello World"
 - Converts the object it is passed to a string using `.to_s` for display.
 
 ## Interacting with the terminal
+- Typing IRB (Interactive Ruby) will let you start a ruby session in your terminal
+
+## Getting input from the terminal
+- You can get input from the terminal using the `gets` method, which reads a line of text from the standard input (usually the keyboard). Here’s how you can use it:
+```ruby
+puts "What is your name?"
+name = gets.chomp
+puts "Hello, #{name}!"
+```
+- `gets`: This method reads the next line of input, including the newline character at the end. If the end of file (EOF) is reached, it returns `nil`.
+- `chomp`: Often used with `gets` to remove the newline character at the end of the input. This is because when you enter input in the terminal and press Enter, the newline character is included in the input.
+### Handling integer inputs
+- If you expect numerical input and want to use it as an integer, you can convert the input string to an integer using `to_i`:
+```ruby
+puts "Enter your age:"
+age = gets.chomp.to_i
+puts "You are #{age} years old."
+```
+
+### Reading Multiple Lines:
+- If you need to read multiple lines of input, you can use a loop until a certain condition is met, like an empty line or a specific keyword:
+```ruby
+puts "Enter your comments (type 'done' to finish):"
+comments = ""
+while (line = gets.chomp) != "done"
+  comments += line + "\n"
+end
+puts "Your comments:\n#{comments}"
+```
+

@@ -4,7 +4,9 @@
 
 ***
 
-
+> [!warning]
+> The earliest mss do not include 7:53–8:11
+>
 ###### 1 
 But Jesus went to the Mount of Olives.
 

@@ -33,7 +33,9 @@ The other disciple, who had reached the tomb first, then also went in, saw, and 
 For they did not yet understand the Scripture that he must rise from the dead. 
 
 ###### 10 
-Then the disciples returned to the place where they were staying.Mary Magdalene Sees the Risen Lord 
+Then the disciples returned to the place where they were staying.
+
+### Mary Magdalene Sees the Risen Lord 
 
 ###### 11 
 But Mary stood outside the tomb, crying. As she was crying, she stooped to look into the tomb. 
@@ -57,7 +59,9 @@ Jesus said to her, **"Mary."** Turning around, she said to him in Aramaic, <em>"
 **"Don't cling to me,"** Jesus told her, **"since I have not yet ascended** **to the Father.** **But go to my brothers** **and tell them that I am ascending to my Father** **and your Father, to my God** **and your God."** 
 
 ###### 18 
-Mary Magdalene went and announced to the disciples, "I have seen the Lord!" And she told them what he had said to her.The Disciples Commissioned 
+Mary Magdalene went and announced to the disciples, "I have seen the Lord!" And she told them what he had said to her.
+
+### The Disciples Commissioned 
 
 ###### 19 
 When it was evening on that first day of the week, the disciples were gathered together with the doors locked because they feared the Jews. Jesus came, stood among them, and said to them, **"Peace be with you."** 
@@ -72,7 +76,9 @@ Jesus said to them again, **"Peace be with you. As the Father has sent me,** **I
 After saying this, he breathed on them and said, **"Receive the Holy Spirit.** 
 
 ###### 23 
-**If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained."**Thomas Sees and Believes 
+**If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained."**
+
+### Thomas Sees and Believes 
 
 ###### 24 
 But Thomas (called "Twin"), one of the Twelve, was not with them when Jesus came. 

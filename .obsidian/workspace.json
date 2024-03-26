@@ -9,116 +9,12 @@
         "dimension": 56.28612716763006,
         "children": [
           {
-            "id": "0dd6c564a1ae1e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/Study topics/Praying.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3de11deaf913bb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdbc946a004df4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/43 - John/John 16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46dc7d39dbdcf071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Variables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dda2b60476db904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Working with Strings.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d794fdf6245db53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "895c436d2af04532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming notes/Ruby on rails/Ruby on rails.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "462f5da97fc9f800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Style Guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db6a29c33f12b03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Working with Strings.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -126,12 +22,51 @@
             }
           },
           {
-            "id": "23a84f7db10a9271",
+            "id": "ecdc5b10b2c04379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 18.md",
+                "file": "Bibles/CSB/43 - John/John 19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b18cd08b461c5a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb751eb62179d5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/43 - John/John 21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8cd3d3d5a7c6f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "b133770da4704494",
@@ -153,19 +88,32 @@
               "type": "markdown",
               "state": {
                 "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "74814e737d3ef783",
+            "id": "b3db7e695091c417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/Reading plan.md",
+                "file": "Obsidian MD cheat sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df461896cf73f121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/People in the Bible/The Apostles/John.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -238,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
+                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Ruby on rails/Working with the terminal.md",
+                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Ruby on rails/Working with the terminal.md"
+                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md"
               }
             }
           }
@@ -300,38 +248,40 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "linkmatic:Link Keywords": false
+      "linkmatic:Link Keywords": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d794fdf6245db53",
+  "active": "4a8cd3d3d5a7c6f7",
   "lastOpenFiles": [
-    "Programming notes/Ruby on rails/Style Guide.md",
-    "Programming notes/Ruby on rails/Working with the terminal.md",
-    "Programming notes/Ruby on rails/Ruby on rails.md",
-    "Programming notes/Ruby on rails/Working with Strings.md",
+    "Bibles/CSB/43 - John/John 19.md",
+    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+    "Bible Study/People in the Bible/John Mark.md",
+    "Bible Study/People in the Bible/The Apostles/Andrew.md",
     "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Obsidian MD cheat sheet.md",
-    "Programming notes/Ruby on rails/Variables.md",
-    "Bibles/CSB/43 - John/John 16.md",
-    "Untitled.md",
-    "Bibles/CSB/43 - John/John 17.md",
-    "Bible Study/Study topics/Praying.md",
-    "Bible Study/Study topics/Alexandrian vs Antioch.md",
-    "Bible Study/Nate's random notes.md",
-    "Word Definitions/Underscores.md",
-    "Bible Study/People in the Bible/Lazarus.md",
-    "Bible Study/People in the Bible/The Apostles/John.md",
-    "Bible Study/People in the Bible/Jesus.md",
-    "Bibles/NASB1995/43 - John/John 17.md",
-    "Word Definitions/Whom.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John/John 3.md",
+    "Bibles/CSB/41 - Mark/Mark.md",
+    "Bibles/CSB/41 - Mark/Mark 1.md",
     "Bible Study/🔥 MAIN STUDY/Reading plan.md",
-    "Bible Study/Locations/Bethsaida/Bethsaida.md",
-    "Bibles/CSB/43 - John/John 18.md",
-    "Word Definitions/Perdition.md",
-    "Bible Study/Primer/Purpose of the \"Primers\".md",
+    "Bibles/CSB/43 - John/John 20.md",
+    "Bibles/CSB/43 - John/John 21.md",
+    "Bibles/CSB/43 - John/John.md",
+    "Obsidian MD cheat sheet.md",
+    "Bibles/CSB/42 - Luke/Luke 5.md",
+    "Bible Study/People in the Bible/The Apostles/John.md",
+    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
+    "Untitled.md",
+    "Bibles/KJV/43 - John/John 20.md",
+    "Bibles/NKJV/43 - John/John 20.md",
+    "Bible Study/Study topics/Why are verses missing in some translations?.md",
+    "Programming notes/Ruby on rails/Ruby on rails.md",
+    "Bibles/CSB/38 - Zechariah/Zech 12.md",
+    "Bibles/CSB/19 - Psalms/Ps 34.md",
+    "Bibles/CSB/02 - Exodus/Exod 12.md",
+    "Bibles/CSB/19 - Psalms/Ps 22.md",
+    "Word Definitions/Oxymoron.md",
+    "Word Definitions/Flogged.md",
+    "Bible Study/Locations/images",
     "Prayers",
-    "Word Definitions/Doxology.md",
     "Word Definitions",
     "Bibles/CSB/62 - John",
     "Bibles/GNV/66 - Revelation",
@@ -340,15 +290,14 @@
     "Bibles/GNV/63 - 2 John",
     "Bibles/GNV/62 - 1 John",
     "Bibles/GNV/61 - 2 Peter",
-    "Bibles/GNV/60 - 1 Peter",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
     "Test test.canvas",
     "Test.canvas",
     "Bible Study/Study topics/Father, Son, Holy Spirit.canvas",
-    "Bible Study/Locations/Cana/images/cana.jpg",
-    "Bible Study/Locations/Bethsaida/images/bethsaida.jpg",
+    "Bible Study/Locations/images/cana.jpg",
+    "Bible Study/Locations/images/bethsaida.jpg",
     "images/mountains-grass.png",
     "images/mountain-grass.png",
     "images/mountain_grass.png",

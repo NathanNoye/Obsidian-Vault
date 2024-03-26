@@ -6,7 +6,7 @@
 
 
 ###### 1 
-Then Pilate took Jesus and had him flogged. 
+Then Pilate took Jesus and had him [[Word Definitions/Flogged.md|flogged]]. 
 
 ###### 2 
 The soldiers also twisted together a crown of thorns, put it on his head, and clothed him in a purple robe. 
@@ -18,7 +18,9 @@ And they kept coming up to him and saying, "Hail, king of the Jews!" and were sl
 Pilate went outside again and said to them, "Look, I'm bringing him out to you to let you know I find no grounds for charging him." 
 
 ###### 5 
-Then Jesus came out wearing the crown of thorns and the purple robe. Pilate said to them, "Here is the man!" Pilate Sentences Jesus to Death 
+Then Jesus came out wearing the crown of thorns and the purple robe. Pilate said to them, "Here is the man!"
+
+### Pilate Sentences Jesus to Death 
 
 ###### 6 
 When the chief priests and the temple servants saw him, they shouted, "Crucify! Crucify!" Pilate responded, "Take him and crucify him yourselves, since I find no grounds for charging him." 
@@ -42,7 +44,7 @@ So Pilate said to him, "Do you refuse to speak to me? Don't you know that I have
 From that moment Pilate kept trying to release him. But the Jews shouted, "If you release this man, you are not Caesar's friend. Anyone who makes himself a king opposes Caesar!" 
 
 ###### 13 
-When Pilate heard these words, he brought Jesus outside. He sat down on the judge's seat in a place called the Stone Pavement (but in Aramaic, <em>Gabbatha</em>). 
+When Pilate heard these words, he brought Jesus outside. He sat down on the judge's seat in a place called the Stone Pavement (but in *Aramaic*, <em>Gabbatha</em>). 
 
 ###### 14 
 It was the preparation day for the Passover, and it was about noon. Then he told the Jews, "Here is your king!" 
@@ -51,7 +53,7 @@ It was the preparation day for the Passover, and it was about noon. Then he told
 They shouted, "Take him away! Take him away! Crucify him!" Pilate said to them, "Should I crucify your king?" "We have no king but Caesar!" the chief priests answered. 
 
 ###### 16 
-Then he handed him over to be crucified.The Crucifixion Then they took Jesus away. 
+Then he handed him over to be crucified. Then they took Jesus away. 
 
 ###### 17 
 Carrying the cross by himself, he went out to what is called Place of the Skull, which in Aramaic is called <em>Golgotha</em>. 
@@ -75,7 +77,9 @@ Pilate replied, "What I have written, I have written."
 When the soldiers crucified Jesus, they took his clothes and divided them into four parts, a part for each soldier. They also took the tunic, which was seamless, woven in one piece from the top. 
 
 ###### 24 
-So they said to one another, "Let's not tear it, but cast lots for it, to see who gets it." This happened that the Scripture might be fulfilled that says: <b class="quote">They divided my clothes among themselves, and they cast lots for my clothing.** This is what the soldiers did.Jesus's Provision for His Mother 
+So they said to one another, "Let's not tear it, but cast lots for it, to see who gets it." This happened that the Scripture might be fulfilled that says: [[Bibles/CSB/19 - Psalms/Ps 22#18|They divided my clothes among themselves, and they cast lots for my clothing.]]This is what the soldiers did.
+
+### Jesus's Provision for His Mother 
 
 ###### 25 
 Standing by the cross of Jesus were his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene. 
@@ -84,7 +88,9 @@ Standing by the cross of Jesus were his mother, his mother's sister, Mary the wi
 When Jesus saw his mother and the disciple he loved standing there, he said to his mother, **"Woman, here is your son."** 
 
 ###### 27 
-Then he said to the disciple, **"Here is your mother."** And from that hour the disciple took her into his home.The Finished Work of Jesus 
+Then he said to the disciple, **"Here is your mother."** And from that hour the disciple took her into his home.
+
+### The Finished Work of Jesus 
 
 ###### 28 
 After this, when Jesus knew that everything was now finished that the Scripture might be fulfilled, he said, **"I'm thirsty."** 
@@ -93,7 +99,9 @@ After this, when Jesus knew that everything was now finished that the Scripture 
 A jar full of sour wine was sitting there; so they fixed a sponge full of sour wine on a hyssop branch and held it up to his mouth. 
 
 ###### 30 
-When Jesus had received the sour wine, he said, **"It is finished."** Then bowing his head, he gave up his spirit.Jesus's Side Pierced 
+When Jesus had received the sour wine, he said, **"It is finished."** Then bowing his head, he gave up his spirit.
+
+### Jesus's Side Pierced 
 
 ###### 31 
 Since it was the preparation day, the Jews did not want the bodies to remain on the cross on the Sabbath (for that Sabbath was a special day). They requested that Pilate have the men's legs broken and that their bodies be taken away. 
@@ -111,10 +119,12 @@ But one of the soldiers pierced his side with a spear, and at once blood and wat
 He who saw this has testified so that you also may believe. His testimony is true, and he knows he is telling the truth. 
 
 ###### 36 
-For these things happened so that the Scripture would be fulfilled: <b class="quote">Not one of his bones will be broken.** 
+For these things happened so that the Scripture would be fulfilled: [[Bibles/CSB/19 - Psalms/Ps 34#20|Not one of his bones will be broken.]]
 
 ###### 37 
-Also, another Scripture says: <b class="quote">They will look at the one they pierced.**Jesus's Burial 
+Also, another Scripture says: [[Bibles/CSB/38 - Zechariah/Zech 12#10|They will look at the one they pierced.]] 
+
+### Jesus's Burial 
 
 ###### 38 
 After this, Joseph of Arimathea, who was a disciple of Jesus--but secretly because of his fear of the Jews--asked Pilate that he might remove Jesus's body. Pilate gave him permission; so he came and took his body away. 

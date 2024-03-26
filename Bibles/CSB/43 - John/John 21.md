@@ -45,7 +45,9 @@ So Simon Peter climbed up and hauled the net ashore, full of large fish--153 of 
 Jesus came, took the bread, and gave it to them. He did the same with the fish. 
 
 ###### 14 
-This was now the third time Jesus appeared to the disciples after he was raised from the dead.Jesus's Threefold Restoration of Peter 
+This was now the third time Jesus appeared to the disciples after he was raised from the dead.
+
+### Jesus's Threefold Restoration of Peter 
 
 ###### 15 
 When they had eaten breakfast, Jesus asked Simon Peter, **"Simon, son of John,** **do you love me more than these?"** "Yes, Lord," he said to him, "you know that I love you." **"Feed my lambs,"** he told him. 
@@ -60,7 +62,9 @@ He asked him the third time, **"Simon, son of John, do you love** **me?"** Peter
 **"Truly I tell you,** **when you were younger, you would tie your belt and walk wherever you wanted. But when you grow old, you will stretch out your hands and someone else will tie you and carry you where you don't want to go."** 
 
 ###### 19 
-He said this to indicate by what kind of death Peter would glorify God. After saying this, he told him, **"Follow me."**Correcting a False Report 
+He said this to indicate by what kind of death Peter would glorify God. After saying this, he told him, **"Follow me."**
+
+### Correcting a False Report 
 
 ###### 20 
 So Peter turned around and saw the disciple Jesus loved following them, the one who had leaned back against Jesus at the supper and asked, "Lord, who is the one that's going to betray you?" 
@@ -72,7 +76,9 @@ When Peter saw him, he said to Jesus, "Lord, what about him?"
 **"If I want him to remain until I come,"** Jesus answered, **"what is that to you? As for you, follow me."** 
 
 ###### 23 
-So this rumor spread to the brothers and sisters that this disciple would not die. Yet Jesus did not tell him that he would not die, but, **"If I want him to remain until I come, what is that to you?"**Epilogue 
+So this rumor spread to the brothers and sisters that this disciple would not die. Yet Jesus did not tell him that he would not die, but, **"If I want him to remain until I come, what is that to you?"**
+
+### Epilogue 
 
 ###### 24 
 This is the disciple who testifies to these things and who wrote them down. We know that his testimony is true. 

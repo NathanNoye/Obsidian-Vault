@@ -4,8 +4,12 @@
 
 ### Table of contents
 %% Begin Waypoint %%
+- [[Arrays]]
+- [[Bang Operator]]
+- [[Methods (aka Functions)]]
 - [[Style Guide]]
 - [[Variables]]
+- [[Working with numbers]]
 - [[Working with Strings]]
 - [[Working with the terminal]]
 

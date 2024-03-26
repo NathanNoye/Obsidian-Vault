@@ -27,39 +27,40 @@
 27. 1 John 
 28. 2 John 
 29. 3 John 
-30. Psalms 
-31. ﻿﻿﻿﻿Joshua 
-32. ﻿﻿﻿﻿Judges 
-33. ﻿﻿﻿﻿1 Samuel 
-34. ﻿﻿﻿﻿2 Samuel 
-35. ﻿﻿﻿﻿1 Kings 
-36. ﻿﻿﻿﻿2 Kings 
-37. ﻿﻿﻿﻿1 Chronicles 
-38. ﻿﻿﻿﻿2 Chronicles 
-39. ﻿﻿﻿﻿Ezra 
-40. ﻿﻿﻿﻿Nehemiah 
-41. ﻿﻿﻿﻿Jeremiah 
-42. ﻿﻿﻿﻿Lamentations 
-43. ﻿﻿﻿﻿Ezekiel 
-44. ﻿﻿﻿﻿Joel 
-45. ﻿﻿﻿﻿Amos 
-46. ﻿﻿﻿﻿Obadiah 
-47. ﻿﻿﻿﻿Nahum 
-48. ﻿﻿﻿﻿Habakkuk 
-49. ﻿﻿﻿﻿Zephaniah 
-50. ﻿﻿﻿﻿Haggai 
-51. ﻿﻿﻿﻿Zechariah 
-52. ﻿﻿﻿﻿Malachi 
-53. ﻿﻿﻿﻿Micah 
-54. ﻿﻿﻿﻿Hosea 
-55. Luke 
-56. ﻿﻿﻿﻿Esther 
-57. ﻿﻿﻿﻿Jonah 
-58. ﻿﻿﻿﻿Song of Solomon 
-59. ﻿﻿﻿﻿Acts 
-60. ﻿﻿﻿﻿Titus 
-61. ﻿﻿﻿﻿Philemon 
-62. Hebrew 
-63. Isaiah 
-64. Daniel 
-65. Revelation
+30. Jude
+31. Psalms 
+32. ﻿﻿﻿﻿Joshua 
+33. ﻿﻿﻿﻿Judges 
+34. ﻿﻿﻿﻿1 Samuel 
+35. ﻿﻿﻿﻿2 Samuel 
+36. ﻿﻿﻿﻿1 Kings 
+37. ﻿﻿﻿﻿2 Kings 
+38. ﻿﻿﻿﻿1 Chronicles 
+39. ﻿﻿﻿﻿2 Chronicles 
+40. ﻿﻿﻿﻿Ezra 
+41. ﻿﻿﻿﻿Nehemiah 
+42. ﻿﻿﻿﻿Jeremiah 
+43. ﻿﻿﻿﻿Lamentations 
+44. ﻿﻿﻿﻿Ezekiel 
+45. ﻿﻿﻿﻿Joel 
+46. ﻿﻿﻿﻿Amos 
+47. ﻿﻿﻿﻿Obadiah 
+48. ﻿﻿﻿﻿Nahum 
+49. ﻿﻿﻿﻿Habakkuk 
+50. ﻿﻿﻿﻿Zephaniah 
+51. ﻿﻿﻿﻿Haggai 
+52. ﻿﻿﻿﻿Zechariah 
+53. ﻿﻿﻿﻿Malachi 
+54. ﻿﻿﻿﻿Micah 
+55. ﻿﻿﻿﻿Hosea 
+56. Ruth 
+57. ﻿﻿﻿﻿Esther 
+58. ﻿﻿﻿﻿Jonah 
+59. ﻿﻿﻿﻿Song of Solomon 
+60. ﻿﻿﻿﻿Acts 
+61. ﻿﻿﻿﻿Titus 
+62. ﻿﻿﻿﻿Philemon 
+63. Hebrew 
+64. Isaiah 
+65. Daniel 
+66. Revelation
