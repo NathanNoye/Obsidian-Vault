@@ -39,7 +39,9 @@ for He had healed many, with the result that all those who had afflictions press
 Whenever the unclean spirits saw Him, they would fall down before Him and shout, "You are the Son of God!" 
 
 ###### 12 
-And He earnestly warned them not to tell who He was.The Twelve Are Chosen 
+And He earnestly warned them not to tell who He was.
+
+### The Twelve Are Chosen 
 
 ###### 13 
 And He *went up on the mountain and *summoned those whom He Himself wanted, and they came to Him. 

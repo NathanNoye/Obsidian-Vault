@@ -21,7 +21,9 @@ Jesus said to them, **"A prophet** **is not without honor** **except in his home
 He was not able to do a miracle there, except that he laid his hands on a few sick people and healed them. 
 
 ###### 6 
-And he was amazed at their unbelief. He was going around the villages teaching.Commissioning the Twelve 
+And he was amazed at their unbelief. He was going around the villages teaching.
+
+### Commissioning the Twelve 
 
 ###### 7 
 He summoned the Twelve and began to send them out in pairs and gave them authority over unclean spirits. 
@@ -42,7 +44,9 @@ He said to them, **"Whenever you enter a house, stay there until you leave that 
 So they went out and preached that people should repent. 
 
 ###### 13 
-They drove out many demons, anointed many sick people with oil and healed them.John the Baptist Beheaded 
+They drove out many demons, anointed many sick people with oil and healed them.
+
+### John the Baptist Beheaded 
 
 ###### 14 
 King Herod heard about it, because Jesus's name had become well known. Some said, "John the Baptist has been raised from the dead, and that's why miraculous powers are at work in him." 
@@ -90,7 +94,9 @@ The king immediately sent for an executioner and commanded him to bring John's h
 brought his head on a platter, and gave it to the girl. Then the girl gave it to her mother. 
 
 ###### 29 
-When John's disciples heard about it, they came and removed his corpse and placed it in a tomb.Feeding of the Five Thousand 
+When John's disciples heard about it, they came and removed his corpse and placed it in a tomb.
+
+### Feeding of the Five Thousand 
 
 ###### 30 
 The apostles gathered around Jesus and reported to him all that they had done and taught. 
@@ -135,7 +141,9 @@ Everyone ate and was satisfied.
 They picked up twelve baskets full of pieces of bread and fish. 
 
 ###### 44 
-Now those who had eaten the loaves were five thousand men.Walking on the Water 
+Now those who had eaten the loaves were five thousand men.
+
+### Walking on the Water 
 
 ###### 45 
 Immediately he made his disciples get into the boat and go ahead of him to the other side, to Bethsaida, while he dismissed the crowd. 
@@ -159,7 +167,9 @@ because they all saw him and were terrified. Immediately he spoke with them and 
 Then he got into the boat with them, and the wind ceased. They were completely astounded, 
 
 ###### 52 
-because they had not understood about the loaves. Instead, their hearts were hardened.Miraculous Healings 
+because they had not understood about the loaves. Instead, their hearts were hardened.
+
+### Miraculous Healings 
 
 ###### 53 
 When they had crossed over, they came to shore at Gennesaret and anchored there. 

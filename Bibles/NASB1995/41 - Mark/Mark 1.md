@@ -42,7 +42,9 @@ and a voice came out of the heavens: "You are My beloved Son, in You I am well-p
 Immediately the Spirit *impelled Him _to go_ out into the wilderness. 
 
 ###### 13 
-And He was in the wilderness forty days being tempted by Satan; and He was with the wild beasts, and the angels were ministering to Him.Jesus Preaches in Galilee 
+And He was in the wilderness forty days being tempted by Satan; and He was with the wild beasts, and the angels were ministering to Him.
+
+### Jesus Preaches in Galilee 
 
 ###### 14 
 Now after John had been taken into custody, Jesus came into Galilee, preaching the gospel of God, 
@@ -78,7 +80,7 @@ Just then there was a man in their synagogue with an unclean spirit; and he crie
 saying, "What business do we have with each other, Jesus of Nazareth? Have You come to destroy us? I know who You are--the Holy One of God!" 
 
 ###### 25 
-And Jesus rebuked him, saying, **"Be quiet, and come out of him!"** 
+And Jesus [[Word Definitions/Rebuked.md|rebuked]] him, saying, **"Be quiet, and come out of him!"** 
 
 ###### 26 
 Throwing him into convulsions, the unclean spirit cried out with a loud voice and came out of him. 
@@ -87,7 +89,9 @@ Throwing him into convulsions, the unclean spirit cried out with a loud voice an
 They were all amazed, so that they debated among themselves, saying, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him." 
 
 ###### 28 
-Immediately the news about Him spread everywhere into all the surrounding district of Galilee.Crowds Healed 
+Immediately the news about Him spread everywhere into all the surrounding district of Galilee.
+
+### Crowds Healed 
 
 ###### 29 
 And immediately after they came out of the synagogue, they came into the house of Simon and Andrew, with James and John. 
@@ -123,7 +127,7 @@ He *said to them, **"Let us go somewhere else to the towns nearby, so that I may
 And He went into their synagogues throughout all Galilee, preaching and casting out the demons. 
 
 ###### 40 
-And a leper *came to Jesus, beseeching Him and falling on his knees before Him, and saying, "If You are willing, You can make me clean." 
+And a leper *came to Jesus, [[Word Definitions/Beseeching.md|beseeching]] Him and falling on his knees before Him, and saying, "If You are willing, You can make me clean." 
 
 ###### 41 
 Moved with compassion, Jesus stretched out His hand and touched him, and *said to him, **"I am willing; be cleansed."** 

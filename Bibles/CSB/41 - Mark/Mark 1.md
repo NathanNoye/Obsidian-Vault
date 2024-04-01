@@ -30,7 +30,7 @@ He proclaimed, "One who is more powerful than I am is coming after me. I am not 
 ###### 8 
 I baptize you with water, but he will baptize you with the Holy Spirit."
 
-The Baptism of Jesus 
+### The Baptism of Jesus 
 
 ###### 9 
 In those days Jesus came from Nazareth in Galilee and was baptized in the Jordan by John. 
@@ -39,19 +39,25 @@ In those days Jesus came from Nazareth in Galilee and was baptized in the Jordan
 As soon as he came up out of the water, he saw the heavens being torn open and the Spirit descending on him like a dove. 
 
 ###### 11 
-And a voice came from heaven: "You are my beloved Son; with you I am well-pleased."The Temptation of Jesus 
+And a voice came from heaven: "You are my beloved Son; with you I am well-pleased."
+
+### The Temptation of Jesus 
 
 ###### 12 
 Immediately the Spirit drove him into the wilderness. 
 
 ###### 13 
-He was in the wilderness forty days, being tempted by Satan. He was with the wild animals, and the angels were serving him.Ministry in Galilee 
+He was in the wilderness forty days, being tempted by Satan. He was with the wild animals, and the angels were serving him.
+
+### Ministry in Galilee 
 
 ###### 14 
 After John was arrested, Jesus went to Galilee, proclaiming the good news of God: 
 
 ###### 15 
-**"The time** **is fulfilled, and the kingdom of God** **has come** **near.** **Repent** **and believe** **the good news!"**The First Disciples 
+**"The time** **is fulfilled, and the kingdom of God** **has come** **near.** **Repent** **and believe** **the good news!"**
+
+### The First Disciples 
 
 ###### 16 
 As he passed alongside the Sea of Galilee, he saw Simon and Andrew, Simon's brother, casting a net into the sea--for they were fishermen. 
@@ -66,7 +72,9 @@ Immediately they left their nets and followed him.
 Going on a little farther, he saw James the son of Zebedee and his brother John in a boat putting their nets in order. 
 
 ###### 20 
-Immediately he called them, and they left their father Zebedee in the boat with the hired men and followed him.Driving Out an Unclean Spirit 
+Immediately he called them, and they left their father Zebedee in the boat with the hired men and followed him.
+
+### Driving Out an Unclean Spirit 
 
 ###### 21 
 They went into Capernaum, and right away he entered the synagogue on the Sabbath and began to teach. 
@@ -90,7 +98,9 @@ And the unclean spirit threw him into convulsions, shouted with a loud voice, an
 They were all amazed, and so they began to ask each other, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him." 
 
 ###### 28 
-At once the news about him spread throughout the entire vicinity of Galilee.Healings at Capernaum 
+At once the news about him spread throughout the entire vicinity of Galilee.
+
+### Healings at Capernaum 
 
 ###### 29 
 As soon as they left the synagogue, they went into Simon and Andrew's house with James and John. 
@@ -108,7 +118,9 @@ When evening came, after the sun had set, they brought to him all those who were
 The whole town was assembled at the door, 
 
 ###### 34 
-and he healed many who were sick with various diseases and drove out many demons. And he would not permit the demons to speak, because they knew him.Preaching in Galilee 
+and he healed many who were sick with various diseases and drove out many demons. And he would not permit the demons to speak, because they knew him.
+
+### Preaching in Galilee 
 
 ###### 35 
 Very early in the morning, while it was still dark, he got up, went out, and made his way to a deserted place; and there he was praying. 
@@ -120,7 +132,9 @@ Simon and his companions searched for him,
 and when they found him they said, "Everyone is looking for you." 
 
 ###### 38 
-And he said to them, **"Let's go on to the neighboring villages so that I may preach** **there too. This is why I have come."**A Man Cleansed 
+And he said to them, **"Let's go on to the neighboring villages so that I may preach** **there too. This is why I have come."**
+
+### A Man Cleansed 
 
 ###### 39 
 He went into all of Galilee, preaching in their synagogues and driving out demons. 

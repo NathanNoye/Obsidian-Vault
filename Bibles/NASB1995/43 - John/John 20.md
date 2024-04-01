@@ -57,7 +57,9 @@ Jesus *said to her, **"Mary!"** She turned and *said to Him in Hebrew, "Rabboni!
 Jesus *said to her, **"Stop clinging to Me, for I have not yet ascended to the Father; but go to My brethren and say to them, 'I ascend to My Father and your Father, and My God and your God.'"** 
 
 ###### 18 
-Mary Magdalene *came, announcing to the disciples, "I have seen the Lord," and _that_ He had said these things to her.Jesus among His Disciples 
+Mary Magdalene *came, announcing to the disciples, "I have seen the Lord," and _that_ He had said these things to her.
+
+### Jesus among His Disciples 
 
 ###### 19 
 So when it was evening on that day, the first _day_ of the week, and when the doors were shut where the disciples were, for fear of the Jews, Jesus came and stood in their midst and *said to them, **"Peace _be_ with you."** 
@@ -90,7 +92,9 @@ Then He *said to Thomas, **"Reach here with your finger, and see My hands; and r
 Thomas answered and said to Him, "My Lord and my God!" 
 
 ###### 29 
-Jesus *said to him, **"Because you have seen Me, have you believed? Blessed _are_ they who did not see, and _yet_ believed."**Why This Gospel Was Written 
+Jesus *said to him, **"Because you have seen Me, have you believed? Blessed _are_ they who did not see, and _yet_ believed."**
+
+### Why This Gospel Was Written 
 
 ###### 30 
 Therefore many other signs Jesus also performed in the presence of the disciples, which are not written in this book; 

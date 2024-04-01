@@ -39,13 +39,15 @@ Right away Jesus perceived in his spirit that they were thinking like this withi
 **"I tell you: get up,** **take your mat, and go home."** 
 
 ###### 12 
-Immediately he got up, took the mat, and went out in front of everyone. As a result, they were all astounded and gave glory to God, saying, "We have never seen anything like this!" The Call of Levi 
+Immediately he got up, took the mat, and went out in front of everyone. As a result, they were all astounded and gave glory to God, saying, "We have never seen anything like this!"
+
+### The Call of [[Matthew (Levi)|Levi]] 
 
 ###### 13 
 Jesus went out again beside the sea. The whole crowd was coming to him, and he was teaching them. 
 
 ###### 14 
-Then, passing by, he saw Levi the son of Alphaeus sitting at the tax office, and he said to him, **"Follow me,"** and he got up and followed him. 
+Then, passing by, he saw [[Matthew (Levi)|Levi]] the son of Alphaeus sitting at the tax office, and he said to him, **"Follow me,"** and he got up and followed him. 
 
 ###### 15 
 While he was reclining at the table in Levi's house, many tax collectors and sinners were eating with Jesus and his disciples, for there were many who were following him. 
@@ -54,7 +56,9 @@ While he was reclining at the table in Levi's house, many tax collectors and sin
 When the scribes who were Pharisees saw that he was eating with sinners and tax collectors, they asked his disciples, "Why does he eat with tax collectors and sinners?" 
 
 ###### 17 
-When Jesus heard this, he told them, **"It is not those who are well who need** **a doctor,** **but those who are sick.** **I didn't come to call the righteous,** **but sinners."**A Question about Fasting 
+When Jesus heard this, he told them, **"It is not those who are well who need** **a doctor,** **but those who are sick.** **I didn't come to call the righteous,** **but sinners."**
+
+### A Question about Fasting 
 
 ###### 18 
 Now John's disciples and the Pharisees were fasting. People came and asked him, "Why do John's disciples and the Pharisees' disciples fast, but your disciples do not fast?" 
@@ -69,7 +73,9 @@ Jesus said to them, **"The wedding guests cannot fast while the groom** **is wit
 **No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new patch pulls away from the old cloth,** **and a worse tear is made.** 
 
 ###### 22 
-**And no one puts new wine** **into old wineskins. Otherwise, the wine will burst** **the skins, and the wine is lost as well as the skins. No, new wine is put into fresh wineskins."**Lord of the Sabbath 
+**And no one puts new wine** **into old wineskins. Otherwise, the wine will burst** **the skins, and the wine is lost as well as the skins. No, new wine is put into fresh wineskins."**
+
+### Lord of the Sabbath 
 
 ###### 23 
 On the Sabbath he was going through the grainfields, and his disciples began to make their way, picking some heads of grain. 

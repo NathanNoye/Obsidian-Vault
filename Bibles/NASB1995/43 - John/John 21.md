@@ -36,7 +36,9 @@ So when they got out on the land, they *saw a charcoal fire _already_ laid and f
 Jesus *said to them, **"Bring some of the fish which you have now caught."** 
 
 ###### 11 
-Simon Peter went up and drew the net to land, full of large fish, a hundred and fifty-three; and although there were so many, the net was not torn.Jesus Provides 
+Simon Peter went up and drew the net to land, full of large fish, a hundred and fifty-three; and although there were so many, the net was not torn.
+
+### Jesus Provides 
 
 ###### 12 
 Jesus *said to them, **"Come _and_ have breakfast."** None of the disciples ventured to question Him, "Who are You?" knowing that it was the Lord. 
@@ -45,7 +47,9 @@ Jesus *said to them, **"Come _and_ have breakfast."** None of the disciples vent
 Jesus *came and *took the bread and *gave _it_ to them, and the fish likewise. 
 
 ###### 14 
-This is now the third time that Jesus was manifested to the disciples, after He was raised from the dead.The Love Motivation 
+This is now the third time that Jesus was manifested to the disciples, after He was raised from the dead.
+
+### The Love Motivation 
 
 ###### 15 
 So when they had finished breakfast, Jesus *said to Simon Peter, **"Simon, _son_ of John, do you love Me more than these?"** He *said to Him, "Yes, Lord; You know that I love You." He *said to him, **"Tend My lambs."** 
@@ -54,7 +58,9 @@ So when they had finished breakfast, Jesus *said to Simon Peter, **"Simon, _son_
 He *said to him again a second time, **"Simon, _son_ of John, do you love Me?"** He *said to Him, "Yes, Lord; You know that I love You." He *said to him, **"Shepherd My sheep."** 
 
 ###### 17 
-He *said to him the third time, **"Simon, _son_ of John, do you love Me?"** Peter was grieved because He said to him the third time, **"Do you love Me?"** And he said to Him, "Lord, You know all things; You know that I love You." Jesus *said to him, **"Tend My sheep.**Our Times Are in His Hand 
+He *said to him the third time, **"Simon, _son_ of John, do you love Me?"** Peter was grieved because He said to him the third time, **"Do you love Me?"** And he said to Him, "Lord, You know all things; You know that I love You." Jesus *said to him, **"Tend My sheep.**
+
+### Our Times Are in His Hand 
 
 ###### 18 
 Truly, truly, I say to you, when you were younger, you used to gird yourself and walk wherever you wished; but when you grow old, you will stretch out your hands and someone else will gird you, and bring you where you do not wish to _go_." 

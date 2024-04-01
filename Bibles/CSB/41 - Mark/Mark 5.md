@@ -63,7 +63,9 @@ As he was getting into the boat, the man who had been demon-possessed begged him
 Jesus did not let him but told him, **"Go home to your own people, and report to them how much the Lord** **has done** **for you and how he has had mercy on you."** 
 
 ###### 20 
-So he went out and began to proclaim in the Decapolis how much Jesus had done for him, and they were all amazed.A Girl Restored and a Woman Healed 
+So he went out and began to proclaim in the [[Word Definitions/Decapolis.md|Decapolis]] how much Jesus had done for him, and they were all amazed.
+
+### A Girl Restored and a Woman Healed 
 
 ###### 21 
 When Jesus had crossed over again by boat to the other side, a large crowd gathered around him while he was by the sea. 

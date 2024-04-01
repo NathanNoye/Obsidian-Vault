@@ -30,7 +30,9 @@ He taught them many things in parables, and in his teaching he said to them,
 **Still other seed fell on good ground and it grew up, producing fruit that increased** **thirty, sixty, and a hundred times."** 
 
 ###### 9 
-Then he said, **"Let anyone who has ears to hear listen."**Why Jesus Used Parables 
+Then he said, **"Let anyone who has ears to hear listen."
+
+### Why Jesus Used Parables 
 
 ###### 10 
 When he was alone, those around him with the Twelve asked him about the parables. 
@@ -39,7 +41,9 @@ When he was alone, those around him with the Twelve asked him about the parables
 He answered them, **"The secret** **of the kingdom of God** **has been given to you, but to those outside,** **everything comes in parables** 
 
 ###### 12 
-**so that** **<b class="quote">they may indeed look,**** **<b class="quote">and yet not perceive;**** **<b class="quote">they may indeed listen,**** **<b class="quote">and yet not understand;**** **<b class="quote">otherwise, they might turn back**** **<b class="quote">and be forgiven."**** The Parable of the Sower Explained 
+**so that they may indeed look, and yet not perceive; they may indeed listen, and yet not understand; otherwise, they might turn back and be forgiven."** 
+
+### The Parable of the Sower Explained 
 
 ###### 13 
 Then he said to them, **"Don't you understand this parable?** **How then will you understand all of the parables?** 
@@ -63,7 +67,9 @@ Then he said to them, **"Don't you understand this parable?** **How then will yo
 **but the worries** **of this age,** **the deceitfulness** **of wealth,** **and the desires** **for other things enter in and choke the word, and it becomes unfruitful.** 
 
 ###### 20 
-**And those like seed sown on good ground hear the word,** **welcome it, and produce fruit** **thirty, sixty, and a hundred times what was sown."**Using Your Light 
+**And those like seed sown on good ground hear the word,** **welcome it, and produce fruit** **thirty, sixty, and a hundred times what was sown."
+
+### Using Your Light 
 
 ###### 21 
 He also said to them, **"Is a lamp brought in to be put under a basket or under a bed?** **Isn't it to be put on a lampstand?** 
@@ -75,10 +81,12 @@ He also said to them, **"Is a lamp brought in to be put under a basket or under 
 **If anyone has ears to hear, let him listen."** 
 
 ###### 24 
-And he said to them, **"Pay attention to what you hear. By the measure** **you use,** vpnkit will be measured to you--and more will be added** **to you.** 
+And he said to them, **"Pay attention to what you hear. By the measure** **you use, it will be measured to you--and more will be added** **to you.** 
 
 ###### 25 
-**For whoever has, more will be given to him, and whoever does not have, even what he has will be taken away from him."**The Parable of the Growing Seed 
+**For whoever has, more will be given to him, and whoever does not have, even what he has will be taken away from him."**
+
+### The Parable of the Growing Seed 
 
 ###### 26 
 **"The kingdom of God** **is like this,"** he said. **"A man scatters seed on the ground.** 
@@ -90,7 +98,9 @@ And he said to them, **"Pay attention to what you hear. By the measure** **you u
 **The soil produces a crop** **by itself--first the blade, then the head, and then the full grain** **on the head.** 
 
 ###### 29 
-**As soon as the crop is ready, he sends for the sickle,** **because the harvest** **has come."**The Parable of the Mustard Seed 
+**As soon as the crop is ready, he sends for the sickle,** **because the harvest** **has come."
+
+### The Parable of the Mustard Seed 
 
 ###### 30 
 And he said, **"With what can we compare the kingdom of God,** **or what parable** **can we use to describe it?** 
@@ -99,13 +109,17 @@ And he said, **"With what can we compare the kingdom of God,** **or what parable
 **It's like a mustard seed** **that, when sown upon the soil, is the smallest of all the seeds on the ground.** 
 
 ###### 32 
-**And when sown,** vpnkit comes up and grows taller than all the garden plants,** **and produces large branches, so that the birds of the sky** **can nest in its shade."**Using Parables 
+**And when sown, it comes up and grows taller than all the garden plants,** **and produces large branches, so that the birds of the sky** **can nest in its shade."**
+
+### Using Parables 
 
 ###### 33 
 He was speaking the word to them with many parables like these, as they were able to understand. 
 
 ###### 34 
-He did not speak to them without a parable. Privately, however, he explained everything to his own disciples.Wind and Waves Obey Jesus 
+He did not speak to them without a parable. Privately, however, he explained everything to his own disciples.
+
+### Wind and Waves Obey Jesus 
 
 ###### 35 
 On that day, when evening had come, he told them, **"Let's cross over to the other side of the sea."** 

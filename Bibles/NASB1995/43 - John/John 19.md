@@ -6,7 +6,7 @@
 
 
 ###### 1 
-Pilate then took Jesus and scourged Him. 
+[[Pilate]] then took Jesus and [[Word Definitions/Scourged.md|scourged]] Him. 
 
 ###### 2 
 And the soldiers twisted together a crown of thorns and put it on His head, and put a purple robe on Him; 
@@ -15,13 +15,13 @@ And the soldiers twisted together a crown of thorns and put it on His head, and 
 and they _began_ to come up to Him and say, "Hail, King of the Jews!" and to give Him slaps _in the face_. 
 
 ###### 4 
-Pilate came out again and *said to them, "Behold, I am bringing Him out to you so that you may know that I find no guilt in Him." 
+[[Pilate]] came out again and *said to them, "Behold, I am bringing Him out to you so that you may know that I find no guilt in Him." 
 
 ###### 5 
-Jesus then came out, wearing the crown of thorns and the purple robe. _Pilate_ *said to them, "Behold, the Man!" 
+Jesus then came out, wearing the crown of thorns and the purple robe. _[[Pilate]]_ *said to them, "Behold, the Man!" 
 
 ###### 6 
-So when the chief priests and the officers saw Him, they cried out saying, "Crucify, crucify!" Pilate *said to them, "Take Him yourselves and crucify Him, for I find no guilt in Him." 
+So when the chief priests and the officers saw Him, they cried out saying, "Crucify, crucify!" [[Pilate]] *said to them, "Take Him yourselves and crucify Him, for I find no guilt in Him." 
 
 ###### 7 
 The Jews answered him, "We have a law, and by that law He ought to die because He made Himself out _to be_ the Son of God." 
@@ -30,7 +30,7 @@ The Jews answered him, "We have a law, and by that law He ought to die because H
 Therefore when Pilate heard this statement, he was _even_ more afraid; 
 
 ###### 9 
-and he entered into the Praetorium again and *said to Jesus, "Where are You from?" But Jesus gave him no answer. 
+and he entered into the [[Praetorium]] again and *said to Jesus, "Where are You from?" But Jesus gave him no answer. 
 
 ###### 10 
 So Pilate *said to Him, "You do not speak to me? Do You not know that I have authority to release You, and I have authority to crucify You?" 
@@ -48,7 +48,9 @@ Therefore when Pilate heard these words, he brought Jesus out, and sat down on t
 Now it was the day of preparation for the Passover; it was about the sixth hour. And he *said to the Jews, "Behold, your King!" 
 
 ###### 15 
-So they cried out, "Away with _Him_, away with _Him_, crucify Him!" Pilate *said to them, "Shall I crucify your King?" The chief priests answered, "We have no king but Caesar."The Crucifixion 
+So they cried out, "Away with _Him_, away with _Him_, crucify Him!" Pilate *said to them, "Shall I crucify your King?" The chief priests answered, "We have no king but Caesar."
+
+### The Crucifixion 
 
 ###### 16 
 So he then handed Him over to them to be crucified. 
@@ -93,7 +95,9 @@ After this, Jesus, knowing that all things had already been accomplished, to ful
 A jar full of sour wine was standing there; so they put a sponge full of the sour wine upon _a branch of_ hyssop and brought it up to His mouth. 
 
 ###### 30 
-Therefore when Jesus had received the sour wine, He said, **"It is finished!"** And He bowed His head and gave up His spirit.Care of the Body of Jesus 
+Therefore when Jesus had received the sour wine, He said, **"It is finished!"** And He bowed His head and gave up His spirit.
+
+### Care of the Body of Jesus 
 
 ###### 31 
 Then the Jews, because it was the day of preparation, so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), asked Pilate that their legs might be broken, and _that_ they might be taken away. 

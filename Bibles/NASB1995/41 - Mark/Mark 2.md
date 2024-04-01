@@ -36,13 +36,15 @@ Which is easier, to say to the paralytic, 'Your sins are forgiven'; or to say, '
 But so that you may know that the Son of Man has authority on earth to forgive sins"--He *said to the paralytic, 
 
 ###### 11 
-"I say to you, get up, pick up your pallet and go home." 
+"I say to you, get up, pick up your [[Word Definitions/Pallet.md|pallet]] and go home." 
 
 ###### 12 
 And he got up and immediately picked up the pallet and went out in the sight of everyone, so that they were all amazed and were glorifying God, saying, "We have never seen anything like this." 
 
 ###### 13 
-And He went out again by the seashore; and all the people were coming to Him, and He was teaching them.Levi (Matthew) Called 
+And He went out again by the seashore; and all the people were coming to Him, and He was teaching them.
+
+### Levi (Matthew) Called 
 
 ###### 14 
 As He passed by, He saw Levi the _son_ of Alphaeus sitting in the tax booth, and He *said to him, **"Follow Me!"** And he got up and followed Him. 
@@ -69,7 +71,9 @@ But the days will come when the bridegroom is taken away from them, and then the
 "No one sews a patch of unshrunk cloth on an old garment; otherwise the patch pulls away from it, the new from the old, and a worse tear results. 
 
 ###### 22 
-No one puts new wine into old wineskins; otherwise the wine will burst the skins, and the wine is lost and the skins _as well_; but _one puts_ new wine into fresh wineskins."Question of the Sabbath 
+No one puts new wine into old wineskins; otherwise the wine will burst the skins, and the wine is lost and the skins _as well_; but _one puts_ new wine into fresh wineskins."
+
+### Question of the Sabbath 
 
 ###### 23 
 And it happened that He was passing through the grainfields on the Sabbath, and His disciples began to make their way along while picking the heads _of grain_. 

@@ -21,7 +21,9 @@ Then he said to them, **"Is it lawful** **to do good** **on the Sabbath or to do
 After looking around at them with anger, he was grieved at the hardness of their hearts and told the man, **"Stretch out your hand."** So he stretched it out, and his hand was restored. 
 
 ###### 6 
-Immediately the Pharisees went out and started plotting with the Herodians against him, how they might kill him.Ministering to the Multitude 
+Immediately the Pharisees went out and started plotting with the [[Herodians]] against him, how they might kill him.
+
+### Ministering to the Multitude 
 
 ###### 7 
 Jesus departed with his disciples to the sea, and a large crowd followed from Galilee, and a large crowd followed from Judea, 
@@ -39,7 +41,9 @@ Since he had healed many, all who had diseases were pressing toward him to touch
 Whenever the unclean spirits saw him, they fell down before him and cried out, "You are the Son of God!" 
 
 ###### 12 
-And he would strongly warn them not to make him known.The Twelve Apostles 
+And he would strongly warn them not to make him known.
+
+### The Twelve Apostles 
 
 ###### 13 
 Jesus went up the mountain and summoned those he wanted, and they came to him. 
@@ -60,7 +64,9 @@ and to James the son of Zebedee, and to his brother John, he gave the name "Boan
 Andrew; Philip and Bartholomew; Matthew and Thomas; James the son of Alphaeus, and Thaddaeus; Simon the Zealot, 
 
 ###### 19 
-and Judas Iscariot, who also betrayed him.A House Divided 
+and Judas Iscariot, who also betrayed him.
+
+### A House Divided 
 
 ###### 20 
 Jesus entered a house, and the crowd gathered again so that they were not even able to eat. 
@@ -87,13 +93,15 @@ So he summoned them and spoke to them in parables: **"How can Satan** **drive ou
 **But no one can enter a strong man's house and plunder his possessions unless he first ties up** **the strong man. Then he can plunder his house.** 
 
 ###### 28 
-**"Truly I tell you, people will be forgiven for all sins and whatever blasphemies** **they utter.** 
+**"Truly I tell you, people will be forgiven for all sins and whatever [[Word Definitions/Blasphemies.md|blasphemies]]** **they utter.** 
 
 ###### 29 
 **But whoever blasphemes** **against the Holy Spirit never has forgiveness,** **but is guilty** **of an eternal sin"**-- 
 
 ###### 30 
-because they were saying, "He has an unclean spirit."True Relationships 
+because they were saying, "He has an unclean spirit."
+
+### True Relationships 
 
 ###### 31 
 His mother and his brothers came, and standing outside, they sent word to him and called him. 

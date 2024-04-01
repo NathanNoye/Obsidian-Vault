@@ -1,5 +1,5 @@
-1. [[Bible Study/🔥 MAIN STUDY/01 - John/John 1|John]] 
-2. Mark 
+1. [[Bible Study/🔥 MAIN STUDY/01 - John|John]] 
+2. [[Bible Study/🔥 MAIN STUDY/02 - Mark|Mark]] 
 3. Matthew 
 4. Luke 
 5. Genesis 

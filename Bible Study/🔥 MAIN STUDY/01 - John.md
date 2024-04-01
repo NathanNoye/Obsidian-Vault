@@ -61,7 +61,7 @@ These events highlight [[Jesus|Jesus]]' divine authority, His concern for genuin
 Does this mean selling items in the church is bad? It depends on the context. [[Jesus|Jesus]]' reaction was a reaction **against** practices that exploited worshippers and desecrated a sacred space meant for prayer and communion with God. The key concerns were the commercialization of religious practices and the hindrance of genuine worship. 
 
 3. [[Bibles/CSB/43 - John/John 2#17|John 2:17]] is a fulfillment of [[Bibles/CSB/19 - Psalms/Ps 69#9|Ps 69:9]]. The disciples recalled this verse, seeing [[Jesus|Jesus]]' actions as a fulfillment of what was written about the Messiah's righteous indignation towards anything that desecrates or dishonours God's house. The "consume me" part is meaning the psalmist is consumed with zeal. In this case with [[Jesus|Jesus]] fulfilling it - he is consumed with zeal over the desecration is misuse of the temple.
-4. 🔥 This parallel blew my mind: [[Jesus|Jesus]] is consumed by zeal when he sees the temple being misused, desecrated, and disrespected. He later says **"Destroy this temple,** **and I will raise it up in three days."** ([[Bibles/CSB/43 - John/John 2#19|John 2:19]]) - this is foreshadowing the resurrection and him becoming the temple. THIS MEANS we should have the same zeal - so much so that we be consumed by it - when we [[Jesus|Jesus]] (the new temple) is being  misused, desecrated, and disrespected. 
+4. 🔥 This parallel blew my mind: [[Jesus|Jesus]] is consumed by zeal when he sees the temple being misused, desecrated, and disrespected. He later says **"Destroy this temple,** **and I will raise it up in three days."** ([[Bibles/CSB/43 - John/John 2#19|John 2:19]]) - this is foreshadowing the resurrection and him becoming the temple. THIS MEANS we should have the same zeal - so much so that we be consumed by it - when we [[Jesus|Jesus]] (the new temple) is being misused, desecrated, and disrespected. 
 5. Having zeal involves showing great energy, enthusiasm, and dedication in pursuit of a cause, objective, or activity. In a religious or spiritual context, zeal is often characterized by fervent devotion and vigorous commitment to one's faith and its practices, including worship, service, and the spread of religious beliefs. Zeal is more than just passive belief; it is active and dynamic, driving individuals to engage deeply with their faith, live out their convictions, and make a positive impact in their communities and beyond. [[Jesus|Jesus]] had zeal about the temple and was moved when he saw it being disrespected. If we aren't moved when [[Jesus|Jesus]] (the temple), we need to look into why we aren't affected or consumed.
 6. [[Bibles/CSB/43 - John/John 2#23|John 2:23]] seems like it breaks the flow from the other verses (13-22). This is because it is a transitional set of verses where it dives into the more in-depth teachings and interactions that follow in chapter 3. The key point in these three verses is him "entrusting" himself to them. This is what that means: 
 	- While people believed in [[Jesus|Jesus]] based on His signs, [[Jesus|Jesus]], knowing their hearts, did not reciprocally commit Himself to them. This indicates [[Jesus|Jesus]]' discernment; He knew that the faith of many was not genuine or deep enough to withstand trials or understand His true mission
@@ -222,7 +222,21 @@ Finally, [[Jesus|Jesus]] refers to Himself as the "Good Shepherd," as a contrast
 
 [[Bibles/CSB/43 - John/John 19#29|John 19:29]] - the Israelites used hyssop branches to cover their door frames in [[Bibles/CSB/02 - Exodus/Exod 12#22|Exod 12:22]]
 
+It's fascinating that over some verses - Pilate didn't want to kill Jesus but the Pharisees kept pushing Pilate to do it.
+
+[[Bibles/CSB/43 - John/John 19#8|John 19:8]] - Pilate, a gentile, knew the power of Jesus and his authority. Even just by hearing about Jesus, not even seeing the miracles, he knew there was more to this man than what others were saying WHILE the Pharisees wanted him dead - the people who should've had all the reasons to know who Jesus was.
+
+[[Bibles/CSB/43 - John/John 19#13|John 19:13]] - "sixth hour" in roman times referred to the sixth hour AFTER the sunrise since time keeping started at the time when the sun rose. So this verse is basically saying around 12pm.
+
+[[Bibles/CSB/43 - John/John 19#15|John 19:15]] - Interesting passage, looks like 2 things going on. They're manipulating Pilate by playing on his political affiliation. Another perspective is it also looks like they're rejecting heavenly divinity for worldly power. 
+
+[[Bibles/CSB/43 - John/John 19#21|John 19:21]] - They wanted the sign to say that Jesus was self-proclaiming himself as the king of jews but Pilate said that he wrote what he wrote. Why didn't he change it? Could have been he didn't want to, didn't see a reason, or maybe it's a callback to earlier when Pilate became afraid about Jesus' authority in [[Bibles/CSB/43 - John/John 19#8|John 19:8]]. Seems to make sense. The chief priests wanted Jesus to look like he was proclaiming himself and that it's "only him" who sees himself as the king of the jews whereas the sign that Pilate wrote seems to confirm Jesus' kingship and authority (callback to the testimony statements?)
+
 [[Bibles/CSB/43 - John/John 19#31|John 19:31]] - The Sabbath mentioned is referred to as a "special" or "high day" because it coincided with the Jewish festival of Passover. The "Preparation Day" was the day before the Sabbath, on which the Jews prepared for the Sabbath by finishing all work, as no work was allowed on the Sabbath itself.
+
+[[Bibles/CSB/43 - John/John 19#38|John 19:38]] - caught my eye that he was a "secret disciple" - wrote an article on it here: [[The "Secret" Disciple]]
+
+
 
 ---
 # John 20
@@ -245,6 +259,12 @@ I paraphrased a bit but that's basically what he said.
 [[Bibles/CSB/43 - John/John 21#9|John 21:9]] - Callback to Jesus feeding the 5000
 
 [[Bibles/CSB/43 - John/John 21#15|John 21:15-17]] - Callback to Peter denying Jesus 3 times, this time Jesus RESTORES Peter 3 times.
+
+[[Bibles/CSB/43 - John/John 21#19|John 21:19]] - Someone dying a brutal death doesn't seem like it would glorify God **ON THE SURFACE** but dig deeper and you'll see why. Peter died a terrible horrible death and could have renounced God to save himself BUT because of how much he loved God and had faith in him - he chose to follow what he knew was true and die in a horrible way. The reason this glorified God is because it shows how even something is horrible on the surface, Peter had faith until the end. It also showed these traits:
+- Faithfulness and Obedience
+- Witness to the Gospel
+- Encouragement to Believers
+- Fulfillment of Prophecy
 
 [[Bibles/CSB/43 - John/John 21#20|John 21:20]] - This is John (The disciple Jesus loved). The following verses talk about how Peter shouldn't concern himself with John but rather focus on what Jesus is calling Peter to do.
 

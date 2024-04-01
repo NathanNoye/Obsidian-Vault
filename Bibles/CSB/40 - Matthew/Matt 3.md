@@ -12,7 +12,7 @@ In those days John the Baptist came, preaching in the wilderness of Judea
 and saying, "Repent, because the kingdom of heaven has come near!" 
 
 ###### 3 
-For he is the one spoken of through the prophet Isaiah, who said: <b class="quote">A voice of one crying out in the wilderness:** <b class="quote">Prepare the way for the Lord;** <b class="quote">make his paths straight!** 
+For he is the one spoken of through the prophet Isaiah, who said: [[Bibles/CSB/23 - Isaiah/Isa 40#3|A voice of one crying out in the wilderness; make his paths straight!]]
 
 ###### 4 
 Now John had a camel-hair garment with a leather belt around his waist, and his food was locusts and wild honey. 

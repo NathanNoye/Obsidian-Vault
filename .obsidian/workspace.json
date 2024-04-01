@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "ecdc5b10b2c04379",
+            "id": "70f8d02941cbd769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 19.md",
+                "file": "Programming notes/Ruby on rails/OOP/Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "b18cd08b461c5a25",
+            "id": "488c386e16ac08cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 20.md",
+                "file": "Programming notes/Ruby on rails/Strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "fb751eb62179d5d2",
+            "id": "98d47a604be38f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/43 - John/John 21.md",
+                "file": "Bibles/CSB/41 - Mark/Mark 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,12 +61,51 @@
             }
           },
           {
-            "id": "4a8cd3d3d5a7c6f7",
+            "id": "0870f8f8aca24996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+                "file": "Bibles/CSB/41 - Mark/Mark 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27ba77283d437ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/41 - Mark/Mark 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ccee7370087c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862c0a9dae03f948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Arrays.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "b133770da4704494",
@@ -82,12 +121,12 @@
         "dimension": 43.713872832369944,
         "children": [
           {
-            "id": "92ccee7370087c4e",
+            "id": "e1508234de0714b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/01 - John.md",
+                "file": "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md"
+                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md"
               }
             }
           }
@@ -252,44 +291,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4a8cd3d3d5a7c6f7",
+  "active": "92ccee7370087c4e",
   "lastOpenFiles": [
-    "Bibles/CSB/43 - John/John 19.md",
+    "Programming notes/Ruby on rails/Codewars/Count characters in your string.md",
+    "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+    "Programming notes/Ruby on rails/Codewars/Convert string to camel case.md",
+    "Programming notes/Ruby on rails/Codewars/Get Sum.md",
+    "Programming notes/Ruby on rails/Codewars/Outlier.md",
+    "Programming notes/Ruby on rails/Arrays.md",
+    "Programming notes/Ruby on rails/Codewars/Who likes it?.md",
+    "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
     "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
-    "Bible Study/People in the Bible/John Mark.md",
-    "Bible Study/People in the Bible/The Apostles/Andrew.md",
-    "Bible Study/🔥 MAIN STUDY/01 - John.md",
-    "Bibles/CSB/41 - Mark/Mark.md",
-    "Bibles/CSB/41 - Mark/Mark 1.md",
-    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
-    "Bibles/CSB/43 - John/John 20.md",
-    "Bibles/CSB/43 - John/John 21.md",
-    "Bibles/CSB/43 - John/John.md",
-    "Obsidian MD cheat sheet.md",
-    "Bibles/CSB/42 - Luke/Luke 5.md",
-    "Bible Study/People in the Bible/The Apostles/John.md",
-    "Bible Study/People in the Bible/The Apostles/Simon Peter (or Cephas).md",
-    "Untitled.md",
-    "Bibles/KJV/43 - John/John 20.md",
-    "Bibles/NKJV/43 - John/John 20.md",
-    "Bible Study/Study topics/Why are verses missing in some translations?.md",
-    "Programming notes/Ruby on rails/Ruby on rails.md",
-    "Bibles/CSB/38 - Zechariah/Zech 12.md",
-    "Bibles/CSB/19 - Psalms/Ps 34.md",
-    "Bibles/CSB/02 - Exodus/Exod 12.md",
-    "Bibles/CSB/19 - Psalms/Ps 22.md",
-    "Word Definitions/Oxymoron.md",
-    "Word Definitions/Flogged.md",
+    "Bibles/CSB/41 - Mark/Mark 6.md",
+    "Bibles/CSB/41 - Mark/Mark 5.md",
+    "Word Definitions/Decapolis.md",
+    "Bibles/CSB/41 - Mark/Mark 4.md",
+    "Bibles/CSB/23 - Isaiah/Isa 6.md",
+    "Bibles/CSB/23 - Isaiah/Isa 7.md",
+    "Bibles/CSB/23 - Isaiah/Isa 8.md",
+    "Bibles/CSB/23 - Isaiah/Isa 9.md",
+    "Programming notes/Ruby on rails/Strings.md",
+    "Bibles/NASB1995/41 - Mark/Mark 3.md",
+    "Bibles/NASB1995/41 - Mark/Mark 2.md",
+    "Word Definitions/Pallet.md",
+    "Programming notes/Ruby on rails/Codewars",
+    "Bibles/NASB1995/41 - Mark/Mark 1.md",
+    "Word Definitions/Beseeching.md",
+    "Word Definitions/Rebuked.md",
+    "Programming notes/Ruby on rails/OOP/Intro.md",
+    "Programming notes/Ruby on rails/Homework/Area Codes.md",
+    "Programming notes/Ruby on rails/OOP",
+    "Programming notes/Ruby on rails/Homework",
+    "Untitled",
     "Bible Study/Locations/images",
     "Prayers",
     "Word Definitions",
     "Bibles/CSB/62 - John",
     "Bibles/GNV/66 - Revelation",
     "Bibles/GNV/65 - Jude",
-    "Bibles/GNV/64 - 3 John",
-    "Bibles/GNV/63 - 2 John",
-    "Bibles/GNV/62 - 1 John",
-    "Bibles/GNV/61 - 2 Peter",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
