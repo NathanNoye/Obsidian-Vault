@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "488c386e16ac08cc",
+            "id": "92ccee7370087c4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Ruby on rails/Strings.md",
+                "file": "Programming notes/Unit Testing (+ others).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +48,25 @@
             }
           },
           {
-            "id": "98d47a604be38f3e",
+            "id": "225c5bccf7340478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/41 - Mark/Mark 4.md",
+                "file": "Programming notes/Ruby on rails/Error handling.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aad2a223775d95e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/How to solve any problem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,12 +74,12 @@
             }
           },
           {
-            "id": "0870f8f8aca24996",
+            "id": "2debd86998f504dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/CSB/41 - Mark/Mark 5.md",
+                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,25 +100,12 @@
             }
           },
           {
-            "id": "92ccee7370087c4e",
+            "id": "895e0703f88a6e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862c0a9dae03f948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Arrays.md",
+                "file": "Bibles/CSB/41 - Mark/Mark 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "b133770da4704494",
@@ -121,45 +121,33 @@
         "dimension": 43.713872832369944,
         "children": [
           {
-            "id": "e1508234de0714b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3db7e695091c417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian MD cheat sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df461896cf73f121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/People in the Bible/The Apostles/John.md",
+                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c89f3c22841fd1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobber Code Interview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+                "file": "Programming notes/Unit Testing (+ others).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+                "file": "Programming notes/Unit Testing (+ others).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md"
+                "file": "Programming notes/Unit Testing (+ others).md"
               }
             }
           }
@@ -293,33 +281,34 @@
   },
   "active": "92ccee7370087c4e",
   "lastOpenFiles": [
-    "Programming notes/Ruby on rails/Codewars/Count characters in your string.md",
+    "Programming notes/Ruby on rails/Error handling.md",
+    "Programming notes/Ruby on rails/Rails",
+    "Programming notes/Unit Testing (+ others).md",
+    "Programming notes/Ruby on rails/OOP/Intro.md",
+    "Programming notes/How to solve any problem.md",
+    "Jobber Code Interview.md",
+    "Programming notes/Nates code examples/Ruby Event Bus.md",
+    "Programming notes/Nates code examples/Untitled.md",
+    "Programming notes/Nates code examples",
+    "Obsidian MD cheat sheet.md",
+    "Programming notes/Ruby on rails/Codewars/Who likes it?.md",
+    "Bibles/CSB/41 - Mark/Mark 7.md",
+    "Bibles/CSB/41 - Mark/Mark 6.md",
+    "Bibles/CSB/43 - John/John 6.md",
+    "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
+    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
     "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+    "Programming notes/Ruby on rails/Codewars/Count characters in your string.md",
+    "Programming notes/Ruby on rails/Arrays.md",
+    "Programming notes/Ruby on rails/Strings.md",
+    "Bibles/CSB/41 - Mark/Mark 5.md",
+    "Bibles/CSB/41 - Mark/Mark 4.md",
+    "Bible Study/People in the Bible/The Apostles/John.md",
     "Programming notes/Ruby on rails/Codewars/Convert string to camel case.md",
     "Programming notes/Ruby on rails/Codewars/Get Sum.md",
     "Programming notes/Ruby on rails/Codewars/Outlier.md",
-    "Programming notes/Ruby on rails/Arrays.md",
-    "Programming notes/Ruby on rails/Codewars/Who likes it?.md",
-    "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
-    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
-    "Bibles/CSB/41 - Mark/Mark 6.md",
-    "Bibles/CSB/41 - Mark/Mark 5.md",
     "Word Definitions/Decapolis.md",
-    "Bibles/CSB/41 - Mark/Mark 4.md",
-    "Bibles/CSB/23 - Isaiah/Isa 6.md",
-    "Bibles/CSB/23 - Isaiah/Isa 7.md",
-    "Bibles/CSB/23 - Isaiah/Isa 8.md",
-    "Bibles/CSB/23 - Isaiah/Isa 9.md",
-    "Programming notes/Ruby on rails/Strings.md",
-    "Bibles/NASB1995/41 - Mark/Mark 3.md",
-    "Bibles/NASB1995/41 - Mark/Mark 2.md",
-    "Word Definitions/Pallet.md",
     "Programming notes/Ruby on rails/Codewars",
-    "Bibles/NASB1995/41 - Mark/Mark 1.md",
-    "Word Definitions/Beseeching.md",
-    "Word Definitions/Rebuked.md",
-    "Programming notes/Ruby on rails/OOP/Intro.md",
-    "Programming notes/Ruby on rails/Homework/Area Codes.md",
     "Programming notes/Ruby on rails/OOP",
     "Programming notes/Ruby on rails/Homework",
     "Untitled",
@@ -327,8 +316,6 @@
     "Prayers",
     "Word Definitions",
     "Bibles/CSB/62 - John",
-    "Bibles/GNV/66 - Revelation",
-    "Bibles/GNV/65 - Jude",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",

@@ -64,3 +64,6 @@ The Parable of the sower explain lists 3 ways the word becomes unfruitful in peo
 # Mark 6
 
 Don't let our hearts be hardened. The disciples let their hearts get hardened because they didn't understand the fish and loaves miracle.
+
+---
+# Mark 7

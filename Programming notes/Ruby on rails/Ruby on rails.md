@@ -14,6 +14,7 @@
 	- [[Outlier]]
 	- [[The Hashtag Generator]]
 	- [[Who likes it?]]
+- [[Error handling]]
 - [[Hash]]
 - **Homework**
 	- [[Area Codes]]
@@ -22,6 +23,7 @@
 - [[Numbers]]
 - **OOP**
 	- [[Intro]]
+- **Rails**
 - [[Strings]]
 - [[Style Guide]]
 - [[Variables]]
