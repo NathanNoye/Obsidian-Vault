@@ -6,7 +6,7 @@
       {
         "id": "0435537954802a5e",
         "type": "tabs",
-        "dimension": 56.28612716763006,
+        "dimension": 55.27456647398844,
         "children": [
           {
             "id": "895c436d2af04532",
@@ -16,84 +16,6 @@
               "state": {
                 "file": "Programming notes/Ruby on rails/Ruby on rails.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70f8d02941cbd769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/OOP/Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ccee7370087c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Unit Testing (+ others).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "225c5bccf7340478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Error handling.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad2a223775d95e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/How to solve any problem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2debd86998f504dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27ba77283d437ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/41 - Mark/Mark 6.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -111,14 +33,66 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65cd41a22b7197ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibles/CSB/41 - Mark/Mark 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2d1bedcbf7bd3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84cb29d1b84bc4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Rails/MVC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d08aa20bd36ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming notes/Ruby on rails/Rails/Commands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b133770da4704494",
         "type": "tabs",
-        "dimension": 43.713872832369944,
+        "dimension": 44.72543352601156,
         "children": [
           {
             "id": "df461896cf73f121",
@@ -213,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Unit Testing (+ others).md",
+                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Unit Testing (+ others).md",
+                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Unit Testing (+ others).md"
+                "file": "Programming notes/Ruby on rails/Rails/Routes.md"
               }
             }
           }
@@ -279,35 +253,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "92ccee7370087c4e",
+  "active": "2e2d1bedcbf7bd3e",
   "lastOpenFiles": [
+    "Programming notes/Ruby on rails/Rails/MVC.md",
+    "Programming notes/Ruby on rails/Rails/Routes.md",
+    "Programming notes/Ruby on rails/Rails/Commands.md",
+    "Programming notes/Ruby on rails/Rails/Routes Diagram.md",
+    "Obsidian MD cheat sheet.md",
+    "Programming notes/Ruby on rails/Ruby on rails.md",
+    "Programming notes/Ruby on rails/OOP/Intro.md",
+    "Jobber Code Interview.md",
+    "Bibles/CSB/41 - Mark/Mark 9.md",
+    "Bibles/CSB/41 - Mark/Mark 8.md",
+    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+    "Bibles/CSB/41 - Mark/Mark 7.md",
+    "Bibles/CSB/41 - Mark/Mark 6.md",
+    "Programming notes/Unit Testing (+ others).md",
+    "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
+    "Programming notes/How to solve any problem.md",
     "Programming notes/Ruby on rails/Error handling.md",
     "Programming notes/Ruby on rails/Rails",
-    "Programming notes/Unit Testing (+ others).md",
-    "Programming notes/Ruby on rails/OOP/Intro.md",
-    "Programming notes/How to solve any problem.md",
-    "Jobber Code Interview.md",
     "Programming notes/Nates code examples/Ruby Event Bus.md",
     "Programming notes/Nates code examples/Untitled.md",
     "Programming notes/Nates code examples",
-    "Obsidian MD cheat sheet.md",
     "Programming notes/Ruby on rails/Codewars/Who likes it?.md",
-    "Bibles/CSB/41 - Mark/Mark 7.md",
-    "Bibles/CSB/41 - Mark/Mark 6.md",
     "Bibles/CSB/43 - John/John 6.md",
     "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
-    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
-    "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
     "Programming notes/Ruby on rails/Codewars/Count characters in your string.md",
     "Programming notes/Ruby on rails/Arrays.md",
     "Programming notes/Ruby on rails/Strings.md",
     "Bibles/CSB/41 - Mark/Mark 5.md",
-    "Bibles/CSB/41 - Mark/Mark 4.md",
-    "Bible Study/People in the Bible/The Apostles/John.md",
-    "Programming notes/Ruby on rails/Codewars/Convert string to camel case.md",
-    "Programming notes/Ruby on rails/Codewars/Get Sum.md",
-    "Programming notes/Ruby on rails/Codewars/Outlier.md",
-    "Word Definitions/Decapolis.md",
     "Programming notes/Ruby on rails/Codewars",
     "Programming notes/Ruby on rails/OOP",
     "Programming notes/Ruby on rails/Homework",

@@ -24,6 +24,9 @@
 - **OOP**
 	- [[Intro]]
 - **Rails**
+	- [[Commands]]
+	- [[MVC]]
+	- [[Routes]]
 - [[Strings]]
 - [[Style Guide]]
 - [[Variables]]

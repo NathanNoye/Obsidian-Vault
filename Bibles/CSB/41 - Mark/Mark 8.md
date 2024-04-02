@@ -33,7 +33,9 @@ They ate and were satisfied. Then they collected seven large baskets of leftover
 About four thousand were there. He dismissed them. 
 
 ###### 10 
-And he immediately got into the boat with his disciples and went to the district of Dalmanutha.The Leaven of the Pharisees and Herod 
+And he immediately got into the boat with his disciples and went to the district of Dalmanutha.
+
+### The Leaven of the Pharisees and Herod 
 
 ###### 11 
 The Pharisees came and began to argue with him, demanding of him a sign from heaven to test him. 
@@ -57,7 +59,7 @@ They were discussing among themselves that they did not have any bread.
 Aware of this, he said to them, **"Why are you discussing the fact you have no bread? Don't you understand or comprehend? Do you have hardened hearts?** 
 
 ###### 18 
-**<b class="quote">Do you have eyes and not see; do you have ears and not hear?**** **And do you not remember?** 
+**<b class="quote">Do you have eyes and not see; do you have ears and not hear?</b> And do you not remember?** 
 
 ###### 19 
 **When I broke the five loaves for the five thousand, how many baskets full of leftovers did you collect?"** "Twelve," they told him. 
@@ -66,7 +68,9 @@ Aware of this, he said to them, **"Why are you discussing the fact you have no b
 **"When I broke the seven loaves for the four thousand, how many baskets full of pieces did you collect?"** "Seven," they said. 
 
 ###### 21 
-And he said to them, **"Don't you understand yet?"** Healing a Blind Man 
+And he said to them, **"Don't you understand yet?"**
+
+### Healing a Blind Man 
 
 ###### 22 
 They came to Bethsaida. They brought a blind man to him and begged him to touch him. 
@@ -81,7 +85,9 @@ He looked up and said, "I see people--they look like trees walking."
 Again Jesus placed his hands on the man's eyes. The man looked intently and his sight was restored and he saw everything clearly. 
 
 ###### 26 
-Then he sent him home, saying, **"Don't even go into the village."**Peter's Confession of the Messiah 
+Then he sent him home, saying, **"Don't even go into the village."**
+
+### Peter's Confession of the Messiah 
 
 ###### 27 
 Jesus went out with his disciples to the villages of Caesarea Philippi. And on the road he asked his disciples, **"Who do people say that I am?"** 
@@ -93,7 +99,9 @@ They answered him, "John the Baptist; others, Elijah; still others, one of the p
 **"But you,"** he asked them, **"who do you say that I am?"** Peter answered him, "You are the Messiah." 
 
 ###### 30 
-And he strictly warned them to tell no one about him.His Death and Resurrection Predicted 
+And he strictly warned them to tell no one about him.
+
+### His Death and Resurrection Predicted 
 
 ###### 31 
 Then he began to teach them that it was necessary for the Son of Man to suffer many things and be rejected by the elders, chief priests, and scribes, be killed, and rise after three days. 
@@ -102,7 +110,9 @@ Then he began to teach them that it was necessary for the Son of Man to suffer m
 He spoke openly about this. Peter took him aside and began to rebuke him. 
 
 ###### 33 
-But turning around and looking at his disciples, he rebuked Peter and said, **"Get behind me, Satan!** **You are not thinking about God's concerns** **but human concerns."**Take Up Your Cross 
+But turning around and looking at his disciples, he rebuked Peter and said, **"Get behind me, Satan!** **You are not thinking about God's concerns** **but human concerns."**
+
+### Take Up Your Cross 
 
 ###### 34 
 Calling the crowd along with his disciples, he said to them, **"If anyone wants to follow after me, let him deny himself,** **take up his cross,** **and follow me.** 
@@ -117,7 +127,7 @@ Calling the crowd along with his disciples, he said to them, **"If anyone wants 
 **What can anyone give in exchange for his life?** 
 
 ###### 38 
-**For whoever is ashamed** **of me and my words** docker-credential-ecr-login docker-credential-osxkeychain this adulterous and sinful** **generation,** **the Son of Man will also be ashamed of him when he comes in the glory** **of his Father** **with the holy** **angels."**
+**For whoever is ashamed** **of me and my words in this adulterous and sinful** **generation,** **the Son of Man will also be ashamed of him when he comes in the glory** **of his Father** **with the holy** **angels."**
 
 ***
 

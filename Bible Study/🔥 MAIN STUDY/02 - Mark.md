@@ -67,3 +67,10 @@ Don't let our hearts be hardened. The disciples let their hearts get hardened be
 
 ---
 # Mark 7
+
+---
+# Mark 8
+[[Bibles/CSB/41 - Mark/Mark 8#15|Mark 8:15]] - Leaven (yeast) is often used metaphorically to represent an influence that may start small but can permeate and affect a larger whole. Leaven causes dough to rise and change its nature. In a similar way, the teachings or attitudes represented by the "leaven" can infiltrate and influence thinking and behaviour.
+
+
+

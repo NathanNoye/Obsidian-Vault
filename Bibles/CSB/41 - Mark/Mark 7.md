@@ -21,10 +21,10 @@ When they come from the marketplace, they do not eat unless they have washed. An
 So the Pharisees and the scribes asked him, "Why don't your disciples live according to the tradition of the elders, instead of eating bread with ceremonially unclean hands?" 
 
 ###### 6 
-He answered them, **"Isaiah** **prophesied** **correctly about you hypocrites,** **as it is written:** **<b class="quote">This people honors**** **<b class="quote">me with their lips,**** **<b class="quote">but their heart is far from me.**** 
+He answered them, **"Isaiah** **prophesied** **correctly about you hypocrites,** **as it is written:** **<b class="quote">This people honors me with their lips, but their heart is far from me.</b>
 
 ###### 7 
-**<b class="quote">They worship me in vain,**** **<b class="quote">teaching**** **<b class="quote">as doctrines**** **<b class="quote">human commands.**** 
+**<b class="quote">They worship me in vain, teaching as doctrines human commands. </b>
 
 ###### 8 
 **Abandoning the command of God, you hold on to human tradition."** 
@@ -33,7 +33,7 @@ He answered them, **"Isaiah** **prophesied** **correctly about you hypocrites,**
 He also said to them, **"You have a fine way of invalidating God's command in order to set up** **your tradition!** 
 
 ###### 10 
-**For Moses** **said: <b class="quote">Honor your father and your mother;** The Bible (CSB) The Bible.md VBoxAudioTest VBoxAutostart VBoxBalloonCtrl VBoxBugReport VBoxHeadless VBoxManage VBoxVRDP VirtualBox VirtualBoxVM aws aws_completer bg2md.rb bg2obs.sh com.docker.cli contentful corepack docker docker-compose docker-compose-v1 docker-credential-desktop docker-credential-ecr-login docker-credential-osxkeychain firebase fuzzy_match httpclient hub-tool iloktool kubectl kubectl.docker locales n node npm npx pod sandbox-pod serverless sls tsc tsserver vbox-img vboximg-mount vpnkit xcodeproj **and <b class="quote">Whoever speaks evil of father or mother must be put to death.**** 
+For Moses said: <b class="quote">Honor your father and your mother;</b>  and <b class="quote">Whoever speaks evil of father or mother must be put to death.</b>
 
 ###### 11 
 **But you say, 'If anyone tells his father or mother: Whatever benefit** **you might have received from me is <em>corban</em>'"** (that is, an offering devoted to God), 
@@ -69,7 +69,9 @@ And he said, **"What comes out of a person is what defiles him.**
 **adulteries,** **greed,** **evil actions, deceit,** **self-indulgence,** **envy,** **slander,** **pride,** **and foolishness.** 
 
 ###### 23 
-**All these evil things come from within and defile a person."**A Gentile Mother's Faith 
+**All these evil things come from within and defile a person."**
+
+### A Gentile Mother's Faith 
 
 ###### 24 
 He got up and departed from there to the region of Tyre. He entered a house and did not want anyone to know it, but he could not escape notice. 
@@ -90,7 +92,9 @@ But she replied to him, "Lord, even the dogs under the table eat the children's 
 Then he told her, **"Because of this reply, you may go. The demon has left your daughter."** 
 
 ###### 30 
-When she went back to her home, she found her child lying on the bed, and the demon was gone.Jesus Does Everything Well 
+When she went back to her home, she found her child lying on the bed, and the demon was gone.
+
+### Jesus Does Everything Well 
 
 ###### 31 
 Again, leaving the region of Tyre, he went by way of Sidon to the Sea of Galilee, through the region of the Decapolis. 
