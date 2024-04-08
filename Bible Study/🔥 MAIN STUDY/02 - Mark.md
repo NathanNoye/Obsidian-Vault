@@ -72,5 +72,36 @@ Don't let our hearts be hardened. The disciples let their hearts get hardened be
 # Mark 8
 [[Bibles/CSB/41 - Mark/Mark 8#15|Mark 8:15]] - Leaven (yeast) is often used metaphorically to represent an influence that may start small but can permeate and affect a larger whole. Leaven causes dough to rise and change its nature. In a similar way, the teachings or attitudes represented by the "leaven" can infiltrate and influence thinking and behaviour.
 
+---
+# Mark 9
+
+Jesus was transfigured in front of Peter, James, and John and they saw Elijah and Moses talking to Jesus. John refers to this in [[Bibles/CSB/43 - John/John 1#14|John 1:14]] and so did Peter in [[Bibles/CSB/61 - 2 Peter/2 Pet 1#16|2 Pet 1:16]] to [[Bibles/CSB/61 - 2 Peter/2 Pet 1#18|2 Pet 1:18]]. Wild.
+
+[[Bibles/CSB/41 - Mark/Mark 9#18|Mark 9:18]] - Why couldn't the disciples cast out the demon? Later in verse 29, Jesus says that these only come out by prayer. Some translations say `and fasting` but there's debate. Here's the thing, we know the power of prayer and we know the power of fasting. We know that all power comes from the Holy Spirit and by having a relationship with God, we are empowered by his spirit. Bare in mind the story in [[Bibles/CSB/44 - Acts/Acts 19#13|Acts 19:13-16]] where Jewish exorcists were trying to use the **NAME** of Jesus and Paul. The demon replied saying I know Paul and Jesus but I don't know you. This means the demons know who belongs to God. I'm not saying in this case the disciples weren't known to be from God - but what I am saying is this: Regardless of the translation saying `prayer and fasting`, we know that we need to have faith, we need to have a relationship with Jesus, and both of these grow by following him, keeping his commandments, spending time with him, denying yourself for him (fasting and other things).
+
+[[Bibles/CSB/41 - Mark/Mark 9#29|Mark 9:29]] - This is similar to Matthew 17:21 (it's not in the CSB since it isn't present in the earliest mss). Some add `and fasting` at the end but there's debate around it.
 
 
+---
+# Mark 10
+
+---
+# Mark 11
+
+---
+# Mark 12
+One thing to bare in mind is while reading the Gospels - Jesus is usually talking to Jews so any symbols or parables usually go deeper for the Jews than us because we don't have their "cultural lens". For example - the vineyard sounds like it's just a place but it actually represents Israel. Any of the Jews hearing this would pick up on that pretty quick.
+
+The parable that opens this chapter seems to talk about how God has sent multiple prophets and they killed them and then he sent his son and they'll kill him too (present tense of the parable). This is used to illustrate the rejection of God's Son Jesus and that God will kill them and give the inheritance to someone else. If we reject Jesus, we don't get the inheritance. This was also a way that Jesus was telling the Jews of who he was because the vineyard represents Israel.
+
+
+---
+# Mark 13
+
+---
+# Mark 14
+
+[[Bibles/CSB/41 - Mark/Mark 14#20|Mark 14:20]] - **Cultural context**: Sharing a meal in the time of Jesus was a sign of fellowship and trust. Dipping bread into a common bowl was a part of the dining practice, and it symbolized a shared life and unity. Therefore, Jesus pointing out that His betrayer is someone sharing the bowl with Him highlights the depth of Judas’ betrayal.
+
+[[Bibles/CSB/41 - Mark/Mark 14#21|Mark 14:21]] - Why was Judas chosen? Was he predestined?
+I don't think so but it is a tough question. We have free will and predestination and free will can't exist together (as far as I know). It is possible that someone else would have taken his place if he had a change of heart. What we know is this was a part of Jesus' plan. To say it was Judas specifically - I don't know but I can imagine it would have been anyone. It's possible that Judas fit the role but the role didn't pick Judas. We know in multiple scriptures that Judas, despite seeing the miracles, was not a believer. He only references Jesus as Rabbi ever after the crucifixion. We know that even while following Jesus that he stole from the money bag.

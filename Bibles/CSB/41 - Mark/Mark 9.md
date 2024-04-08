@@ -6,7 +6,9 @@
 
 
 ###### 1 
-Then he said to them, **"Truly I tell you,** **there are some standing here who will not taste death** **until they see the kingdom of God come in power."**The Transfiguration 
+Then he said to them, **"Truly I tell you,** **there are some standing here who will not taste death** **until they see the kingdom of God come in power."**
+
+### The Transfiguration 
 
 ###### 2 
 After six days Jesus took Peter, James, and John and led them up a high mountain by themselves to be alone. He was transfigured in front of them, 
@@ -42,7 +44,9 @@ Then they asked him, "Why do the scribes say that Elijah must come first?"
 **"Elijah does come first and restores** **all things,"** he replied. **"Why then is it written** **that the Son of Man must suffer** **many things and be treated with contempt?** 
 
 ###### 13 
-**But I tell you that Elijah has come, and they did whatever they pleased to him, just as it is written** **about him."**The Power of Faith over a Demon 
+**But I tell you that Elijah has come, and they did whatever they pleased to him, just as it is written** **about him."**
+
+### The Power of Faith over a Demon 
 
 ###### 14 
 When they came to the disciples, they saw a large crowd around them and scribes disputing with them. 
@@ -57,7 +61,7 @@ He asked them, **"What are you arguing with them about?"**
 Someone from the crowd answered him, "Teacher, I brought my son to you. He has a spirit that makes him unable to speak. 
 
 ###### 18 
-Whenever it seizes him, it throws him down, and he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to drive it out, but they couldn't." 
+Whenever it seizes him, it throws him down, and he foams at the mouth, grinds his teeth, and becomes [[Word Definitions/Rigid.md|rigid]]. I asked your disciples to drive it out, but they couldn't." 
 
 ###### 19 
 He replied to them, **"You unbelieving** **generation, how long will I be with you? How long must I put up with you? Bring him to me."** 
@@ -90,7 +94,9 @@ But Jesus, taking him by the hand, raised him, and he stood up.
 After he had gone into the house, his disciples asked him privately, "Why couldn't we drive it out?" 
 
 ###### 29 
-And he told them, **"This kind can come out by nothing but prayer."**The Second Prediction of His Death 
+And he told them, **"This kind can come out by nothing but prayer."**
+
+### The Second Prediction of His Death 
 
 ###### 30 
 Then they left that place and made their way through Galilee, but he did not want anyone to know it. 
@@ -99,7 +105,9 @@ Then they left that place and made their way through Galilee, but he did not wan
 For he was teaching his disciples and telling them, **"The Son of Man** **is going to be betrayed** **into the hands of men. They will kill him, and after he is killed, he will rise** **three days later."** 
 
 ###### 32 
-But they did not understand this statement, and they were afraid to ask him.Who Is the Greatest? 
+But they did not understand this statement, and they were afraid to ask him.
+
+### Who Is the Greatest? 
 
 ###### 33 
 They came to Capernaum. When he was in the house, he asked them, **"What were you arguing about on the way?"** 
@@ -114,19 +122,23 @@ Sitting down, he called the Twelve and said to them, **"If anyone wants to be fi
 He took a child, had him stand among them, and taking him in his arms, he said to them, 
 
 ###### 37 
-**"Whoever welcomes** **one little child such as this in my name** **welcomes me. And whoever welcomes me does not welcome me, but him who sent** **me."**In His Name 
+**"Whoever welcomes** **one little child such as this in my name** **welcomes me. And whoever welcomes me does not welcome me, but him who sent** **me."**
+
+### In His Name 
 
 ###### 38 
 John said to him, "Teacher, we saw someone driving out demons in your name, and we tried to stop him because he wasn't following us." 
 
 ###### 39 
-**"Don't stop him,"** said Jesus, **"because there is no one who will perform a miracle** docker-credential-ecr-login docker-credential-osxkeychain my name who can soon afterward speak evil of me.** 
+**"Don't stop him,"** said Jesus, **"because there is no one who will perform a miracle in my name who can soon afterward speak evil of me.** 
 
 ###### 40 
 **For whoever is not against us is for us.** 
 
 ###### 41 
-**And whoever gives you a cup of water to drink** docker-credential-ecr-login docker-credential-osxkeychain my name, because you belong to Christ** **--truly I tell you,** **he will never lose his reward.**Warnings from Jesus 
+**And whoever gives you a cup of water to drink in my name, because you belong to Christ** **--truly I tell you,** **he will never lose his reward.**
+
+### Warnings from Jesus 
 
 ###### 42 
 **"But whoever causes one of these little ones who believe in me to fall away** **--it would be better for him if a heavy millstone** **were hung around his neck and he were thrown into the sea.** 
@@ -141,13 +153,13 @@ John said to him, "Teacher, we saw someone driving out demons in your name, and 
 **And if your eye causes you to fall away, gouge it out. It is better for you to enter the kingdom of God** **with one eye than to have two eyes and be thrown** **into hell,** 
 
 ###### 48 
-**where <b class="quote">their worm does not die, and the fire is not quenched.**** 
+**where <b class="quote">their worm does not die, and the fire is not quenched.</b> 
 
 ###### 49 
 **For everyone will be salted with fire.** 
 
 ###### 50 
-**Salt is good, but if the salt should lose its flavor, how can you season it?** **Have salt** **among yourselves, and be at peace** **with one another."**
+**Salt is good, but if the salt should lose its flavour, how can you season it?** **Have salt** **among yourselves, and be at peace** **with one another."**
 
 ***
 

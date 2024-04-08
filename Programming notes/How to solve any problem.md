@@ -26,7 +26,7 @@ On the flip side, if you can command a few, you can command many. If you can bre
 - **Implement**
 	- Write out pseudo code steps
 	- Write actual code
-	- Once you write the code that satisfies all of "Start Planning", optimize
+	- Once you write the code that satisfies all of "Start Planning" - optimize
 	- Write tests
 - **Important notes**
 	- This guide doesn't explicitly cover everything so I'm adding a few lines here that are useful to keep in mind:

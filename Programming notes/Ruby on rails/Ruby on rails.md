@@ -7,8 +7,10 @@
 - [[Arrays]]
 - [[Bang Operator]]
 - **Codewars**
+	- [[Checker Board]]
 	- [[Convert string to camel case]]
 	- [[Count characters in your string]]
+	- [[Duplicate Encoder]]
 	- [[Get Sum]]
 	- [[Multiples of 3 or 5]]
 	- [[Outlier]]
@@ -24,6 +26,7 @@
 - **OOP**
 	- [[Intro]]
 - **Rails**
+	- [[APIs]]
 	- [[Commands]]
 	- [[MVC]]
 	- [[Routes]]

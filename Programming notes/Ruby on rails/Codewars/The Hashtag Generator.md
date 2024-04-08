@@ -18,4 +18,15 @@ Here's the deal:
 
 ### My Solution
 ```ruby
+word = " Hello there thanks for trying my Kata"
+word = " "
+# word = ""
+
+def generateHashtag(str)
+	return false if str.length == 0 || str.strip!.length == 0
+
+	 return str.strip!.split(' ').unshift('#').each{|w| w.capitalize!}.join
+end
+
+puts generateHashtag(word)
 ```

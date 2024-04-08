@@ -1,0 +1,12 @@
+TODO
+- [x] Setup domain
+- [x] Create initial launch
+- [ ] Create home page with the following:
+	- [ ] Side nav
+	- [ ] Hero video
+	- [ ] List of video types I've done
+- [ ] About page
+	- [ ] Who I am
+	- [ ] Why
+- [ ] Contact
+- [ ] Booking system component

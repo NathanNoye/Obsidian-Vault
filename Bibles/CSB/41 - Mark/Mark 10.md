@@ -21,13 +21,13 @@ They said, "Moses permitted us to write divorce papers and send her away."
 But Jesus told them, **"He wrote this command for you because of the hardness of your hearts.** 
 
 ###### 6 
-**But from the beginning** **of creation** **God** **<b class="quote">made them male and female.**** 
+**But from the beginning** **of creation** **God** **<b class="quote">made them male and female.</b>
 
 ###### 7 
-**<b class="quote">For this reason a man will leave** The Bible (CSB) The Bible.md VBoxAudioTest VBoxAutostart VBoxBalloonCtrl VBoxBugReport VBoxHeadless VBoxManage VBoxVRDP VirtualBox VirtualBoxVM aws aws_completer bg2md.rb bg2obs.sh com.docker.cli contentful corepack docker docker-compose docker-compose-v1 docker-credential-desktop docker-credential-ecr-login docker-credential-osxkeychain firebase fuzzy_match httpclient hub-tool iloktool kubectl kubectl.docker locales n node npm npx pod sandbox-pod serverless sls tsc tsserver vbox-img vboximg-mount vpnkit xcodeproj **<b class="quote">his father and mother** The Bible (CSB) The Bible.md VBoxAudioTest VBoxAutostart VBoxBalloonCtrl VBoxBugReport VBoxHeadless VBoxManage VBoxVRDP VirtualBox VirtualBoxVM aws aws_completer bg2md.rb bg2obs.sh com.docker.cli contentful corepack docker docker-compose docker-compose-v1 docker-credential-desktop docker-credential-ecr-login docker-credential-osxkeychain firebase fuzzy_match httpclient hub-tool iloktool kubectl kubectl.docker locales n node npm npx pod sandbox-pod serverless sls tsc tsserver vbox-img vboximg-mount vpnkit xcodeproj 
+**<b class="quote">For this reason a man will leave his father and mother</b>
 
 ###### 8 
-**<b class="quote">and the two will become one flesh.**** **<b class="quote">So they are no longer two, but one flesh.**** 
+**<b class="quote">and the two will become one flesh. So they are no longer two, but one flesh.</b>
 
 ###### 9 
 **Therefore what God has joined together, let no one separate."** 
@@ -39,19 +39,23 @@ When they were in the house again, the disciples questioned him about this matte
 He said to them, **"Whoever divorces his wife** **and marries** **another commits adultery** **against her.** 
 
 ###### 12 
-**Also, if she divorces her husband** **and marries another, she commits adultery."**Blessing the Children 
+**Also, if she divorces her husband** **and marries another, she commits adultery."
+
+### Blessing the Children 
 
 ###### 13 
 People were bringing little children to him in order that he might touch them, but the disciples rebuked them. 
 
 ###### 14 
-When Jesus saw it, he was indignant and said to them, **"Let the little children come to me.** **Don't stop** **them, because the kingdom of God** **belongs to such as these.** 
+When Jesus saw it, he was [[Word Definitions/Indignant.md|indignant]] and said to them, **"Let the little children come to me.** **Don't stop** **them, because the kingdom of God** **belongs to such as these.** 
 
 ###### 15 
 **Truly I tell you,** **whoever does not receive** **the kingdom of God like a little child** **will never enter it."** 
 
 ###### 16 
-After taking them in his arms, he laid his hands on them and blessed them.The Rich Young Ruler 
+After taking them in his arms, he laid his hands on them and blessed them.
+
+### The Rich Young Ruler 
 
 ###### 17 
 As he was setting out on a journey, a man ran up, knelt down before him, and asked him, "Good teacher, what must I do to inherit eternal life?" 
@@ -60,16 +64,18 @@ As he was setting out on a journey, a man ran up, knelt down before him, and ask
 **"Why do you call me good?"** Jesus asked him. **"No one is good except God alone.** 
 
 ###### 19 
-**You know the commandments: <b class="quote">Do not murder;**** **<b class="quote">do not commit adultery;**** **<b class="quote">do not steal;**** **<b class="quote">do not bear false witness;**** **<b class="quote">do not defraud;**** **<b class="quote">honor**** **<b class="quote">your father and mother.**"** 
+**You know the commandments: <b class="quote">Do not murder; do not commit adultery; do not steal; do not bear false witness; do not defraud; honor your father and mother."</b>
 
 ###### 20 
 He said to him, "Teacher, I have kept all these from my youth." 
 
 ###### 21 
-Looking at him, Jesus loved him and said to him, **"You lack one thing: Go, sell all you have and give to the poor,** **and you will have treasure** docker-credential-ecr-login docker-credential-osxkeychain heaven.** **Then come,** **follow me."** 
+Looking at him, Jesus loved him and said to him, **"You lack one thing: Go, sell all you have and give to the poor,** **and you will have treasure in heaven.** **Then come,** **follow me."** 
 
 ###### 22 
-But he was dismayed by this demand, and he went away grieving, because he had many possessions.Possessions and the Kingdom 
+But he was [[Word Definitions/Dismayed.md|dismayed]] by this demand, and he went away grieving, because he had many possessions.
+
+### Possessions and the Kingdom 
 
 ###### 23 
 Jesus looked around and said to his disciples, **"How hard it is for those who have wealth** **to enter the kingdom of God!"** 
@@ -93,10 +99,12 @@ Peter began to tell him, "Look, we have left everything and followed you."
 **"Truly I tell you,"** Jesus said, **"there is no one who has left house or brothers or sisters or mother or father** **or children or fields for my sake and for the sake of the gospel,** 
 
 ###### 30 
-**who will not receive a hundred times** **more, now at this time** **--houses, brothers and sisters, mothers and children, and fields, with persecutions** **--and eternal life** docker-credential-ecr-login docker-credential-osxkeychain the age to come.** 
+**who will not receive a hundred times** **more, now at this time** **--houses, brothers and sisters, mothers and children, and fields, with persecutions** **--and eternal life in the age to come.** 
 
 ###### 31 
-**But many who are first will be last, and the last first."**The Third Prediction of His Death 
+**But many who are first will be last, and the last first."**
+
+### The Third Prediction of His Death 
 
 ###### 32 
 They were on the road, going up to Jerusalem, and Jesus was walking ahead of them. The disciples were astonished, but those who followed him were afraid. Taking the Twelve aside again, he began to tell them the things that would happen to him. 
@@ -105,7 +113,9 @@ They were on the road, going up to Jerusalem, and Jesus was walking ahead of the
 **"See, we are going up to Jerusalem. The Son of Man** **will be handed over to the chief priests and the scribes,** **and they will condemn him to death. Then they will hand him over to the Gentiles,** 
 
 ###### 34 
-**and they will mock him, spit on him, flog** **him, and kill him, and he will rise** **after three days."**Suffering and Service 
+**and they will mock him, spit on him, flog** **him, and kill him, and he will rise** **after three days."**
+
+### Suffering and Service 
 
 ###### 35 
 James and John, the sons of Zebedee, approached him and said, "Teacher, we want you to do whatever we ask you." 
@@ -126,7 +136,7 @@ Jesus said to them, **"You don't know what you're asking.** **Are you able to dr
 **But to sit at my right or left is not mine to give; instead, it is for those for whom it has been prepared."** 
 
 ###### 41 
-When the ten disciples heard this, they began to be indignant with James and John. 
+When the ten disciples heard this, they began to be [[indignant]] with James and John. 
 
 ###### 42 
 Jesus called them over and said to them, **"You know that those who are regarded as rulers of the Gentiles lord it over** **them, and those in high positions act as tyrants over them.** 
@@ -138,7 +148,9 @@ Jesus called them over and said to them, **"You know that those who are regarded
 **and whoever wants to be first among you will be a slave to all.** 
 
 ###### 45 
-**For even the Son of Man** **did not come to be served, but to serve,** **and to give his life** **as a ransom** **for many."**A Blind Man Healed 
+**For even the Son of Man** **did not come to be served, but to serve,** **and to give his life** **as a ransom** **for many."**
+
+### A Blind Man Healed 
 
 ###### 46 
 They came to Jericho. And as he was leaving Jericho with his disciples and a large crowd, Bartimaeus (the son of Timaeus), a blind beggar, was sitting by the road. 

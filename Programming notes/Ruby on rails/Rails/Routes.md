@@ -22,6 +22,7 @@ end
 
 Rails.application.routes.draw do
 	root 'page#home' # This tells ruby to call the hello method in the  ApplicationController
+	get 'about', to: 'pages#about' # This is a diferent example on how to route to an about page
 end
 ```
 
@@ -105,9 +106,6 @@ Rails.application.routes.draw do
   get 'top-articles', to: 'articles#top'
 end
 ```
-
-### Generating the controllers and views
-
 
 ### Article Controller
 - This controller will handle the request from the server when we make an HTTP call.

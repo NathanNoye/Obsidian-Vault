@@ -38,6 +38,17 @@ puts hash
 puts new_hash
 ```
 
+### Dynamic symbol keys
+```ruby
+letter_arr = ['a', 'b', 'c']
+hash = {}
+symbol = letter_arr[0].to_sym
+hash[symbol] = letter_arr[0]
+puts hash [:a]
+puts hash[symbol]
+```
+
+
 ### Adding and Updating Entries
 - `hash[key] = value`: Sets the value of the key. If the key exists, it updates the value; otherwise, it adds a new key-value pair.
 - `merge(other_hash)`: Returns a new hash containing the contents of the original hash and the `other_hash`. If keys overlap, the values from `other_hash` will overwrite those in the original hash.

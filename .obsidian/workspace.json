@@ -4,124 +4,167 @@
     "type": "split",
     "children": [
       {
-        "id": "0435537954802a5e",
-        "type": "tabs",
-        "dimension": 55.27456647398844,
+        "id": "a0d3464efbe914e4",
+        "type": "split",
         "children": [
           {
-            "id": "895c436d2af04532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Ruby on rails.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+            "id": "0435537954802a5e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65cd41a22b7197ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 8.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a2ea5ce67f39844c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 9.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "83e6e7b36fd86270",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 10.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2297182c4406462e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 11.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a3a08ddf780122a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 12.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "27347cc509204e09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/CSB/41 - Mark/Mark 13.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f8bc08d89a53431d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Scripts/Free video script.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "89f28da90e19026c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Clients/Meeting Waters.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "75c547626e844e0f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 8
           },
           {
-            "id": "895e0703f88a6e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/41 - Mark/Mark 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "b99199c62ef3d3b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df461896cf73f121",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5e5fbff1622fe1f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible Study/Study topics/Demonic interactions - possessions and influences.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "65cd41a22b7197ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibles/CSB/41 - Mark/Mark 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e2d1bedcbf7bd3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84cb29d1b84bc4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Rails/MVC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8d08aa20bd36ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming notes/Ruby on rails/Rails/Commands.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "b133770da4704494",
-        "type": "tabs",
-        "dimension": 44.72543352601156,
-        "children": [
-          {
-            "id": "df461896cf73f121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c89f3c22841fd1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobber Code Interview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -187,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
+                "file": "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming notes/Ruby on rails/Rails/Routes.md",
+                "file": "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming notes/Ruby on rails/Rails/Routes.md"
+                "file": "NeonFish Media/90 Day Filmmaker Course/Week 2.md"
               }
             }
           }
@@ -253,44 +296,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2e2d1bedcbf7bd3e",
+  "active": "75c547626e844e0f",
   "lastOpenFiles": [
-    "Programming notes/Ruby on rails/Rails/MVC.md",
-    "Programming notes/Ruby on rails/Rails/Routes.md",
-    "Programming notes/Ruby on rails/Rails/Commands.md",
-    "Programming notes/Ruby on rails/Rails/Routes Diagram.md",
-    "Obsidian MD cheat sheet.md",
-    "Programming notes/Ruby on rails/Ruby on rails.md",
-    "Programming notes/Ruby on rails/OOP/Intro.md",
-    "Jobber Code Interview.md",
-    "Bibles/CSB/41 - Mark/Mark 9.md",
-    "Bibles/CSB/41 - Mark/Mark 8.md",
+    "NeonFish Media/Clients/Meeting Waters.md",
+    "NeonFish Media/Scripts/Free video script.md",
+    "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
+    "NeonFish Media/Scripts/Referral video script.md",
+    "Templates/Video Production Client Checklist.md",
+    "Templates/Client template.md",
+    "NeonFish Media/90 Day Filmmaker Course",
+    "Bibles/CSB/41 - Mark/Mark 13.md",
+    "NeonFish Media/Goals.md",
+    "NeonFish Media/Kanban.md",
+    "Templates/Person in the bible.md",
+    "NeonFish Media/Kanban Notes/Create and launch website @{2024-04-13}.md",
+    "NeonFish Media/Kanban Notes/Reach out to meeting waters coffee for a free promotional video @{2024-04-12}.md",
+    "NeonFish Media/Scripts",
+    "Templates/Kanban note template.md",
+    "Templates/Bible Study book intro.md",
     "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
-    "Bibles/CSB/41 - Mark/Mark 7.md",
-    "Bibles/CSB/41 - Mark/Mark 6.md",
-    "Programming notes/Unit Testing (+ others).md",
-    "Programming notes/Ruby on rails/Codewars/The Hashtag Generator.md",
-    "Programming notes/How to solve any problem.md",
-    "Programming notes/Ruby on rails/Error handling.md",
+    "Templates",
+    "Bibles/CSB/41 - Mark/Mark 12.md",
+    "NeonFish Media/Kanban Notes",
+    "Reach out to meeting waters coffee for a free promotional video.md",
+    "NeonFish Media/Clients/Untitled",
+    "NeonFish Media/Clients",
+    "Bibles/CSB/41 - Mark/Mark 14.md",
+    "NeonFish Media",
+    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
+    "Bibles/CSB/41 - Mark/Mark 11.md",
+    "Bibles/CSB/41 - Mark/Mark 10.md",
+    "Word Definitions/Indignant.md",
+    "Word Definitions/Dismayed.md",
+    "Bibles/CSB/41 - Mark/Mark 9.md",
+    "Bible Study/Study topics/Demonic interactions - possessions and influences.md",
+    "Bibles/CSB/44 - Acts/Acts 19.md",
     "Programming notes/Ruby on rails/Rails",
-    "Programming notes/Nates code examples/Ruby Event Bus.md",
-    "Programming notes/Nates code examples/Untitled.md",
     "Programming notes/Nates code examples",
-    "Programming notes/Ruby on rails/Codewars/Who likes it?.md",
-    "Bibles/CSB/43 - John/John 6.md",
-    "Programming notes/Ruby on rails/Codewars/Multiples of 3 or 5.md",
-    "Programming notes/Ruby on rails/Codewars/Count characters in your string.md",
-    "Programming notes/Ruby on rails/Arrays.md",
-    "Programming notes/Ruby on rails/Strings.md",
-    "Bibles/CSB/41 - Mark/Mark 5.md",
     "Programming notes/Ruby on rails/Codewars",
-    "Programming notes/Ruby on rails/OOP",
-    "Programming notes/Ruby on rails/Homework",
-    "Untitled",
-    "Bible Study/Locations/images",
-    "Prayers",
-    "Word Definitions",
-    "Bibles/CSB/62 - John",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",

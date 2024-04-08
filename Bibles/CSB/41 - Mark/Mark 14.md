@@ -9,7 +9,9 @@
 It was two days before the Passover and the Festival of Unleavened Bread. The chief priests and the scribes were looking for a cunning way to arrest Jesus and kill him. 
 
 ###### 2 
-"Not during the festival," they said, "so that there won't be a riot among the people."The Anointing at Bethany 
+"Not during the festival," they said, "so that there won't be a riot among the people."
+
+### The Anointing at Bethany 
 
 ###### 3 
 While he was in Bethany at the house of Simon the leper, as he was reclining at the table, a woman came with an alabaster jar of very expensive perfume of pure nard. She broke the jar and poured it on his head. 
@@ -27,7 +29,7 @@ Jesus replied, **"Leave her alone. Why are you bothering her? She has done a nob
 **You always have the poor** **with you, and you can do what is good for them whenever you want, but you do not always have me.** 
 
 ###### 8 
-**She has done what she could; she has anointed my body** docker-credential-ecr-login docker-credential-osxkeychain advance for burial.** 
+**She has done what she could; she has anointed my body in advance for burial.** 
 
 ###### 9 
 **Truly I tell you,** **wherever the gospel** **is proclaimed in the whole world,** **what she has done will also be told in memory of her."** 
@@ -36,7 +38,9 @@ Jesus replied, **"Leave her alone. Why are you bothering her? She has done a nob
 Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them. 
 
 ###### 11 
-And when they heard this, they were glad and promised to give him money. So he started looking for a good opportunity to betray him.Preparation for Passover 
+And when they heard this, they were glad and promised to give him money. So he started looking for a good opportunity to betray him.
+
+### Preparation for Passover 
 
 ###### 12 
 On the first day of Unleavened Bread, when they sacrifice the Passover lamb, his disciples asked him, "Where do you want us to go and prepare the Passover so that you may eat it?" 
@@ -51,7 +55,9 @@ So he sent two of his disciples and told them, **"Go into the city, and a man ca
 **He will show you a large room upstairs, furnished and ready. Make the preparations for us there."** 
 
 ###### 16 
-So the disciples went out, entered the city, and found it just as he had told them, and they prepared the Passover.Betrayal at the Passover 
+So the disciples went out, entered the city, and found it just as he had told them, and they prepared the Passover.
+
+### Betrayal at the Passover 
 
 ###### 17 
 When evening came, he arrived with the Twelve. 
@@ -66,7 +72,9 @@ They began to be distressed and to say to him one by one, "Surely not I?"
 He said to them, **"It is one of the Twelve--the one who is dipping bread in the bowl with me.** 
 
 ###### 21 
-**For the Son of Man** **will go just as it is written** **about him,** **but woe** **to that man by whom the Son of Man is betrayed! It would have been better for him if he had not been born."**The First Lord's Supper 
+**For the Son of Man** **will go just as it is written** **about him,** **but woe** **to that man by whom the Son of Man is betrayed! It would have been better for him if he had not been born."**
+
+### The First Lord's Supper 
 
 ###### 22 
 As they were eating, he took bread, blessed and broke it, gave it to them, and said, **"Take it; this is my body."** 
@@ -78,10 +86,12 @@ Then he took a cup, and after giving thanks, he gave it to them, and they all dr
 He said to them, **"This is my blood of the covenant,** **which is poured out** **for many.** 
 
 ###### 25 
-**Truly I tell you,** **I will no longer drink of the fruit of the vine** **until that day when I drink it new** docker-credential-ecr-login docker-credential-osxkeychain the kingdom of God."** 
+**Truly I tell you,** **I will no longer drink of the fruit of the vine** **until that day when I drink it new in the kingdom of God."** 
 
 ###### 26 
-After singing a hymn, they went out to the Mount of Olives.Peter's Denial Predicted 
+After singing a hymn, they went out to the Mount of Olives.
+
+### Peter's Denial Predicted 
 
 ###### 27 
 Then Jesus said to them, **"All of you will fall away,** **because it is written:** **<b class="quote">I will strike the shepherd,**** **<b class="quote">and the sheep**** **<b class="quote">will be scattered.**** 
