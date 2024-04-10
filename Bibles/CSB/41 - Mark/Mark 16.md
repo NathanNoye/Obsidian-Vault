@@ -46,7 +46,9 @@ Yet, when they heard that he was alive and had been seen by her, they did not be
 After this, he appeared in a different form to two of them walking on their way into the country. 
 
 ###### 13 
-And they went and reported it to the rest, who did not believe them either.The Great Commission 
+And they went and reported it to the rest, who did not believe them either.
+
+### The Great Commission 
 
 ###### 14 
 Later he appeared to the Eleven themselves as they were reclining at the table. He rebuked their unbelief and hardness of heart, because they did not believe those who saw him after he had risen. 
@@ -63,7 +65,7 @@ Then he said to them, **"Go into all the world** **and preach the gospel to all 
 ###### 18 
 **they will pick up snakes;** **if they should drink anything deadly, it will not harm** **them; they will lay hands on** **the sick, and they will get well."
 
-**The Ascension**
+### The Ascension
 ###### 19 
 So the Lord Jesus, after speaking to them, was taken up into heaven and sat down at the right hand of God. 
 

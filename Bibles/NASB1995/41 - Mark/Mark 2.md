@@ -62,7 +62,7 @@ And hearing _this_, Jesus *said to them, **"_It is_ not those who are healthy wh
 John's disciples and the Pharisees were fasting; and they *came and *said to Him, "Why do John's disciples and the disciples of the Pharisees fast, but Your disciples do not fast?" 
 
 ###### 19 
-And Jesus said to them, **"While the bridegroom is with them, the attendants of the bridegroom cannot fast, can they? So long as they have the bridegroom with them, they cannot fast.** 
+And Jesus said to them, **"While the [[Word Definitions/Bridegroom.md|bridegroom]] is with them, the attendants of the bridegroom cannot fast, can they? So long as they have the bridegroom with them, they cannot fast.** 
 
 ###### 20 
 But the days will come when the bridegroom is taken away from them, and then they will fast in that day. 

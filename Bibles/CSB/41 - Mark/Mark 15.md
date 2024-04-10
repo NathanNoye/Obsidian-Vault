@@ -18,7 +18,9 @@ And the chief priests accused him of many things.
 Pilate questioned him again, "Aren't you going to answer? Look how many things they are accusing you of!" 
 
 ###### 5 
-But Jesus still did not answer, and so Pilate was amazed.Jesus or Barabbas 
+But Jesus still did not answer, and so Pilate was amazed.
+
+### Jesus or Barabbas 
 
 ###### 6 
 At the festival Pilate used to release for the people a prisoner whom they requested. 
@@ -48,7 +50,9 @@ Again they shouted, "Crucify him!"
 Pilate said to them, "Why? What has he done wrong?" But they shouted all the more, "Crucify him!" 
 
 ###### 15 
-Wanting to satisfy the crowd, Pilate released Barabbas to them; and after having Jesus flogged, he handed him over to be crucified.Mocked by the Military 
+Wanting to satisfy the crowd, Pilate released Barabbas to them; and after having Jesus flogged, he handed him over to be crucified.
+
+### Mocked by the Military 
 
 ###### 16 
 The soldiers led him away into the palace (that is, the governor's residence) and called the whole company together. 
@@ -63,7 +67,9 @@ And they began to salute him, "Hail, king of the Jews!"
 They were hitting him on the head with a stick and spitting on him. Getting down on their knees, they were paying him homage. 
 
 ###### 20 
-After they had mocked him, they stripped him of the purple robe and put his clothes on him.Crucified between Two Criminals They led him out to crucify him. 
+After they had mocked him, they stripped him of the purple robe and put his clothes on him. They led him out to crucify him. 
+
+### Crucified between Two Criminals
 
 ###### 21 
 They forced a man coming in from the country, who was passing by, to carry Jesus's cross. He was Simon of Cyrene, the father of Alexander and Rufus. 
@@ -96,7 +102,9 @@ save yourself by coming down from the cross!"
 In the same way, the chief priests with the scribes were mocking him among themselves and saying, "He saved others, but he cannot save himself! 
 
 ###### 32 
-Let the Messiah, the King of Israel, come down now from the cross, so that we may see and believe." Even those who were crucified with him taunted him.The Death of Jesus 
+Let the Messiah, the King of Israel, come down now from the cross, so that we may see and believe." Even those who were crucified with him taunted him.
+
+### The Death of Jesus 
 
 ###### 33 
 When it was noon, darkness came over the whole land until three in the afternoon. 
@@ -123,7 +131,9 @@ When the centurion, who was standing opposite him, saw the way he breathed his l
 There were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome. 
 
 ###### 41 
-In Galilee these women followed him and took care of him. Many other women had come up with him to Jerusalem.The Burial of Jesus 
+In Galilee these women followed him and took care of him. Many other women had come up with him to Jerusalem.
+
+### The Burial of Jesus 
 
 ###### 42 
 When it was already evening, because it was the day of preparation (that is, the day before the Sabbath), 

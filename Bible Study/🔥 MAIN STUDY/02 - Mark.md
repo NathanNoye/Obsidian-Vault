@@ -33,12 +33,21 @@ Mark’s Gospel was likely written to a Gentile, possibly Roman, audience. This 
 
 [[Bibles/CSB/41 - Mark/Mark 1#44|Mark 1:44]] - The cleansing Jesus is referring to is in [[Bibles/CSB/03 - Leviticus/Lev 14|Lev 14]]. This action also served as a testament to Jesus’ respect for the Law and the proper religious procedures of the time.
 
+[[Bibles/CSB/41 - Mark/Mark 1#45|Mark 1:45]] - I wonder if this caused Jesus to not be able to preach to more people or interact with more people. Based on the text, it does seem like there was a negative around the healed leper sharing this news
+
 ---
 # Mark 2
+[[Bibles/CSB/41 - Mark/Mark 2#8|Mark 2:8]] - That's so cool. Parallels in John where he said he knew their hearts
+
 [[Bibles/CSB/41 - Mark/Mark 2#14|Mark 2:14]] - Levi is Matthew: Read more: [[Matthew (Levi)|Levi]] 
 
 [[Bibles/CSB/41 - Mark/Mark 2#19|Mark 2:19]] - Jesus refers to Himself as the "groom" to illustrate the joyful celebration of His presence, akin to the festivity at a wedding. This metaphor is deeply rooted in Old Testament imagery, where God is portrayed as the husband to Israel.
 
+[[Bibles/CSB/41 - Mark/Mark 2#21|Mark 2:21-22]] are used to show the incompatibilities between His new teachings and Jewish traditions and religious structures.
+
+**Sewing a piece of unshrunk cloth onto an old garment:** When the new patch shrinks after being washed, it will pull away from the old garment, causing a worse tear. This illustrates the tension between Jesus' new teachings and the old Jewish laws and traditions. Just as the new cloth cannot fit well with the old garment, the new teachings of Jesus cannot be simply integrated into the existing religious framework without causing conflict or disruption.
+
+**New wine into old wineskins:** As old wine skins aged, they would become stiff and brittle. New wine, still fermenting and expanding, needed flexible containers to accommodate the gas produced during fermentation. If new wine were put into old, rigid skins, the expanding gas would burst them, resulting in the loss of both the wine and the skins. Symbolically, the new wine represents the new covenant and teachings brought by Jesus, which could not be contained within the rigid and unyielding structures of the old covenant and Pharisaic legalism.
 
 ---
 # Mark 3
@@ -105,3 +114,19 @@ The parable that opens this chapter seems to talk about how God has sent multipl
 
 [[Bibles/CSB/41 - Mark/Mark 14#21|Mark 14:21]] - Why was Judas chosen? Was he predestined?
 I don't think so but it is a tough question. We have free will and predestination and free will can't exist together (as far as I know). It is possible that someone else would have taken his place if he had a change of heart. What we know is this was a part of Jesus' plan. To say it was Judas specifically - I don't know but I can imagine it would have been anyone. It's possible that Judas fit the role but the role didn't pick Judas. We know in multiple scriptures that Judas, despite seeing the miracles, was not a believer. He only references Jesus as Rabbi ever after the crucifixion. We know that even while following Jesus that he stole from the money bag.
+
+[[Bibles/CSB/41 - Mark/Mark 14#28|Mark 14:28]] - Jesus tells his disciples he'll go ahead of them to Galilee. This is cool because the angel tells Mary that he's in Galilee later on. In the moment, they probably thought he would be alive in Galilee in his original form but later we see he's resurrected but the disciples don't recognize him. Is this telling us to drop all bias and just take his words as is? Do we overcomplicate it?
+
+[[Bibles/CSB/41 - Mark/Mark 14#38|Mark 14:38]] - Jesus is telling Peter to stay awake and pray. This verse coupled with what happened earlier in [[Bibles/CSB/41 - Mark/Mark 14#30|Mark 14:30]] is an interesting reminder of how even the strongest can still fall prey to their flesh. "As strong as the weakest link" comes to mind but God is stronger (flesh is weak but spirit is willing). Jesus was asking Peter to be in prayer but he kept falling asleep. What would have happened if he stayed awake and prayed? What we **can** gather from this is we are weak and need to recognize that and come to God not just when we're feeling tempted but also before it even happens. You don't train soldiers for war when the war has started - you prepare in advance.
+
+[[Bibles/CSB/41 - Mark/Mark 14#40|Mark 14:40]] - Praying with your eyes open is totally valid
+
+[[Bibles/CSB/41 - Mark/Mark 14#71|Mark 14:71]] - cursed and swore - really tried to emphasize that he is not with Jesus.
+
+---
+# Mark 15
+
+[[Bibles/CSB/41 - Mark/Mark 15#34|Mark 15:34]] - Did Jesus ask why did God abandon him because Jesus was without sin his whole life and then the sin of the world was put on him separating him from God? Could he not see or feel God because these sins were on him? I want to make sure I fully understand.
+
+---
+# Mark 16

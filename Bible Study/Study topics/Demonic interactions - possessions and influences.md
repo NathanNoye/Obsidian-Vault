@@ -8,8 +8,21 @@ This refers to a situation where a person is under the attack or influence of de
 This is a condition in which a demon or unclean spirit has gained significant control over an individual, to the point where the demon can control the person's actions and faculties. In cases of possession, the individual may lose their ability to control their own actions or speech and may exhibit behaviors or abilities that are not their own. The accounts in the New Testament, such as the boy in Mark 9:14-29, often show the demon speaking through the individual or exhibiting supernatural strength or other phenomena.
 
 ## Instances in the bible
+### Mark 1:23 - A man with an unclean spirit in the synagogue
+**Verse:** [[Bibles/CSB/41 - Mark/Mark 1#24|Mark 1:24-26]] 
+**How did we know:** The unclean spirit(s) were talking through the man to Jesus saying "You come to destroy us?".
+**What made it leave:** Jesus rebuked the spirit
+**Symptoms:** Convulsions, crying out with a loud voice
+**Outcome:**
+**Key notes:**
+- The spirits recognized the divinity and authority of Jesus
+- Jesus simply rebuked the spirit and it left
+- The others were amazed by the authority
+
 ### Mark 9:14 - A boy was possessed
-**Verse:** [[Bibles/CSB/41 - Mark/Mark 9#14-29|Mark 9:14-29]] 
+**Verse:** [[Bibles/CSB/41 - Mark/Mark 9#14|Mark 9:14-29]] 
+**How did we know:**
+**What made it leave:**
 **Symptoms:** Mute, seizures, foaming mouth, grinding teeth, becomes [[rigid]].
 **Outcome:** The boy seemed dead
 **Key notes:** 

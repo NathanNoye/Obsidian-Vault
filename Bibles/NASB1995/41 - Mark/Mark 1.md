@@ -27,7 +27,9 @@ John was clothed with camel's hair and _wore_ a leather belt around his waist, a
 And he was preaching, and saying, "After me One is coming who is mightier than I, and I am not fit to stoop down and untie the thong of His sandals. 
 
 ###### 8 
-I baptized you with water; but He will baptize you with the Holy Spirit."The Baptism of Jesus 
+I baptized you with water; but He will baptize you with the Holy Spirit."
+
+### The Baptism of Jesus 
 
 ###### 9 
 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. 
@@ -39,7 +41,7 @@ Immediately coming up out of the water, He saw the heavens opening, and the Spir
 and a voice came out of the heavens: "You are My beloved Son, in You I am well-pleased." 
 
 ###### 12 
-Immediately the Spirit *impelled Him _to go_ out into the wilderness. 
+Immediately the Spirit *[[Word Definitions/Impelled.md|impelled]] Him _to go_ out into the wilderness. 
 
 ###### 13 
 And He was in the wilderness forty days being tempted by Satan; and He was with the wild beasts, and the angels were ministering to Him.
@@ -130,7 +132,7 @@ And He went into their synagogues throughout all Galilee, preaching and casting 
 And a leper *came to Jesus, [[Word Definitions/Beseeching.md|beseeching]] Him and falling on his knees before Him, and saying, "If You are willing, You can make me clean." 
 
 ###### 41 
-Moved with compassion, Jesus stretched out His hand and touched him, and *said to him, **"I am willing; be cleansed."** 
+Moved with [[Word Definitions/Compassion.md|compassion]], Jesus stretched out His hand and touched him, and *said to him, **"I am willing; be cleansed."** 
 
 ###### 42 
 Immediately the leprosy left him and he was cleansed. 

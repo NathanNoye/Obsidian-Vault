@@ -94,7 +94,7 @@ After singing a hymn, they went out to the Mount of Olives.
 ### Peter's Denial Predicted 
 
 ###### 27 
-Then Jesus said to them, **"All of you will fall away,** **because it is written:** **<b class="quote">I will strike the shepherd,**** **<b class="quote">and the sheep**** **<b class="quote">will be scattered.**** 
+Then Jesus said to them, **"All of you will fall away,** **because it is written:** **<b class="quote">I will strike the shepherd, and the sheep will be scattered. </b>
 
 ###### 28 
 **But after I have risen,** **I will go ahead of you to Galilee."** 
@@ -106,7 +106,9 @@ Peter told him, "Even if everyone falls away, I will not."
 **"Truly I tell you,"** Jesus said to him, **"today, this very night, before the rooster crows twice, you will deny me three times."** 
 
 ###### 31 
-But he kept insisting, "If I have to die with you, I will never deny you." And they all said the same thing.The Prayer in the Garden 
+But he kept insisting, "If I have to die with you, I will never deny you." And they all said the same thing.
+
+### The Prayer in the Garden 
 
 ###### 32 
 Then they came to a place named Gethsemane, and he told his disciples, **"Sit here while I pray."** 
@@ -139,7 +141,9 @@ And again he came and found them sleeping, because they could not keep their eye
 Then he came a third time and said to them, **"Are you still sleeping and resting? Enough! The time has come. See, the Son of Man** **is betrayed into the hands of sinners.** 
 
 ###### 42 
-**Get up;** **let's go. See, my betrayer is near."**Judas's Betrayal of Jesus 
+**Get up;** **let's go. See, my betrayer is near."**
+
+### Judas's Betrayal of Jesus 
 
 ###### 43 
 While he was still speaking, Judas, one of the Twelve, suddenly arrived. With him was a mob, with swords and clubs, from the chief priests, the scribes, and the elders. 
@@ -169,7 +173,9 @@ Then they all deserted him and ran away.
 Now a certain young man, wearing nothing but a linen cloth, was following him. They caught hold of him, 
 
 ###### 52 
-but he left the linen cloth behind and ran away naked.Jesus Faces the Sanhedrin 
+but he left the linen cloth behind and ran away naked.
+
+### Jesus Faces the Sanhedrin 
 
 ###### 53 
 They led Jesus away to the high priest, and all the chief priests, the elders, and the scribes assembled. 
@@ -199,7 +205,7 @@ Then the high priest stood up before them all and questioned Jesus, "Don't you h
 But he kept silent and did not answer. Again the high priest questioned him, "Are you the Messiah, the Son of the Blessed One?" 
 
 ###### 62 
-**"I am,"** said Jesus, **"and you will see <b class="quote">the Son of Man**** **<b class="quote">seated at the right hand**** **<b class="quote">of Power and coming with the clouds**** **<b class="quote">of heaven**."** 
+**"I am,"** said Jesus, **"and you will see <b class="quote">the Son of Man seated at the right hand of Power and coming with the clouds of heaven**."** </b>
 
 ###### 63 
 Then the high priest tore his robes and said, "Why do we still need witnesses? 
@@ -208,7 +214,9 @@ Then the high priest tore his robes and said, "Why do we still need witnesses?
 You have heard the blasphemy. What is your decision?" They all condemned him as deserving death. 
 
 ###### 65 
-Then some began to spit on him, to blindfold him, and to beat him, saying, "Prophesy!" The temple servants also took him and slapped him.Peter Denies His Lord 
+Then some began to spit on him, to blindfold him, and to beat him, saying, "Prophesy!" The temple servants also took him and slapped him.
+
+### Peter Denies His [[Word Definitions/Lord.md|Lord]] 
 
 ###### 66 
 While Peter was in the courtyard below, one of the high priest's maidservants came. 

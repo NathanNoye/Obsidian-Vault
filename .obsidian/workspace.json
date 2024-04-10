@@ -10,79 +10,15 @@
           {
             "id": "0435537954802a5e",
             "type": "tabs",
+            "dimension": 56.71965317919076,
             "children": [
               {
-                "id": "65cd41a22b7197ed",
+                "id": "3c0715733bd3ef2e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 8.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a2ea5ce67f39844c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 9.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "83e6e7b36fd86270",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 10.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2297182c4406462e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 11.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a3a08ddf780122a2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 12.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "27347cc509204e09",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibles/CSB/41 - Mark/Mark 13.md",
+                    "file": "Bibles/NASB1995/41 - Mark/Mark 3.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -129,11 +65,12 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 3
           },
           {
             "id": "b99199c62ef3d3b7",
             "type": "tabs",
+            "dimension": 43.28034682080925,
             "children": [
               {
                 "id": "df461896cf73f121",
@@ -298,42 +235,42 @@
   },
   "active": "75c547626e844e0f",
   "lastOpenFiles": [
+    "Bibles/NASB1995/41 - Mark/Mark 3.md",
+    "NeonFish Media/Using my LUTs.md",
+    "Obsidian MD cheat sheet.md",
+    "Bibles/NASB1995/41 - Mark/Mark 4.md",
+    "Word Definitions/Earnestly.md",
+    "Bibles/NASB1995/41 - Mark/Mark 2.md",
+    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
+    "Word Definitions/Bridegroom.md",
+    "Bibles/NASB1995/41 - Mark/Mark 1.md",
+    "Word Definitions/Compassion.md",
+    "Bible Study/Study topics/Demonic interactions - possessions and influences.md",
     "NeonFish Media/Clients/Meeting Waters.md",
     "NeonFish Media/Scripts/Free video script.md",
+    "Word Definitions/Impelled.md",
+    "How to download other versions of the bible.md",
+    "Bibles/CSB/41 - Mark/Mark 16.md",
+    "Jobber Final Interview.md",
+    "Bibles/CSB/41 - Mark/Mark 15.md",
+    "Bibles/CSB/41 - Mark/Mark 14.md",
+    "Word Definitions/Lord.md",
+    "Books/Lets be blunt/Let's be blunt.md",
+    "Books/Lets be blunt/illustrations",
+    "Books/Lets be blunt",
+    "Books/Untitled.md",
+    "Bibles/CSB/41 - Mark/Mark 13.md",
     "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
     "NeonFish Media/Scripts/Referral video script.md",
     "Templates/Video Production Client Checklist.md",
-    "Templates/Client template.md",
     "NeonFish Media/90 Day Filmmaker Course",
-    "Bibles/CSB/41 - Mark/Mark 13.md",
-    "NeonFish Media/Goals.md",
-    "NeonFish Media/Kanban.md",
-    "Templates/Person in the bible.md",
-    "NeonFish Media/Kanban Notes/Create and launch website @{2024-04-13}.md",
-    "NeonFish Media/Kanban Notes/Reach out to meeting waters coffee for a free promotional video @{2024-04-12}.md",
     "NeonFish Media/Scripts",
-    "Templates/Kanban note template.md",
-    "Templates/Bible Study book intro.md",
-    "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
     "Templates",
-    "Bibles/CSB/41 - Mark/Mark 12.md",
     "NeonFish Media/Kanban Notes",
-    "Reach out to meeting waters coffee for a free promotional video.md",
     "NeonFish Media/Clients/Untitled",
     "NeonFish Media/Clients",
-    "Bibles/CSB/41 - Mark/Mark 14.md",
     "NeonFish Media",
-    "Bible Study/🔥 MAIN STUDY/Reading plan.md",
-    "Bibles/CSB/41 - Mark/Mark 11.md",
-    "Bibles/CSB/41 - Mark/Mark 10.md",
-    "Word Definitions/Indignant.md",
-    "Word Definitions/Dismayed.md",
-    "Bibles/CSB/41 - Mark/Mark 9.md",
-    "Bible Study/Study topics/Demonic interactions - possessions and influences.md",
-    "Bibles/CSB/44 - Acts/Acts 19.md",
     "Programming notes/Ruby on rails/Rails",
-    "Programming notes/Nates code examples",
-    "Programming notes/Ruby on rails/Codewars",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",
