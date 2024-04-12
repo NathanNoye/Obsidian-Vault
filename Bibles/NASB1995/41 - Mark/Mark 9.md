@@ -42,7 +42,9 @@ They asked Him, saying, "_Why is it_ that the scribes say that Elijah must come 
 And He said to them, **"Elijah does first come and restore all things. And _yet_ how is it written of the Son of Man that He will suffer many things and be treated with contempt?** 
 
 ###### 13 
-But I say to you that Elijah has indeed come, and they did to him whatever they wished, just as it is written of him."All Things Possible 
+But I say to you that [[Elijah]] has indeed come, and they did to him whatever they wished, just as it is written of him."
+
+### All Things Possible 
 
 ###### 14 
 When they came _back_ to the disciples, they saw a large crowd around them, and _some_ scribes arguing with them. 
@@ -90,7 +92,9 @@ But Jesus took him by the hand and raised him; and he got up.
 When He came into _the_ house, His disciples _began_ questioning Him privately, "Why could we not drive it out?" 
 
 ###### 29 
-And He said to them, **"This kind cannot come out by anything but prayer."**Death and Resurrection Foretold 
+And He said to them, **"This kind cannot come out by anything but prayer."**
+
+### Death and Resurrection Foretold 
 
 ###### 30 
 From there they went out and _began_ to go through Galilee, and He did not want anyone to know _about it_. 
@@ -114,7 +118,9 @@ Sitting down, He called the twelve and *said to them, **"If anyone wants to be f
 Taking a child, He set him before them, and taking him in His arms, He said to them, 
 
 ###### 37 
-"Whoever receives one child like this in My name receives Me; and whoever receives Me does not receive Me, but Him who sent Me."Dire Warnings 
+"Whoever receives one child like this in My name receives Me; and whoever receives Me does not receive Me, but Him who sent Me."
+
+### Dire Warnings 
 
 ###### 38 
 John said to Him, "Teacher, we saw someone casting out demons in Your name, and we tried to prevent him because he was not following us." 

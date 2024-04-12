@@ -6,7 +6,7 @@
 
 
 ###### 1 
-And He began to speak to them in parables: **"A man planted a vineyard and put aws aws_completer wall around it, and dug a vat under the wine press and built a tower, and rented it out to vine-growers and went on a journey. 
+And He began to speak to them in parables: **"A man planted a vineyard and put a wall around it, and dug a [[Word Definitions/Vat.md|vat]] under the wine press and built a tower, and rented it out to vine-growers and went on a journey. 
 
 ###### 2 
 At the _harvest_ time he sent a slave to the vine-growers, in order to receive _some_ of the produce of the vineyard from the vine-growers. 
@@ -39,7 +39,9 @@ Have you not even read this Scripture: **'The stone which the builders rejected*
 This came about from the Lord, **And it is marvelous in our eyes**'?" 
 
 ###### 12 
-And they were seeking to seize Him, and _yet_ they feared the people, for they understood that He spoke the parable against them. And _so_ they left Him and went away.Jesus Answers the Pharisees, Sadducees and Scribes 
+And they were seeking to seize Him, and _yet_ they feared the people, for they understood that He spoke the parable against them. And _so_ they left Him and went away.
+
+### Jesus Answers the Pharisees, Sadducees and Scribes 
 
 ###### 13 
 Then they *sent some of the Pharisees and Herodians to Him in order to trap Him in a statement. 
@@ -57,7 +59,7 @@ They brought _one_. And He *said to them, **"Whose likeness and inscription is t
 And Jesus said to them, **"Render to Caesar the things that are Caesar's, and to God the things that are God's."** And they were amazed at Him. 
 
 ###### 18 
-_Some_ Sadducees (who say that there is no resurrection) *came to Jesus, and _began_ questioning Him, saying, 
+_Some_ [[Pharisees vs Sadducees|Sadducees]] (who say that there is no resurrection) *came to Jesus, and _began_ questioning Him, saying, 
 
 ###### 19 
 "Teacher, Moses wrote for us that if a man's brother dies and leaves behind a wife and leaves no child, his brother should marry the wife and raise up children to his brother. 
@@ -78,7 +80,7 @@ In the resurrection, when they rise again, which one's wife will she be? For all
 Jesus said to them, **"Is this not the reason you are mistaken, that you do not understand the Scriptures or the power of God?** 
 
 ###### 25 
-For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. 
+For when they rise from the dead, they neither [[Word Definitions/Marry.md|marry]] nor are given in marriage, but are like angels in heaven. 
 
 ###### 26 
 But regarding the fact that the dead rise again, have you not read in the book of Moses, in the _passage_ about _the burning_ bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? 
@@ -87,7 +89,7 @@ But regarding the fact that the dead rise again, have you not read in the book o
 He is not the God of the dead, but of the living; you are greatly mistaken." 
 
 ###### 28 
-One of the scribes came and heard them arguing, and recognizing that He had answered them well, asked Him, "What commandment is the foremost of all?" 
+One of the scribes came and heard them arguing, and recognizing that He had answered them well, asked Him, "What commandment is the [[Word Definitions/Foremost.md|foremost]] of all?" 
 
 ###### 29 
 Jesus answered, **"The foremost is, 'Hear**, O Israel! The Lord our God is one Lord; 
@@ -123,7 +125,9 @@ In His teaching He was saying: **"Beware of the scribes who like to walk around 
 and chief seats in the synagogues and places of honor at banquets, 
 
 ###### 40 
-who devour widows' houses, and for appearance's sake offer long prayers; these will receive greater condemnation."The Widow's Mite 
+who devour widows' houses, and for appearance's sake offer long prayers; these will receive greater condemnation."
+
+### The Widow's Mite 
 
 ###### 41 
 And He sat down opposite the treasury, and _began_ observing how the people were putting money into the treasury; and many rich people were putting in large sums. 

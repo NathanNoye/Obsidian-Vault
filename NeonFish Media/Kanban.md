@@ -14,12 +14,17 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] Figure out pricing (bundles too?)
+
+
+## BLOCKED
+
 - [ ] [[Work on V2 of website]]
-- [ ] Add hotjar to website
 
 
 ## Done
 
+- [ ] Add hotjar to website
 - [ ] [[Finish V1 of website]]
 - [ ] [[Plan out and build website for video businesses]]
 - [ ] Send out some cold messages to strum up a free video and then get referrals @{2024-04-12}

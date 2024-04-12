@@ -21,9 +21,9 @@ This is a condition in which a demon or unclean spirit has gained significant co
 
 ### Mark 9:14 - A boy was possessed
 **Verse:** [[Bibles/CSB/41 - Mark/Mark 9#14|Mark 9:14-29]] 
-**How did we know:**
-**What made it leave:**
-**Symptoms:** Mute, seizures, foaming mouth, grinding teeth, becomes [[rigid]].
+**How did we know:** He was mute, seizes him, slam him to the ground (hurts him?), foams at the mouth, tried to kill himself
+**What made it leave:** Jesus rebuked the spirit and commanded it to come out and not to enter again
+**Symptoms:** Mute, seizures, foaming mouth, grinding teeth, becomes [[rigid]], hurt himself.
 **Outcome:** The boy seemed dead
 **Key notes:** 
 - The disciples couldn't cast it out but [[Jesus|Jesus]] could. [[Jesus|Jesus]] said this kind doesn't come out except through prayer (some add "and fasting"). 

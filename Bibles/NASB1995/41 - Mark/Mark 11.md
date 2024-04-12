@@ -45,7 +45,9 @@ On the next day, when they had left Bethany, He became hungry.
 Seeing at a distance a fig tree in leaf, He went _to see_ if perhaps He would find anything on it; and when He came to it, He found nothing but leaves, for it was not the season for figs. 
 
 ###### 14 
-He said to it, **"May no one ever eat fruit from you again!"** And His disciples were listening.Jesus Drives Money Changers from the Temple 
+He said to it, **"May no one ever eat fruit from you again!"** And His disciples were listening.
+
+### Jesus Drives Money Changers from the Temple 
 
 ###### 15 
 Then they *came to Jerusalem. And He entered the temple and began to drive out those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who were selling doves; 
@@ -81,7 +83,9 @@ Therefore I say to you, all things for which you pray and ask, believe that you 
 Whenever you stand praying, forgive, if you have anything against anyone, so that your Father who is in heaven will also forgive you your transgressions. 
 
 ###### 26 
-[**But if you do not forgive, neither will your Father who is in heaven forgive your transgressions."**]Jesus' Authority Questioned 
+[**But if you do not forgive, neither will your Father who is in heaven forgive your transgressions."**]
+
+### Jesus' Authority Questioned 
 
 ###### 27 
 They *came again to Jerusalem. And as He was walking in the temple, the chief priests and the scribes and the elders *came to Him, 

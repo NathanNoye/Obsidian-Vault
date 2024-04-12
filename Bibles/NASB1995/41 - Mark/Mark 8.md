@@ -89,7 +89,7 @@ And He sent him to his home, saying, **"Do not even enter the village."**
 Jesus went out, along with His disciples, to the villages of Caesarea Philippi; and on the way He questioned His disciples, saying to them, **"Who do people say that I am?"** 
 
 ###### 28 
-They told Him, saying, "John the Baptist; and others _say_ Elijah; but others, one of the prophets." 
+They told Him, saying, "John the Baptist; and others _say_ [[Elijah]]; but others, one of the prophets." 
 
 ###### 29 
 And He _continued_ by questioning them, **"But who do you say that I am?"** Peter *answered and *said to Him, "You are the Christ." 

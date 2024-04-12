@@ -39,19 +39,23 @@ In the house the disciples _began_ questioning Him about this again.
 And He *said to them, **"Whoever divorces his wife and marries another woman commits adultery against her;** 
 
 ###### 12 
-and if she herself divorces her husband and marries another man, she is committing adultery."Jesus Blesses Little Children 
+and if she herself divorces her husband and marries another man, she is committing adultery."
+
+### Jesus Blesses Little Children 
 
 ###### 13 
 And they were bringing children to Him so that He might touch them; but the disciples rebuked them. 
 
 ###### 14 
-But when Jesus saw this, He was indignant and said to them, **"Permit the children to come to Me; do not hinder them; for the kingdom of God belongs to such as these.** 
+But when Jesus saw this, He was [[Word Definitions/Indignant.md|indignant]] and said to them, **"Permit the children to come to Me; do not hinder them; for the kingdom of God belongs to such as these.** 
 
 ###### 15 
 Truly I say to you, whoever does not receive the kingdom of God like a child will not enter it _at all_." 
 
 ###### 16 
-And He took them in His arms and _began_ blessing them, laying His hands on them.The Rich Young Ruler 
+And He took them in His arms and _began_ blessing them, laying His hands on them.
+
+### The Rich Young Ruler 
 
 ###### 17 
 As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, "Good Teacher, what shall I do to inherit eternal life?" 
@@ -96,7 +100,9 @@ Jesus said, **"Truly I say to you, there is no one who has left house or brother
 but that he will receive a hundred times as much now in the present age, houses and brothers and sisters and mothers and children and farms, along with persecutions; and in the age to come, eternal life. 
 
 ###### 31 
-But many _who are_ first will be last, and the last, first."Jesus' Sufferings Foretold 
+But many _who are_ first will be last, and the last, first."
+
+### Jesus' Sufferings Foretold 
 
 ###### 32 
 They were on the road going up to Jerusalem, and Jesus was walking on ahead of them; and they were amazed, and those who followed were fearful. And again He took the twelve aside and began to tell them what was going to happen to Him, 
@@ -138,7 +144,9 @@ But it is not this way among you, but whoever wishes to become great among you s
 and whoever wishes to be first among you shall be slave of all. 
 
 ###### 45 
-For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."Bartimaeus Receives His Sight 
+For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."
+
+### Bartimaeus Receives His Sight 
 
 ###### 46 
 Then they *came to Jericho. And as He was leaving Jericho with His disciples and a large crowd, a blind beggar _named_ Bartimaeus, the son of Timaeus, was sitting by the road. 
