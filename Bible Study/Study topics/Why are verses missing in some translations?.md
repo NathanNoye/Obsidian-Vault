@@ -9,7 +9,7 @@ TODO - fill this out with all the "missing" verses
 
 Sooooo the story of the woman caught in adultery wasn't written by John and appears no where else in the bible. 
 
-The first known occurrence of the Pericope Adulterae in a manuscript is in the Codex Bezae, which dates from the late 4th or early 5th century. However, the story itself could be older, possibly dating from the 2nd or 3rd century, as some early Christian writings hint at a story of Jesus dealing mercifully with a sinful woman, which could be an allusion to this pericope.
+The first known occurrence of the Pericope Adulterae in a manuscript is in the Codex Bezae, which dates from the late 4th or early 5th century. However, the story itself could be older, possibly dating from the 2nd or 3rd century, as some early Christian writings hint at a story of [[Jesus|Jesus]] dealing mercifully with a sinful woman, which could be an allusion to this pericope.
 
 
 https://www.gotquestions.org/missing-verses.html

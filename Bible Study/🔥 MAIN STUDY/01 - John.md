@@ -204,33 +204,33 @@ Finally, [[Jesus|Jesus]] refers to Himself as the "Good Shepherd," as a contrast
 
 ---
 # John 18
-[[Bibles/CSB/43 - John/John 18#6|John 18:6]] - "they" refers to the group of soldiers and officials from the chief priests and Pharisees who came to arrest Jesus in the Garden of Gethsemane. It doesn't tell us exactly why they fell but we can assume it's because they recognized his power. It also could be him saying "I am he", specifically the I AM part.
+[[Bibles/CSB/43 - John/John 18#6|John 18:6]] - "they" refers to the group of soldiers and officials from the chief priests and Pharisees who came to arrest [[Jesus|Jesus]] in the Garden of Gethsemane. It doesn't tell us exactly why they fell but we can assume it's because they recognized his power. It also could be him saying "I am he", specifically the I AM part.
 
-[[Bibles/CSB/43 - John/John 18#20|John 18:20]] - Although it doesn't look like there's much beyond the surface, it illustrates how we should be genuine. Jesus didn't said he didn't say anything in secret. We can apply that to not saying anything in secret that would deviate from how we're supposed to be. This doesn't mean we don't pray in secret or anything like that (that's not the context of what I'm saying). Jesus taught and was public and intentional with his words - we should be too. We shouldn't say one thing in public and another in secret - we need to be genuine. Doing this consistently will also change us from the inside and eventually to the outside where we will be living as a genuine person.
+[[Bibles/CSB/43 - John/John 18#20|John 18:20]] - Although it doesn't look like there's much beyond the surface, it illustrates how we should be genuine. [[Jesus|Jesus]] didn't said he didn't say anything in secret. We can apply that to not saying anything in secret that would deviate from how we're supposed to be. This doesn't mean we don't pray in secret or anything like that (that's not the context of what I'm saying). [[Jesus|Jesus]] taught and was public and intentional with his words - we should be too. We shouldn't say one thing in public and another in secret - we need to be genuine. Doing this consistently will also change us from the inside and eventually to the outside where we will be living as a genuine person.
 
 > [!warning]
 > This is just a thought, might not be accurate
 >
 
-[[Bibles/CSB/43 - John/John 18#36|John 18:36]] - made me think of how if Jesus were the ruler of this world - his followers would fight. Fight what? The enemy. Who's our enemy? The devil and demons and those who do their bidding. This isn't saying we shouldn't fight the devil and demons but made me think. It also made me think on how the devil is the ruler of the world. So using that same logic - his followers are fighting their enemy - us. 
+[[Bibles/CSB/43 - John/John 18#36|John 18:36]] - made me think of how if [[Jesus|Jesus]] were the ruler of this world - his followers would fight. Fight what? The enemy. Who's our enemy? The devil and demons and those who do their bidding. This isn't saying we shouldn't fight the devil and demons but made me think. It also made me think on how the devil is the ruler of the world. So using that same logic - his followers are fighting their enemy - us. 
 
 ---
 # John 19
-[[Bibles/CSB/43 - John/John 19#2|John 19:2]] - **Crown** of thorns and a **purple robe** - these were used to mock Jesus. Purple robes indicate royalty and the crown of thorns is double [[Word Definitions/Oxymoron.md|oxymoron]]. One is mocking him by putting a crown on his head with the intention NOT to mark him as king and the other one is the thorns represented sin in Genesis. Ironic.
+[[Bibles/CSB/43 - John/John 19#2|John 19:2]] - **Crown** of thorns and a **purple robe** - these were used to mock [[Jesus|Jesus]]. Purple robes indicate royalty and the crown of thorns is double [[Word Definitions/Oxymoron.md|oxymoron]]. One is mocking him by putting a crown on his head with the intention NOT to mark him as king and the other one is the thorns represented sin in Genesis. Ironic.
 
-[[Bibles/CSB/43 - John/John 19#23|John 19:23]] - Jesus is not dead yet but he is on the cross.
+[[Bibles/CSB/43 - John/John 19#23|John 19:23]] - [[Jesus|Jesus]] is not dead yet but he is on the cross.
 
 [[Bibles/CSB/43 - John/John 19#29|John 19:29]] - the Israelites used hyssop branches to cover their door frames in [[Bibles/CSB/02 - Exodus/Exod 12#22|Exod 12:22]]
 
-It's fascinating that over some verses - Pilate didn't want to kill Jesus but the Pharisees kept pushing Pilate to do it.
+It's fascinating that over some verses - Pilate didn't want to kill [[Jesus|Jesus]] but the Pharisees kept pushing Pilate to do it.
 
-[[Bibles/CSB/43 - John/John 19#8|John 19:8]] - Pilate, a gentile, knew the power of Jesus and his authority. Even just by hearing about Jesus, not even seeing the miracles, he knew there was more to this man than what others were saying WHILE the Pharisees wanted him dead - the people who should've had all the reasons to know who Jesus was.
+[[Bibles/CSB/43 - John/John 19#8|John 19:8]] - Pilate, a gentile, knew the power of [[Jesus|Jesus]] and his authority. Even just by hearing about [[Jesus|Jesus]], not even seeing the miracles, he knew there was more to this man than what others were saying WHILE the Pharisees wanted him dead - the people who should've had all the reasons to know who [[Jesus|Jesus]] was.
 
 [[Bibles/CSB/43 - John/John 19#13|John 19:13]] - "sixth hour" in roman times referred to the sixth hour AFTER the sunrise since time keeping started at the time when the sun rose. So this verse is basically saying around 12pm.
 
 [[Bibles/CSB/43 - John/John 19#15|John 19:15]] - Interesting passage, looks like 2 things going on. They're manipulating Pilate by playing on his political affiliation. Another perspective is it also looks like they're rejecting heavenly divinity for worldly power. 
 
-[[Bibles/CSB/43 - John/John 19#21|John 19:21]] - They wanted the sign to say that Jesus was self-proclaiming himself as the king of jews but Pilate said that he wrote what he wrote. Why didn't he change it? Could have been he didn't want to, didn't see a reason, or maybe it's a callback to earlier when Pilate became afraid about Jesus' authority in [[Bibles/CSB/43 - John/John 19#8|John 19:8]]. Seems to make sense. The chief priests wanted Jesus to look like he was proclaiming himself and that it's "only him" who sees himself as the king of the jews whereas the sign that Pilate wrote seems to confirm Jesus' kingship and authority (callback to the testimony statements?)
+[[Bibles/CSB/43 - John/John 19#21|John 19:21]] - They wanted the sign to say that [[Jesus|Jesus]] was self-proclaiming himself as the king of jews but Pilate said that he wrote what he wrote. Why didn't he change it? Could have been he didn't want to, didn't see a reason, or maybe it's a callback to earlier when Pilate became afraid about [[Jesus|Jesus]]' authority in [[Bibles/CSB/43 - John/John 19#8|John 19:8]]. Seems to make sense. The chief priests wanted [[Jesus|Jesus]] to look like he was proclaiming himself and that it's "only him" who sees himself as the king of the jews whereas the sign that Pilate wrote seems to confirm [[Jesus|Jesus]]' kingship and authority (callback to the testimony statements?)
 
 [[Bibles/CSB/43 - John/John 19#31|John 19:31]] - The Sabbath mentioned is referred to as a "special" or "high day" because it coincided with the Jewish festival of Passover. The "Preparation Day" was the day before the Sabbath, on which the Jews prepared for the Sabbath by finishing all work, as no work was allowed on the Sabbath itself.
 
@@ -242,23 +242,23 @@ It's fascinating that over some verses - Pilate didn't want to kill Jesus but th
 # John 20
 [[Bibles/CSB/43 - John/John 20#4|John 20:4]] - Hahahaha "I'm faster than you and everyone's gonna know it forever". [[Bible Study/People in the Bible/The Apostles/John|John]] would be 27 years at this age while [[Simon Peter (or Cephas)|Peter]] would be 32.
 
-[[Bibles/CSB/43 - John/John 20#19|John 20:19]] - It's unsure if the disciples recognized Jesus but once they saw his hands and side - they did.
+[[Bibles/CSB/43 - John/John 20#19|John 20:19]] - It's unsure if the disciples recognized [[Jesus|Jesus]] but once they saw his hands and side - they did.
 
 
 ---
 # John 21
-[[Bibles/CSB/43 - John/John 21#6|John 21:6]] - this parallels the first time the disciples didn't catch any fish but Jesus told them to cast their net in [[Bibles/CSB/42 - Luke/Luke 5#4|Luke 5:4-6]]. 
+[[Bibles/CSB/43 - John/John 21#6|John 21:6]] - this parallels the first time the disciples didn't catch any fish but [[Jesus|Jesus]] told them to cast their net in [[Bibles/CSB/42 - Luke/Luke 5#4|Luke 5:4-6]]. 
 
 Roger Spoke about this concept once and had this to say about it:
 
-> *I spoke on this about how when we don't feel or see God moving on our lives, we go back to our old habits and they don't work. The Disciples didn't know when Jesus was coming back so they decided to go back fishing. In John 21:3 - the verse tells us they caught nothing JUST like what happened before in Luke 5:5. They didn't know when Jesus was coming to see them so they when back to their old habits. Just then Jesus calls to them from the beach and tells them what to do and they listen. This results in them having abundantly more.*
+> *I spoke on this about how when we don't feel or see God moving on our lives, we go back to our old habits and they don't work. The Disciples didn't know when [[Jesus|Jesus]] was coming back so they decided to go back fishing. In John 21:3 - the verse tells us they caught nothing JUST like what happened before in Luke 5:5. They didn't know when [[Jesus|Jesus]] was coming to see them so they when back to their old habits. Just then [[Jesus|Jesus]] calls to them from the beach and tells them what to do and they listen. This results in them having abundantly more.*
 > 	**- Roger Reid**
 
 I paraphrased a bit but that's basically what he said.
 
-[[Bibles/CSB/43 - John/John 21#9|John 21:9]] - Callback to Jesus feeding the 5000
+[[Bibles/CSB/43 - John/John 21#9|John 21:9]] - Callback to [[Jesus|Jesus]] feeding the 5000
 
-[[Bibles/CSB/43 - John/John 21#15|John 21:15-17]] - Callback to Peter denying Jesus 3 times, this time Jesus RESTORES Peter 3 times.
+[[Bibles/CSB/43 - John/John 21#15|John 21:15-17]] - Callback to Peter denying [[Jesus|Jesus]] 3 times, this time [[Jesus|Jesus]] RESTORES Peter 3 times.
 
 [[Bibles/CSB/43 - John/John 21#19|John 21:19]] - Someone dying a brutal death doesn't seem like it would glorify God **ON THE SURFACE** but dig deeper and you'll see why. Peter died a terrible horrible death and could have renounced God to save himself BUT because of how much he loved God and had faith in him - he chose to follow what he knew was true and die in a horrible way. The reason this glorified God is because it shows how even something is horrible on the surface, Peter had faith until the end. It also showed these traits:
 - Faithfulness and Obedience
@@ -266,6 +266,6 @@ I paraphrased a bit but that's basically what he said.
 - Encouragement to Believers
 - Fulfillment of Prophecy
 
-[[Bibles/CSB/43 - John/John 21#20|John 21:20]] - This is John (The disciple Jesus loved). The following verses talk about how Peter shouldn't concern himself with John but rather focus on what Jesus is calling Peter to do.
+[[Bibles/CSB/43 - John/John 21#20|John 21:20]] - This is John (The disciple [[Jesus|Jesus]] loved). The following verses talk about how Peter shouldn't concern himself with John but rather focus on what [[Jesus|Jesus]] is calling Peter to do.
 
 [[Bibles/CSB/43 - John/John 21#24|John 21:24]] - Callback to the Jewish law requiring multiple testimonies about someone. This book is a testimony.

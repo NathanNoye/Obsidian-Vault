@@ -39,6 +39,19 @@
                 }
               },
               {
+                "id": "98d6cf5cd89d1f14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bibles/NASB1995/41 - Mark/Mark 9.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "bb58dfe29da3de19",
                 "type": "leaf",
                 "state": {
@@ -206,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Study/People in the Bible/Elijah.md",
+                "file": "Bibles/NASB1995/41 - Mark/Mark 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Study/People in the Bible/Elijah.md",
+                "file": "Bibles/NASB1995/41 - Mark/Mark 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Study/People in the Bible/Elijah.md"
+                "file": "Bibles/NASB1995/41 - Mark/Mark 9.md"
               }
             }
           }
@@ -272,11 +285,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bb58dfe29da3de19",
+  "active": "98d6cf5cd89d1f14",
   "lastOpenFiles": [
-    "Bibles/NASB1995/41 - Mark/Mark 9.md",
-    "Bible Study/People in the Bible/Elijah.md",
     "Bibles/NASB1995/41 - Mark/Mark 8.md",
+    "Bible Study/People in the Bible/Elijah.md",
+    "Bibles/NASB1995/41 - Mark/Mark 9.md",
     "Word Definitions/Rebuke.md",
     "Bibles/NASB1995/41 - Mark/Mark 7.md",
     "Word Definitions/Corban.md",

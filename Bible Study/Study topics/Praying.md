@@ -50,13 +50,13 @@ Some traditions include a [[Word Definitions/Doxology.md|doxology]] at the end, 
 
 The Lord’s Prayer encompasses worship, submission to God’s will, dependence on God for daily needs, the seeking of forgiveness, the practice of forgiving others, and the desire for spiritual protection and guidance.
 
-## Do we pray to Jesus, God, or the Holy Spirit?
-All prayer should be directed to our [[Word Definitions/Triune.md|triune]] God—Father, Son, and Holy Spirit. Prayer to one member of the Trinity is prayer to all because they are all God. Jesus assured His disciples that whatever they asked in His name—meaning in His will—would be granted
+## Do we pray to [[Jesus|Jesus]], God, or the Holy Spirit?
+All prayer should be directed to our [[Word Definitions/Triune.md|triune]] God—Father, Son, and Holy Spirit. Prayer to one member of the Trinity is prayer to all because they are all God. [[Jesus|Jesus]] assured His disciples that whatever they asked in His name—meaning in His will—would be granted
 
-## What does it mean to pray in Jesus’ name?
-Praying in Jesus’ name means praying with His authority (and recognizing it) and asking God the Father to act upon our prayers because we come in the name of His Son, Jesus. Some believe we add "In Jesus' name" to the end of the prayer as a little extra sprinkle of power but we need to understand WHY we pray in Jesus' name.
+## What does it mean to pray in [[Jesus|Jesus]]’ name?
+Praying in [[Jesus|Jesus]]’ name means praying with His authority (and recognizing it) and asking God the Father to act upon our prayers because we come in the name of His Son, [[Jesus|Jesus]]. Some believe we add "In [[Jesus|Jesus]]' name" to the end of the prayer as a little extra sprinkle of power but we need to understand WHY we pray in [[Jesus|Jesus]]' name.
 
-Jesus tells us in [[Bibles/CSB/43 - John/John 14#13|John 14:13]] "What ever you ask in my name, I will do it [...]" but some people mistake this as "I just need to pray this in Jesus' name and it'll be done" but that's not true. They miss the second half which is "[...] so that the Father may be glorified in the Son". 
+[[Jesus|Jesus]] tells us in [[Bibles/CSB/43 - John/John 14#13|John 14:13]] "What ever you ask in my name, I will do it [...]" but some people mistake this as "I just need to pray this in [[Jesus|Jesus]]' name and it'll be done" but that's not true. They miss the second half which is "[...] so that the Father may be glorified in the Son". 
 
 ## TL;DR - The practical section
 - Pray according to God's will, his will be done - not ours (that's that all people to be saved and to come to a knowledge of the truth)
