@@ -1,0 +1,21 @@
+- [ ] Homepage has the "beta banner" displayed
+- [ ] Can create an account and view dashboard
+	- [ ] Admin nav
+		- [ ] Clients
+		- [ ] Projects
+		- [ ] Scripts
+		- [ ] Contracts
+		- [ ] Invoices
+- [ ] Can create clients
+	- [ ] See timeline
+- [ ] Can create projects
+	- [ ] Can assign projects to client(s)
+		- [ ] Updates Client timeline
+- [ ] Can create scripts
+	- [ ] Scripts contain variables that are auto-detected with "{{VAR_NAME}}"
+		- [ ] Creates a list of inputs that you can fill in the variable values
+- [ ] Can create contracts
+	- [ ] Can attach to projects
+		- [ ] Attaching to a project creates a new copy so it can't be modified
+- [ ] Invoice generation
+	- [ ] Can attach to completed projects

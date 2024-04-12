@@ -51,6 +51,8 @@ Mark’s Gospel was likely written to a Gentile, possibly Roman, audience. This 
 
 ---
 # Mark 3
+[[Bibles/CSB/41 - Mark/Mark 3#27|Mark 3:27]] - This is reiterating the same points. Satan is the "strong man" in this story and his "house" is his domain and the goods are what he possesses. In Matthew, this is a blind and mute man whom Jesus releases from the power of a demon ([[Bibles/CSB/40 - Matthew/Matt 12#22|Matthew 12:22]]). Jesus cannot use Satan's power to cast out the demon because He needs to bind Satan in order to free the man. He does this through the power of the Holy Spirit.
+
 [[Bibles/CSB/41 - Mark/Mark 3#28|Mark 3:28]] to [[Bibles/CSB/41 - Mark/Mark 3#30|Mark 3:30]] - "The unforgivable sin" isn't what everyone makes it out to be. If you claim the works of God are actually the works of the devil - you are blaspheming. This sin is considered "unpardonable" not because God's mercy is limited, but because it represents a willful and persistent rejection of the truth of the Holy Spirit's testimony about Jesus. If you truly believe Jesus is the Son of God and his works are from God - you're fine. If someone who once rejected or spoke against the Holy Spirit later feels remorse and seeks to repent, the very act of repentance suggests that they have not committed the unforgivable sin in the final sense. 
 
 ---
@@ -58,7 +60,10 @@ Mark’s Gospel was likely written to a Gentile, possibly Roman, audience. This 
 [[Bibles/CSB/41 - Mark/Mark 4#12|Mark 4:12]] - Jesus is quoting from [[Bibles/CSB/23 - Isaiah/Isa 6#9|Isa 6:9]] to [[Bibles/CSB/23 - Isaiah/Isa 6#10|Isa 6:10]].
 
 The Parable of the sower explain lists 3 ways the word becomes unfruitful in people's lives:
-1. On the path: Satan comes and takes it away from them so we need to **guard it from Satan and hold it close.**
+1. On the path: Satan comes and takes it away from them so we need to **guard it from Satan and hold it close.** He takes the word away like this:
+	1. **Distraction and Deception**
+	2. **Hardening of Heart**
+	3. **Doubts and Misunderstandings**
 2. In the rocks: It's surface level, it doesn't go deep and affect them deeply. We need to absorb the word and let it grow inside of us.
 3. Amon the thorns: We don't trust it. We need to keep our eyes on Jesus and the word and not be swayed by this world.
 

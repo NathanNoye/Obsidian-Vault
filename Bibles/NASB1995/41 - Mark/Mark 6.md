@@ -21,7 +21,9 @@ Jesus said to them, **"A prophet is not without honor except in his hometown and
 And He could do no miracle there except that He laid His hands on a few sick people and healed them. 
 
 ###### 6 
-And He wondered at their unbelief. And He was going around the villages teaching.The Twelve Sent Out 
+And He wondered at their unbelief. And He was going around the villages teaching.
+
+### The Twelve Sent Out 
 
 ###### 7 
 And He *summoned the twelve and began to send them out in pairs, and gave them authority over the unclean spirits; 
@@ -42,7 +44,9 @@ Any place that does not receive you or listen to you, as you go out from there, 
 They went out and preached that _men_ should repent. 
 
 ###### 13 
-And they were casting out many demons and were anointing with oil many sick people and healing them.John's Fate Recalled 
+And they were casting out many demons and were anointing with oil many sick people and healing them.
+
+### John's Fate Recalled 
 
 ###### 14 
 And King Herod heard _of it_, for His name had become well known; and _people_ were saying, "John the Baptist has risen from the dead, and that is why these miraculous powers are at work in Him." 
@@ -99,7 +103,9 @@ The apostles *gathered together with Jesus; and they reported to Him all that th
 And He *said to them, **"Come away by yourselves to a secluded place and rest a while."** (For there were many _people_ coming and going, and they did not even have time to eat.) 
 
 ###### 32 
-They went away in the boat to a secluded place by themselves.Five Thousand Fed 
+They went away in the boat to a secluded place by themselves.
+
+### Five Thousand Fed 
 
 ###### 33 
 _The people_ saw them going, and many recognized _them_ and ran there together on foot from all the cities, and got there ahead of them. 
@@ -135,7 +141,9 @@ They all ate and were satisfied,
 and they picked up twelve full baskets of the broken pieces, and also of the fish. 
 
 ###### 44 
-There were five thousand men who ate the loaves.Jesus Walks on the Water 
+There were five thousand men who ate the loaves.
+
+### Jesus Walks on the Water 
 
 ###### 45 
 Immediately Jesus made His disciples get into the boat and go ahead of _Him_ to the other side to Bethsaida, while He Himself was sending the crowd away. 
@@ -159,7 +167,9 @@ for they all saw Him and were terrified. But immediately He spoke with them and 
 Then He got into the boat with them, and the wind stopped; and they were utterly astonished, 
 
 ###### 52 
-for they had not gained any insight from the _incident of_ the loaves, but their heart was hardened.Healing at Gennesaret 
+for they had not gained any insight from the _[[Word Definitions/Incident.md|incident]] of_ the loaves, but their heart was hardened.
+
+### Healing at Gennesaret 
 
 ###### 53 
 When they had crossed over they came to land at Gennesaret, and moored to the shore. 

@@ -39,7 +39,9 @@ As soon as He was alone, His followers, along with the twelve, _began_ asking Hi
 And He was saying to them, **"To you has been given the mystery of the kingdom of God, but those who are outside get everything in parables,** 
 
 ###### 12 
-so that while seeing, they may see and not perceive, and while hearing, they may hear and not understand, otherwise they might return and be forgiven."Explanation 
+so that while seeing, they may see and not perceive, and while hearing, they may hear and not understand, otherwise they might return and be forgiven."
+
+### Explanation 
 
 ###### 13 
 And He *said to them, **"Do you not understand this parable? How will you understand all the parables?** 
@@ -78,7 +80,9 @@ If anyone has ears to hear, let him hear."
 And He was saying to them, **"Take care what you listen to. By your standard of measure it will be measured to you; and more will be given you besides.** 
 
 ###### 25 
-For whoever has, to him _more_ shall be given; and whoever does not have, even what he has shall be taken away from him."Parable of the Seed 
+For whoever has, to him _more_ shall be given; and whoever does not have, even what he has shall be taken away from him."
+
+### Parable of the Seed 
 
 ###### 26 
 And He was saying, **"The kingdom of God is like a man who casts seed upon the soil;** 
@@ -90,7 +94,9 @@ and he goes to bed at night and gets up by day, and the seed sprouts and grows--
 The soil produces crops by itself; first the blade, then the head, then the mature grain in the head. 
 
 ###### 29 
-But when the crop permits, he immediately puts in the sickle, because the harvest has come."Parable of the Mustard Seed 
+But when the crop permits, he immediately puts in the sickle, because the harvest has come."
+
+### Parable of the Mustard Seed 
 
 ###### 30 
 And He said, **"How shall we picture the kingdom of God, or by what parable shall we present it?** 
@@ -105,7 +111,9 @@ yet when it is sown, it grows up and becomes larger than all the garden plants a
 With many such parables He was speaking the word to them, so far as they were able to hear it; 
 
 ###### 34 
-and He did not speak to them without a parable; but He was explaining everything privately to His own disciples.Jesus Stills the Sea 
+and He did not speak to them without a parable; but He was explaining everything privately to His own disciples.
+
+### Jesus Stills the Sea 
 
 ###### 35 
 On that day, when evening came, He *said to them, **"Let us go over to the other side."** 

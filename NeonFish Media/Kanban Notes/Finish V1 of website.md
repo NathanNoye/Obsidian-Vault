@@ -1,0 +1,18 @@
+- [ ] Convert sections into widgets
+	- [ ] This is so other "versions" of the website can be easily made
+	- [ ] Versions:
+		- [ ] Wedding
+		- [ ] Corporate
+		- [ ] Political
+		- [ ] Real Estate
+		- [ ] Music Video
+- [ ] Add contact form
+	- [x] Fix sending emails
+	- [ ] Move email sending over to function
+	- [x] Insert contact info into the DB
+- [ ] add a modal indicating that page is coming soon
+- [x] publish changes
+- [ ] Clean up code - I want to use this as an example for a website
+	- [ ] Add variables for scss
+	- [ ] add media query variable
+	- [ ] make "spacer" a component

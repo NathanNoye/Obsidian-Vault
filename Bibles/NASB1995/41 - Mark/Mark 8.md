@@ -81,7 +81,9 @@ And he looked up and said, "I see men, for I see _them_ like trees, walking arou
 Then again He laid His hands on his eyes; and he looked intently and was restored, and _began_ to see everything clearly. 
 
 ###### 26 
-And He sent him to his home, saying, **"Do not even enter the village."**Peter's Confession of Christ 
+And He sent him to his home, saying, **"Do not even enter the village."**
+
+### Peter's Confession of Christ 
 
 ###### 27 
 Jesus went out, along with His disciples, to the villages of Caesarea Philippi; and on the way He questioned His disciples, saying to them, **"Who do people say that I am?"** 
@@ -99,7 +101,7 @@ And He warned them to tell no one about Him.
 And He began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes, and be killed, and after three days rise again. 
 
 ###### 32 
-And He was stating the matter plainly. And Peter took Him aside and began to rebuke Him. 
+And He was stating the matter plainly. And Peter took Him aside and began to [[Word Definitions/Rebuke.md|rebuke]] Him. 
 
 ###### 33 
 But turning around and seeing His disciples, He rebuked Peter and *said, **"Get behind Me, Satan; for you are not setting your mind on God's interests, but man's."** 

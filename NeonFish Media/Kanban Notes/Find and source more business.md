@@ -1,0 +1,3 @@
+- [ ] Find businesses in Tatamagouche
+- [ ] Research their business
+- [ ] Create tailored scripts

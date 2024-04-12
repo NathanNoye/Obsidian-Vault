@@ -28,3 +28,7 @@ This is a condition in which a demon or unclean spirit has gained significant co
 **Key notes:** 
 - The disciples couldn't cast it out but Jesus could. Jesus said this kind doesn't come out except through prayer (some add "and fasting"). 
 - Some possessions are stronger than others so we need to be ready by spending time with God, having a relationship with him. Prayer and Fasting are good ways to build your relationship with him. Spending time in his word also.
+
+## Teachings about possession
+### The parable about the strong man
+[[Bibles/CSB/41 - Mark/Mark 3#27|Mark 3:27]] - This is reiterating the same points. Satan is the "strong man" in this story and his "house" is his domain and the goods are what he possesses. In Matthew, this is a blind and mute man whom Jesus releases from the power of a demon ([[Bibles/CSB/40 - Matthew/Matt 12#22|Matthew 12:22]]). Jesus cannot use Satan's power to cast out the demon because He needs to bind Satan in order to free the man. He does this through the power of the Holy Spirit.

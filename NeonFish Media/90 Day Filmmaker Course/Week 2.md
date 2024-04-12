@@ -2,7 +2,4 @@
 - Ask for referrals
 	- Contact the referral and name drop the referrer
 - Build a website
-	- Here's the layout:
-		- Hero section with your business name and tagline
-		- Video playing in the background
-		- Nav bar
+- 

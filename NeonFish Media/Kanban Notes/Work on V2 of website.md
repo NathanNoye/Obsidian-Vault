@@ -1,0 +1,3 @@
+- [ ] Political version
+- [ ] business version
+- [ ] Church version

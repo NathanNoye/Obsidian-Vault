@@ -36,13 +36,15 @@ He was also saying to them, **"You are experts at setting aside the commandment 
 For Moses said, 'Honor your father and your mother'; and, 'He who speaks evil of father or mother, is to be put to death'; 
 
 ###### 11 
-but you say, 'If a man says to _his_ father or _his_ mother, whatever I have that would help you is Corban (that is to say, given _to God_),' 
+but you say, 'If a man says to _his_ father or _his_ mother, whatever I have that would help you is [[Word Definitions/Corban.md|Corban]] (that is to say, given _to God_),' 
 
 ###### 12 
 you no longer permit him to do anything for _his_ father or _his_ mother; 
 
 ###### 13 
-_thus_ invalidating the word of God by your tradition which you have handed down; and you do many things such as that."The Heart of Man 
+_thus_ invalidating the word of God by your tradition which you have handed down; and you do many things such as that."
+
+### The Heart of Man 
 
 ###### 14 
 After He called the crowd to Him again, He _began_ saying to them, **"Listen to Me, all of you, and understand:** 
@@ -72,7 +74,9 @@ For from within, out of the heart of men, proceed the evil thoughts, fornication
 deeds of coveting _and_ wickedness, _as well as_ deceit, sensuality, envy, slander, pride _and_ foolishness. 
 
 ###### 23 
-All these evil things proceed from within and defile the man."The Syrophoenician Woman 
+All these evil things proceed from within and defile the man."
+
+### The Syrophoenician Woman 
 
 ###### 24 
 Jesus got up and went away from there to the region of Tyre. And when He had entered a house, He wanted no one to know _of it_; yet He could not escape notice. 

@@ -63,7 +63,9 @@ As He was getting into the boat, the man who had been demon-possessed was implor
 And He did not let him, but He *said to him, **"Go home to your people and report to them what great things the Lord has done for you, and _how_ He had mercy on you."** 
 
 ###### 20 
-And he went away and began to proclaim in Decapolis what great things Jesus had done for him; and everyone was amazed.Miracles and Healing 
+And he went away and began to proclaim in Decapolis what great things Jesus had done for him; and everyone was amazed.
+
+### Miracles and Healing 
 
 ###### 21 
 When Jesus had crossed over again in the boat to the other side, a large crowd gathered around Him; and so He stayed by the seashore. 

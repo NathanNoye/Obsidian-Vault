@@ -18,7 +18,7 @@ He *said to the man with the withered hand, **"Get up and come forward!"**
 And He *said to them, **"Is it lawful to do good or to do harm on the Sabbath, to save a life or to kill?"** But they kept silent. 
 
 ###### 5 
-After looking around at them with anger, grieved at their hardness of heart, He *said to the man, **"Stretch out your hand."** And he stretched it out, and his hand was restored. 
+After looking around at them with anger, [[Word Definitions/Grieved.md|grieved]] at their hardness of heart, He *said to the man, **"Stretch out your hand."** And he stretched it out, and his hand was restored. 
 
 ###### 6 
 The Pharisees went out and immediately _began_ conspiring with the Herodians against Him, _as to_ how they might destroy Him. 
@@ -86,7 +86,7 @@ If a house is divided against itself, that house will not be able to stand.
 If Satan has risen up against himself and is divided, he cannot stand, but he is finished! 
 
 ###### 27 
-But no one can enter the strong man's house and plunder his property unless he first binds the strong man, and then he will plunder his house. 
+But no one can enter the strong man's house and [[Word Definitions/Plunder.md|plunder]] his property unless he first binds the strong man, and then he will plunder his house. 
 
 ###### 28 
 "Truly I say to you, all sins shall be forgiven the sons of men, and whatever blasphemies they utter; 

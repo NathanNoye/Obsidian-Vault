@@ -7,10 +7,10 @@ Type: Coffee Shop
 Location: Tatamagouche
 
 ### New client checklist
-- [ ] Sent initial contact
-	- channel
-	- date
-	- message
+- [x] Sent initial contact
+	- channel: Facebook (Email if no response by the next day)
+	- date: April 11th 2024 @ 3:15pm
+	- message: [[Free video script]]
 
 
 ### Work I've done for them:
