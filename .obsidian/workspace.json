@@ -26,6 +26,58 @@
                 }
               },
               {
+                "id": "d3a89149ce77d16e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Clients/Masstown Movement.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d8358d4eb03fcbc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Questions with Clients.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b9ed0d6fe215a447",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Video Styles/Small Business Promo.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4efc586d38e64886",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NeonFish Media/Motion CRM.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "1d1ce4b796200af2",
                 "type": "leaf",
                 "state": {
@@ -50,21 +102,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "1aaaa8f85aa12d34",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bible Study/People in the Bible/Elijah.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "b99199c62ef3d3b7",
@@ -166,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibles/NASB1995/41 - Mark/Mark 13.md",
+                "file": "NeonFish Media/Motion CRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibles/NASB1995/41 - Mark/Mark 13.md",
+                "file": "NeonFish Media/Motion CRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibles/NASB1995/41 - Mark/Mark 13.md"
+                "file": "NeonFish Media/Motion CRM.md"
               }
             }
           }
@@ -232,19 +272,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b52487bc7738bf83",
+  "active": "4efc586d38e64886",
   "lastOpenFiles": [
+    "NeonFish Media/Video Styles/Small Business Promo.md",
+    "NeonFish Media/Scripts/Free video script.md",
+    "NeonFish Media/Questions with Clients.md",
+    "NeonFish Media/Clients/Masstown Movement.md",
+    "NeonFish Media/Motion CRM.md",
+    "NeonFish Media/Social Media Strategy.md",
+    "Bibles/NASB1995/41 - Mark/Mark 13.md",
+    "NeonFish Media/Clients/Meeting Waters.md",
+    "NeonFish Media/Kanban Notes/Finish V1 of website.md",
+    "Bible Study/People in the Bible/Elijah.md",
+    "Obsidian MD cheat sheet.md",
+    "Jobber Final Interview.md",
+    "NeonFish Media/Video Styles",
+    "NeonFish Media/90 Day Filmmaker Course/Week 2.md",
     "Bibles/NASB1995/41 - Mark/Mark 9.md",
     "Bibles/NASB1995/41 - Mark/Mark 10.md",
     "Bibles/NASB1995/41 - Mark/Mark 11.md",
     "Bibles/NASB1995/41 - Mark/Mark 12.md",
-    "Bibles/NASB1995/41 - Mark/Mark 13.md",
-    "Bible Study/People in the Bible/Elijah.md",
     "NeonFish Media/Kanban.md",
-    "NeonFish Media/Video Business App.md",
     "NeonFish Media/Kanban Notes/Work on V2 of website.md",
-    "NeonFish Media/Kanban Notes/Finish V1 of website.md",
-    "NeonFish Media/Clients/Meeting Waters.md",
     "NeonFish Media/Kanban Notes/Reach out to meeting waters coffee for a free promotional video @{2024-04-12}.md",
     "Word Definitions/Foremost.md",
     "Word Definitions/Marry.md",
@@ -252,14 +301,6 @@
     "Word Definitions/Vat.md",
     "Bible Study/🔥 MAIN STUDY/02 - Mark.md",
     "Bible Study/Study topics/Demonic interactions - possessions and influences.md",
-    "Bibles/NASB1995/41 - Mark/Mark 8.md",
-    "Word Definitions/Rebuke.md",
-    "Bibles/NASB1995/41 - Mark/Mark 7.md",
-    "Word Definitions/Corban.md",
-    "Bibles/NASB1995/41 - Mark/Mark 6.md",
-    "Word Definitions/Incident.md",
-    "Bibles/NASB1995/41 - Mark/Mark 5.md",
-    "NeonFish Media/Kanban Notes/Find and source more business.md",
     "NeonFish Media/Video Business App",
     "Books/Lets be blunt/illustrations",
     "Books/Lets be blunt",
@@ -269,7 +310,6 @@
     "NeonFish Media/Kanban Notes",
     "NeonFish Media/Clients/Untitled",
     "NeonFish Media/Clients",
-    "NeonFish Media",
     "Programming notes/Images/Pasted image 20240318164731.png",
     "Bible Study/Sermons?/Trusting God when it's weird/34bbfee9-9b6b-4831-9f64-d79509255ff5_text.gif",
     "Untitled.canvas",

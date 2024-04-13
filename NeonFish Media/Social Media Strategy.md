@@ -1,0 +1,6 @@
+- [ ] Post content for social media when starting a new project:
+	- [ ] Location scout
+	- [ ] Behind the scenes
+	- [ ] Editing process
+	- [ ] Teaser
+	- [ ] Full video release
